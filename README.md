@@ -8,6 +8,15 @@ Keep in mind that area codes do not guarantee a location, since numbers can easi
 
 I am, of course, trusting that the sources I used were "accurate". It's possible (likely even) that there are errors. Please do not use this data to dispatch ambulances and fire trucks.
 
+## Countries So Far 
+
+BR
+CA
+CH
+FR
+UK
+US
+
 ## File Formats
 
 Files begin with the country code (in ISO 3166 format) and are all UTF-8 encoded CSVs. Pretty much anything should be able to open them, including random text editors and your favorite programming language.
