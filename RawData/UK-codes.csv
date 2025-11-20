@@ -1,42 +1,36 @@
-﻿44113,UK,113,,Leeds,,Yorkshire,,Primary Leeds code
-44114,UK,114,,Sheffield,,South Yorkshire,,Primary Sheffield code
-44115,UK,115,,Nottingham,,Nottinghamshire,,Primary Nottingham code
-44116,UK,116,,Leicester,,Leicestershire,,Primary Leicester code
-44117,UK,117,,Bristol,,South West,,Primary Bristol code
-44118,UK,118,,Reading,,Berkshire,,Primary Reading code
-,,,,,,,,
-44121,UK,121,,Birmingham,,West Midlands,,Core Birmingham code
-44131,UK,131,,Edinburgh,,Lothian,,Primary Edinburgh code
-44141,UK,141,,Glasgow,,Strathclyde,,Primary Glasgow code
-44151,UK,151,,Liverpool,,Merseyside,,Primary Liverpool code
-44161,UK,161,,Manchester,,Greater Manchester,,Primary Manchester code
-44191,UK,191,,Tyneside,Sunderland,North East,,Merged Tyneside–Wearside area
-,,,,,,,,
-441202,UK,1202,,Bournemouth,,Dorset,,Local Bournemouth code
-441223,UK,1223,,Cambridge,,Cambridgeshire,,Local Cambridge code
-441242,UK,1242,,Cheltenham,,Gloucestershire,,Local Cheltenham code
-441273,UK,1273,,Brighton,,East Sussex,,Local Brighton code
-441382,UK,1382,,Dundee,,Tayside,,Local Dundee code
-441382,UK,1382,,Dundee,,Tayside,,Local Dundee code
-441422,UK,1422,,Halifax,,West Yorkshire,,Local Halifax code
-441463,UK,1463,,Inverness,,Highland,,Local Inverness code
-441483,UK,1483,,Guildford,,Surrey,,Local Guildford code
-441494,UK,1494,,High Wycombe,,Buckinghamshire,,Local High Wycombe code
-,,,,,,,,
-441524,UK,1524,,Lancaster,,Lancashire,,Local Lancaster code
-441603,UK,1603,,Norwich,,Norfolk,,Local Norwich code
-441708,UK,1708,,Romford,,Greater London,,Outer London code
-441732,UK,1732,,Sevenoaks,,Kent,,Local Sevenoaks code
-441733,UK,1733,,Peterborough,,Cambridgeshire,,Local Peterborough code
-441762,UK,1762,,Ripon,,North Yorkshire,,Local Ripon code
-,,,,,,,,
-441902,UK,1902,,Wolverhampton,,West Midlands,,Local Wolverhampton code
-441932,UK,1932,,Weybridge,,Surrey,,Local Weybridge code
-441953,UK,1953,,Wymondham,,Norfolk,,Local Wymondham code
-441974,UK,1974,,Aberystwyth,,Ceredigion,,Local Aberystwyth code
-441975,UK,1975,,Stonehaven,,Aberdeenshire,,Local Stonehaven code
-441976,UK,1976,,Banff,,Aberdeenshire,,Local Banff code
-,,,,,,,,
-4420,UK,20,,London,,Greater London,,London's main area code
-4428,UK,28,,Belfast,,Northern Ireland,,Unified NI numbering zone
-4429,UK,29,,Cardiff,,South Wales,,Unified Cardiff–South Wales zone
+﻿44113,UK,113,Yorkshire,Leeds,,,,Primary Leeds code
+44114,UK,114,South Yorkshire,Sheffield,,,,Primary Sheffield code
+44115,UK,115,Nottinghamshire,Nottingham,,,,Primary Nottingham code
+44116,UK,116,Leicestershire,Leicester,,,,Primary Leicester code
+44117,UK,117,South West,Bristol,,,,Primary Bristol code
+44118,UK,118,Berkshire,Reading,,,,Primary Reading code
+44121,UK,121,West Midlands,Birmingham,,,,Core Birmingham code
+44131,UK,131,Lothian,Edinburgh,,,,Primary Edinburgh code
+44141,UK,141,Strathclyde,Glasgow,,,,Primary Glasgow code
+44151,UK,151,Merseyside,Liverpool,,,,Primary Liverpool code
+44161,UK,161,Greater Manchester,Manchester,,,,Primary Manchester code
+44191,UK,191,North East,Tyneside,Sunderland,,,Merged Tyneside–Wearside area
+441202,UK,1202,Dorset,Bournemouth,,,,Local Bournemouth code
+441223,UK,1223,Cambridgeshire,Cambridge,,,,Local Cambridge code
+441242,UK,1242,Gloucestershire,Cheltenham,,,,Local Cheltenham code
+441273,UK,1273,East Sussex,Brighton,,,,Local Brighton code
+441382,UK,1382,Tayside,Dundee,,,,Local Dundee code
+441422,UK,1422,West Yorkshire,Halifax,,,,Local Halifax code
+441463,UK,1463,Highland,Inverness,,,,Local Inverness code
+441483,UK,1483,Surrey,Guildford,,,,Local Guildford code
+441494,UK,1494,Buckinghamshire,High Wycombe,,,,Local High Wycombe code
+441524,UK,1524,Lancashire,Lancaster,,,,Local Lancaster code
+441603,UK,1603,Norfolk,Norwich,,,,Local Norwich code
+441708,UK,1708,Greater London,Romford,,,,Outer London code
+441732,UK,1732,Kent,Sevenoaks,,,,Local Sevenoaks code
+441733,UK,1733,Cambridgeshire,Peterborough,,,,Local Peterborough code
+441762,UK,1762,North Yorkshire,Ripon,,,,Small cathedral city code
+441792,UK,1792,West Glamorgan,Swansea,,,,Local Swansea code
+441803,UK,1803,Devon,Torquay,,,,Local Torquay code
+441865,UK,1865,Oxfordshire,Oxford,,,,Local Oxford code
+441904,UK,1904,North Yorkshire,York,,,,Local York code
+441908,UK,1908,Buckinghamshire,Milton Keynes,,,,New city code
+441924,UK,1924,West Yorkshire,Wakefield,,,,Local Wakefield code
+441962,UK,1962,Hampshire,Winchester,,,,Local Winchester code
+4420,UK,20,London,London,,,,"The ""020"" code. Massive coverage."
+447,UK,7,UK Wide,Mobile Phones,,,,Non-geographic mobile prefix
