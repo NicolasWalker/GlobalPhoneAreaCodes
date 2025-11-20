@@ -1,6 +1,6 @@
 # Area-Code-Geolocation-Database
 
-Area Codes for as many countries as we could identify in the following order: E.164,Country,AreaCode,State,Reg,City,Region2,Region3,Commentary in easy to read CSV format.
+Area Codes for as many countries as we could identify in the following order: E.164,Country,AreaCode,State,MainCity,City2,Region1,Region2,Commentary in easy to read CSV format.
 
 There have been a number of times where I wanted to be able to map (roughly) where a phone number was, or to find "nearby" numbers. This seems to be a fairly rare thing to do, as it's much harder to find area code data than it is to find (eg) zip code data. There are commercial versions out there that cost anywhere from a hundred dollars to well over a thousand, on an ongoing/subscription basis. It seemed silly to pay that much money for for public data, so I finally sat down and used that public data to compile a list that could be shared. No commercial products were used when compiling these documents, all sources are listed below if you wish to verify that. A fair amount of data cleansing was done to match everything up and (hopefully) end up with useful / authoritative city and state/province names.
 
