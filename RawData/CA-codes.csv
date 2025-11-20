@@ -1,41 +1,41 @@
-﻿1204,Canada,204,MB,Manitoba,,,,Friendly Manitoba. One of the original 1947 codes.
-1226,Canada,226,ON,Southwest Ontario,,,,Overlay for 519 (London/Windsor).
-1236,Canada,236,BC,British Columbia,,,,Province-wide overlay for BC.
-1249,Canada,249,ON,Northern Ontario,,,,Overlay for 705 (Sudbury/Muskoka).
-1250,Canada,250,BC,BC Interior / Island,,,, Kelowna. Everything outside Vancouver Metro.
-1289,Canada,289,ON,GTA Suburbs,,,,Overlay for 905 (Toronto Suburbs).
-1306,Canada,306,SK,Saskatchewan,,,,Rider Nation. The original Saskatchewan code.
-1343,Canada,343,ON,Ottawa / East ON,,,,Overlay for 613 (National Capital Region).
-1365,Canada,365,ON,GTA Suburbs,,,,Newer overlay for the 905 belt.
-1403,Canada,403,AB,Southern Alberta,Calgary,,," Banff. The ""Cowtown"" code."
-1416,Canada,416,ON,Toronto (Core),,,,The 6ix. Drake made this code famous. Strictly downtown status.
-1418,Canada,418,QC,Eastern Quebec,Quebec City,,, Saguenay. Francophone heartland.
-1431,Canada,431,MB,Manitoba,,,,Newer overlay for Winnipeg/Manitoba.
-1437,Canada,437,ON,Toronto (Core),,,,The newest overlay for downtown Toronto.
-1438,Canada,438,QC,Montreal,,,,Newer overlay for Montreal Island.
-1450,Canada,450,QC,Montreal Suburbs,Laval,,, Longueuil. The commuter belt code.
-1506,Canada,506,NB,New Brunswick,,,,The only officially bilingual province.
-1514,Canada,514,QC,Montreal (Island),,,,"The ""212"" of Quebec. Historic urban and culturally significant"
-1519,Canada,519,ON,Southwest Ontario,Waterloo,,," The ""Tech Triangle"" (Blackberry birthplace)."
-1548,Canada,548,ON,Southwest Ontario,,,,Newer overlay for 519.
-1579,Canada,579,QC,Montreal Suburbs,,,,Newer overlay for 450.
-1581,Canada,581,QC,Eastern Quebec,,,,Newer overlay for Quebec City.
-1587,Canada,587,AB,Alberta,,,,Province-wide overlay (created during the oil boom).
-1604,Canada,604,BC,Vancouver (Metro),,,,"The original BC code. ""The 604"" lifestyle brand."
-1613,Canada,613,ON,Eastern Ontario,Ottawa,,, Kingston. The Political Capital code.
-1639,Canada,639,SK,Saskatchewan,,,,Newer overlay for Saskatchewan.
-1647,Canada,647,ON,Toronto (Metro),,,,"The first overlay for Toronto (2001). Very common  but not ""OG"" like 416."
-1672,Canada,672,BC,British Columbia,,,,Future/New overlay.
-1705,Canada,705,ON,Northern Ontario,,,,Cottage Country. Synonymous with summer vacations by the lake.
-1709,Canada,709,NL,Newfoundland & Labrador,,,,Unique time zone (+30 mins). Distinct local culture.
-1753,Canada,753,ON,Eastern Ontario,,,,Future overlay for Ottawa area.
-1778,Canada,778,BC,British Columbia,,,,Ubiquitous mobile code across BC.
-1780,Canada,780,AB,Northern Alberta,Edmonton,,," Oil Sands. The ""Gretzky Era"" code."
-1782,Canada,782,NS/PE,Nova Scotia & PEI,,,,Newer overlay for the Maritimes.
-1807,Canada,807,ON,Northwest Ontario,,,,Thunder Bay. Culturally closer to Winnipeg than Toronto.
-1819,Canada,819,QC,Western Quebec,Gatineau, Hull, Tremblant,
-1825,Canada,825,AB,Alberta,,,,Newest Alberta overlay.
-1867,Canada,867,Territories,Yukon, Nunavut,,,"The ""Arctic"" code. Covers 40% of Canada's land mass."
-1873,Canada,873,QC,Western Quebec,,,,Newer overlay for 819.
-1902,Canada,902,NS/PE,Nova Scotia & PEI,Halifax,,, Charlottetown. Trailer Park Boys setting.
-1905,Canada,905,ON,GTA (Suburbs),Mississauga,,," Brampton. ""The 905"" refers to the suburban commuter ring."
+﻿1204,CA,204,Manitoba,Winnipeg,,,,"Friendly Manitoba. One of the original 1947 codes."
+1226,CA,226,Ontario,London / Windsor,,,,Overlay for 519 (Southwest Ontario).
+1236,CA,236,British Columbia,British Columbia,,,,"Province-wide overlay."
+1249,CA,249,Ontario,Sudbury / Muskoka,,,,Overlay for 705 (Northern Ontario).
+1250,CA,250,British Columbia,Victoria / Kelowna,,,,"BC Interior and Vancouver Island. 'The Island' lifestyle."
+1289,CA,289,Ontario,GTA Suburbs,,,,"Overlay for 905 (Hamilton/Niagara/Peel/York/Durham)."
+1306,CA,306,Saskatchewan,Saskatoon / Regina,,,,"Rider Nation. The original Saskatchewan code."
+1343,CA,343,Ontario,Ottawa,,,,"Overlay for 613 (National Capital Region)."
+1365,CA,365,Ontario,GTA Suburbs,,,,Newer overlay for the 905 belt.
+1403,CA,403,Alberta,Calgary / Banff,,,,"The 'Cowtown' code. Stampede City and Rockies gateway."
+1416,CA,416,Ontario,Toronto (Core),,,,"The 6ix. Drake made this code famous. Strictly downtown status."
+1418,CA,418,Quebec,Quebec City / Saguenay,,,,"Francophone heartland. Old Quebec (UNESCO)."
+1431,CA,431,Manitoba,Manitoba,,,,Newer overlay for Winnipeg/Manitoba.
+1437,CA,437,Ontario,Toronto (Core),,,,The newest overlay for downtown Toronto.
+1438,CA,438,Quebec,Montreal,,,,Newer overlay for Montreal Island.
+1450,CA,450,Quebec,Laval / Longueuil,,,,"The 450. Montreal's off-island suburbs (banlieues)."
+1506,CA,506,New Brunswick,Fredericton / Moncton,,,,"The only officially bilingual province."
+1514,CA,514,Quebec,Montreal (Island),,,,"The '212' of Quebec. Historic, urban, and culturally vibrant."
+1519,CA,519,Ontario,Waterloo / Kitchener,,,,"The 'Tech Triangle'. Blackberry birthplace."
+1548,CA,548,Ontario,Southwest Ontario,,,,Newer overlay for 519.
+1579,CA,579,Quebec,Montreal Suburbs,,,,Newer overlay for 450.
+1581,CA,581,Quebec,Eastern Quebec,,,,Newer overlay for Quebec City/418.
+1587,CA,587,Alberta,Alberta,,,,"Province-wide overlay (created during the oil boom)."
+1604,CA,604,British Columbia,Vancouver (Metro),,,,"The original BC code. 'The 604' lifestyle brand."
+1613,CA,613,Ontario,Ottawa / Kingston,,,,"The Political Capital code. Eastern Ontario."
+1639,CA,639,Saskatchewan,Saskatchewan,,,,Newer overlay for Saskatchewan.
+1647,CA,647,Ontario,Toronto (Metro),,,,"First Toronto overlay (2001). Common but lacks 416 prestige."
+1672,CA,672,British Columbia,British Columbia,,,,Future/New overlay.
+1705,CA,705,Ontario,Northern Ontario,,,,"Cottage Country. Synonymous with summer vacations by the lake."
+1709,CA,709,Newfoundland & Labrador,St. John's,,,,"The Rock. Unique time zone (+30 mins). Friendly locals."
+1753,CA,753,Ontario,Eastern Ontario,,,,Future overlay for Ottawa area.
+1778,CA,778,British Columbia,British Columbia,,,,"Ubiquitous code across BC (Mobile/Landline)."
+1780,CA,780,Alberta,Edmonton / North,,,,"Oil Sands capital. The 'Gretzky Era' code."
+1782,CA,782,Nova Scotia / PEI,Maritimes,,,,Overlay for 902.
+1807,CA,807,Ontario,Thunder Bay,,,,"Northwest Ontario. Closer to Winnipeg than Toronto."
+1819,CA,819,Quebec,Gatineau / Sherbrooke,,,,"Western Quebec. National Capital Region (QC side)."
+1825,CA,825,Alberta,Alberta,,,,Newest Alberta overlay.
+1867,CA,867,Territories,Yukon / NWT / Nunavut,,,,"The 'Arctic' code. Covers 40% of Canada's land mass."
+1873,CA,873,Quebec,Western Quebec,,,,Newer overlay for 819.
+1902,CA,902,Nova Scotia / PEI,Halifax / Charlottetown,,,,"The Maritimes. Trailer Park Boys setting. Anne of Green Gables."
+1905,CA,905,Ontario,GTA (Suburbs),Mississauga / Brampton,,,,"'The 905'. The suburban commuter ring around Toronto."
