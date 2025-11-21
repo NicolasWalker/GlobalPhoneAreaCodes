@@ -4,7 +4,7 @@
     "code": "21",
     "country": "RO",
     "region": "Bucharest",
-    "city": "",
+    "city": "Bucharest",
     "e164": "4021",
     "notes": "The Capital. 'Little Paris'. Palace of the Parliament (heaviest building)."
   },
@@ -12,8 +12,8 @@
     "id": "40232",
     "code": "232",
     "country": "RO",
-    "region": "Iași",
-    "city": "",
+    "region": "Ia\u0219i",
+    "city": "Ia\u0219i",
     "e164": "40232",
     "notes": "Cultural Capital. Palace of Culture. Oldest University."
   },
@@ -21,8 +21,8 @@
     "id": "40241",
     "code": "241",
     "country": "RO",
-    "region": "Constanța",
-    "city": "",
+    "region": "Constan\u021ba",
+    "city": "Constan\u021ba",
     "e164": "40241",
     "notes": "Black Sea port. Mamaia beach resort. Ancient Tomis."
   },
@@ -31,7 +31,7 @@
     "code": "251",
     "country": "RO",
     "region": "Craiova",
-    "city": "",
+    "city": "Craiova",
     "e164": "40251",
     "notes": "Oltenia capital. Art Museum (Brancusi works)."
   },
@@ -39,8 +39,8 @@
     "id": "40256",
     "code": "256",
     "country": "RO",
-    "region": "Timișoara",
-    "city": "",
+    "region": "Timi\u0219oara",
+    "city": "Timi\u0219oara",
     "e164": "40256",
     "notes": "'Little Vienna'. 1989 Revolution birthplace. European Capital of Culture 2023."
   },
@@ -49,7 +49,7 @@
     "code": "264",
     "country": "RO",
     "region": "Cluj-Napoca",
-    "city": "",
+    "city": "Cluj-Napoca",
     "e164": "40264",
     "notes": "Transylvania's heart. Untold Festival. IT hub."
   },
@@ -57,8 +57,8 @@
     "id": "40268",
     "code": "268",
     "country": "RO",
-    "region": "Brașov",
-    "city": "",
+    "region": "Bra\u0219ov",
+    "city": "Bra\u0219ov",
     "e164": "40268",
     "notes": "Medieval Saxon city. Gateway to Bran (Dracula) Castle."
   },
@@ -67,7 +67,7 @@
     "code": "269",
     "country": "RO",
     "region": "Sibiu",
-    "city": "",
+    "city": "Sibiu",
     "e164": "40269",
     "notes": "European Capital of Culture 2007. Brukenthal Museum. Saxon heritage."
   },

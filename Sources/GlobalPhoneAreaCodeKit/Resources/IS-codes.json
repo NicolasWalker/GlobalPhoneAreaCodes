@@ -3,8 +3,8 @@
     "id": "3545",
     "code": "5",
     "country": "IS",
-    "region": "Reykjavík",
-    "city": "Kópavogur",
+    "region": "Reykjav\u00edk",
+    "city": "K\u00f3pavogur",
     "e164": "3545",
     "notes": "Numbers starting with 5 are mostly Capital Area fixed lines"
   },
@@ -13,7 +13,7 @@
     "code": "4",
     "country": "IS",
     "region": "Akureyri",
-    "city": "Keflavík",
+    "city": "Keflav\u00edk",
     "e164": "3544",
     "notes": "Numbers starting with 4 are often regional fixed lines"
   },

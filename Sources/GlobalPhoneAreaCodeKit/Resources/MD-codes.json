@@ -3,8 +3,8 @@
     "id": "37322",
     "code": "22",
     "country": "MD",
-    "region": "Chișinău",
-    "city": "",
+    "region": "Chi\u0219in\u0103u",
+    "city": "Chi\u0219in\u0103u",
     "e164": "37322",
     "notes": "The Capital. Soviet modernist architecture and green parks. Stefan cel Mare boulevard."
   },
@@ -12,8 +12,8 @@
     "id": "373231",
     "code": "231",
     "country": "MD",
-    "region": "Bălți",
-    "city": "",
+    "region": "B\u0103l\u021bi",
+    "city": "B\u0103l\u021bi",
     "e164": "373231",
     "notes": "'Northern Capital'. Industrial and cultural center."
   },
@@ -22,7 +22,7 @@
     "code": "291",
     "country": "MD",
     "region": "Cahul",
-    "city": "",
+    "city": "Cahul",
     "e164": "373291",
     "notes": "Southern cultural center. Folk music festivals."
   },
@@ -31,7 +31,7 @@
     "code": "533",
     "country": "MD",
     "region": "Tiraspol",
-    "city": "",
+    "city": "Tiraspol",
     "e164": "373533",
     "notes": "De facto capital of Transnistria. Soviet relics."
   },
@@ -40,7 +40,7 @@
     "code": "298",
     "country": "MD",
     "region": "Comrat",
-    "city": "",
+    "city": "Comrat",
     "e164": "373298",
     "notes": "Capital of the autonomous Gagauz region. Turkic heritage."
   },
@@ -78,6 +78,6 @@
     "region": "Mobile",
     "city": "",
     "e164": "37367",
-    "notes": "Unité"
+    "notes": "Unit\u00e9"
   }
 ]

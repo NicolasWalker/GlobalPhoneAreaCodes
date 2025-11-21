@@ -4,7 +4,7 @@
     "code": "113",
     "country": "UK",
     "region": "Leeds",
-    "city": "",
+    "city": "Leeds",
     "e164": "44113",
     "notes": "Primary Leeds code"
   },
@@ -13,7 +13,7 @@
     "code": "114",
     "country": "UK",
     "region": "Sheffield",
-    "city": "",
+    "city": "Sheffield",
     "e164": "44114",
     "notes": "Primary Sheffield code"
   },
@@ -22,7 +22,7 @@
     "code": "115",
     "country": "UK",
     "region": "Nottingham",
-    "city": "",
+    "city": "Nottingham",
     "e164": "44115",
     "notes": "Primary Nottingham code"
   },
@@ -31,7 +31,7 @@
     "code": "116",
     "country": "UK",
     "region": "Leicester",
-    "city": "",
+    "city": "Leicester",
     "e164": "44116",
     "notes": "Primary Leicester code"
   },
@@ -40,7 +40,7 @@
     "code": "117",
     "country": "UK",
     "region": "Bristol",
-    "city": "",
+    "city": "Bristol",
     "e164": "44117",
     "notes": "Primary Bristol code"
   },
@@ -49,7 +49,7 @@
     "code": "118",
     "country": "UK",
     "region": "Reading",
-    "city": "",
+    "city": "Reading",
     "e164": "44118",
     "notes": "Primary Reading code"
   },
@@ -58,7 +58,7 @@
     "code": "121",
     "country": "UK",
     "region": "Birmingham",
-    "city": "",
+    "city": "Birmingham",
     "e164": "44121",
     "notes": "Core Birmingham code"
   },
@@ -67,7 +67,7 @@
     "code": "131",
     "country": "UK",
     "region": "Edinburgh",
-    "city": "",
+    "city": "Edinburgh",
     "e164": "44131",
     "notes": "Primary Edinburgh code"
   },
@@ -76,7 +76,7 @@
     "code": "141",
     "country": "UK",
     "region": "Glasgow",
-    "city": "",
+    "city": "Glasgow",
     "e164": "44141",
     "notes": "Primary Glasgow code"
   },
@@ -85,7 +85,7 @@
     "code": "151",
     "country": "UK",
     "region": "Liverpool",
-    "city": "",
+    "city": "Liverpool",
     "e164": "44151",
     "notes": "Primary Liverpool code"
   },
@@ -94,7 +94,7 @@
     "code": "161",
     "country": "UK",
     "region": "Manchester",
-    "city": "",
+    "city": "Manchester",
     "e164": "44161",
     "notes": "Primary Manchester code"
   },
@@ -103,16 +103,16 @@
     "code": "191",
     "country": "UK",
     "region": "Tyneside",
-    "city": "Sunderland",
+    "city": "Newcastle / Sunderland",
     "e164": "44191",
-    "notes": "Merged Tyneside–Wearside area"
+    "notes": "Merged Tyneside\u2013Wearside area"
   },
   {
     "id": "441202",
     "code": "1202",
     "country": "UK",
     "region": "Bournemouth",
-    "city": "",
+    "city": "Bournemouth",
     "e164": "441202",
     "notes": "Local Bournemouth code"
   },
@@ -121,7 +121,7 @@
     "code": "1223",
     "country": "UK",
     "region": "Cambridge",
-    "city": "",
+    "city": "Cambridge",
     "e164": "441223",
     "notes": "Local Cambridge code"
   },
@@ -130,7 +130,7 @@
     "code": "1242",
     "country": "UK",
     "region": "Cheltenham",
-    "city": "",
+    "city": "Cheltenham",
     "e164": "441242",
     "notes": "Local Cheltenham code"
   },
@@ -139,7 +139,7 @@
     "code": "1273",
     "country": "UK",
     "region": "Brighton",
-    "city": "",
+    "city": "Brighton",
     "e164": "441273",
     "notes": "Local Brighton code"
   },
@@ -148,7 +148,7 @@
     "code": "1382",
     "country": "UK",
     "region": "Dundee",
-    "city": "",
+    "city": "Dundee",
     "e164": "441382",
     "notes": "Local Dundee code"
   },
@@ -157,7 +157,7 @@
     "code": "1422",
     "country": "UK",
     "region": "Halifax",
-    "city": "",
+    "city": "Halifax",
     "e164": "441422",
     "notes": "Local Halifax code"
   },
@@ -166,7 +166,7 @@
     "code": "1463",
     "country": "UK",
     "region": "Inverness",
-    "city": "",
+    "city": "Inverness",
     "e164": "441463",
     "notes": "Local Inverness code"
   },
@@ -175,7 +175,7 @@
     "code": "1483",
     "country": "UK",
     "region": "Guildford",
-    "city": "",
+    "city": "Guildford",
     "e164": "441483",
     "notes": "Local Guildford code"
   },
@@ -184,7 +184,7 @@
     "code": "1494",
     "country": "UK",
     "region": "High Wycombe",
-    "city": "",
+    "city": "High Wycombe",
     "e164": "441494",
     "notes": "Local High Wycombe code"
   },
@@ -193,7 +193,7 @@
     "code": "1524",
     "country": "UK",
     "region": "Lancaster",
-    "city": "",
+    "city": "Lancaster",
     "e164": "441524",
     "notes": "Local Lancaster code"
   },
@@ -202,7 +202,7 @@
     "code": "1603",
     "country": "UK",
     "region": "Norwich",
-    "city": "",
+    "city": "Norwich",
     "e164": "441603",
     "notes": "Local Norwich code"
   },
@@ -211,7 +211,7 @@
     "code": "1708",
     "country": "UK",
     "region": "Romford",
-    "city": "",
+    "city": "Romford",
     "e164": "441708",
     "notes": "Outer London code"
   },
@@ -220,7 +220,7 @@
     "code": "1732",
     "country": "UK",
     "region": "Sevenoaks",
-    "city": "",
+    "city": "Sevenoaks",
     "e164": "441732",
     "notes": "Local Sevenoaks code"
   },
@@ -229,7 +229,7 @@
     "code": "1733",
     "country": "UK",
     "region": "Peterborough",
-    "city": "",
+    "city": "Peterborough",
     "e164": "441733",
     "notes": "Local Peterborough code"
   },
@@ -238,7 +238,7 @@
     "code": "1762",
     "country": "UK",
     "region": "Ripon",
-    "city": "",
+    "city": "Ripon",
     "e164": "441762",
     "notes": "Small cathedral city code"
   },
@@ -247,7 +247,7 @@
     "code": "1792",
     "country": "UK",
     "region": "Swansea",
-    "city": "",
+    "city": "Swansea",
     "e164": "441792",
     "notes": "Local Swansea code"
   },
@@ -256,7 +256,7 @@
     "code": "1803",
     "country": "UK",
     "region": "Torquay",
-    "city": "",
+    "city": "Torquay",
     "e164": "441803",
     "notes": "Local Torquay code"
   },
@@ -265,7 +265,7 @@
     "code": "1865",
     "country": "UK",
     "region": "Oxford",
-    "city": "",
+    "city": "Oxford",
     "e164": "441865",
     "notes": "Local Oxford code"
   },
@@ -274,7 +274,7 @@
     "code": "1904",
     "country": "UK",
     "region": "York",
-    "city": "",
+    "city": "York",
     "e164": "441904",
     "notes": "Local York code"
   },
@@ -283,7 +283,7 @@
     "code": "1908",
     "country": "UK",
     "region": "Milton Keynes",
-    "city": "",
+    "city": "Milton Keynes",
     "e164": "441908",
     "notes": "New city code"
   },
@@ -292,7 +292,7 @@
     "code": "1924",
     "country": "UK",
     "region": "Wakefield",
-    "city": "",
+    "city": "Wakefield",
     "e164": "441924",
     "notes": "Local Wakefield code"
   },
@@ -301,7 +301,7 @@
     "code": "1962",
     "country": "UK",
     "region": "Winchester",
-    "city": "",
+    "city": "Winchester",
     "e164": "441962",
     "notes": "Local Winchester code"
   },
@@ -310,7 +310,7 @@
     "code": "20",
     "country": "UK",
     "region": "London",
-    "city": "",
+    "city": "London",
     "e164": "4420",
     "notes": "The \"020\" code. Massive coverage."
   },

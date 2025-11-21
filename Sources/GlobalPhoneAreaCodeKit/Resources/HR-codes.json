@@ -4,7 +4,7 @@
     "code": "1",
     "country": "HR",
     "region": "Zagreb",
-    "city": "",
+    "city": "Zagreb",
     "e164": "3851",
     "notes": "Capital and economic hub"
   },
@@ -13,7 +13,7 @@
     "code": "21",
     "country": "HR",
     "region": "Split",
-    "city": "",
+    "city": "Split",
     "e164": "38521",
     "notes": "Largest coastal city - Diocletian's Palace"
   },
@@ -22,7 +22,7 @@
     "code": "51",
     "country": "HR",
     "region": "Rijeka",
-    "city": "",
+    "city": "Rijeka",
     "e164": "38551",
     "notes": "Principal seaport"
   },
@@ -31,7 +31,7 @@
     "code": "31",
     "country": "HR",
     "region": "Osijek",
-    "city": "",
+    "city": "Osijek",
     "e164": "38531",
     "notes": "Largest city in the east"
   },
@@ -40,7 +40,7 @@
     "code": "23",
     "country": "HR",
     "region": "Zadar",
-    "city": "",
+    "city": "Zadar",
     "e164": "38523",
     "notes": "Historic coastal city - Sea Organ"
   },
@@ -49,7 +49,7 @@
     "code": "20",
     "country": "HR",
     "region": "Dubrovnik",
-    "city": "",
+    "city": "Dubrovnik",
     "e164": "38520",
     "notes": "Pearl of the Adriatic"
   },
@@ -66,8 +66,8 @@
     "id": "38542",
     "code": "42",
     "country": "HR",
-    "region": "Varaždin",
-    "city": "",
+    "region": "Vara\u017edin",
+    "city": "Vara\u017edin",
     "e164": "38542",
     "notes": "Baroque city in the north"
   },
@@ -76,7 +76,7 @@
     "code": "44",
     "country": "HR",
     "region": "Sisak",
-    "city": "",
+    "city": "Sisak",
     "e164": "38544",
     "notes": "Industrial center near Zagreb"
   },
@@ -85,7 +85,7 @@
     "code": "35",
     "country": "HR",
     "region": "Slavonski Brod",
-    "city": "",
+    "city": "Slavonski Brod",
     "e164": "38535",
     "notes": "Border city on the Sava river"
   },
@@ -94,7 +94,7 @@
     "code": "47",
     "country": "HR",
     "region": "Karlovac",
-    "city": "",
+    "city": "Karlovac",
     "e164": "38547",
     "notes": "The city of four rivers"
   },
@@ -102,8 +102,8 @@
     "id": "38522",
     "code": "22",
     "country": "HR",
-    "region": "Šibenik",
-    "city": "",
+    "region": "\u0160ibenik",
+    "city": "\u0160ibenik",
     "e164": "38522",
     "notes": "Gateway to Kornati Islands"
   }

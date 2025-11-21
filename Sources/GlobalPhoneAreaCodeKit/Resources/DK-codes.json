@@ -4,7 +4,7 @@
     "code": "2",
     "country": "DK",
     "region": "Copenhagen / Zealand",
-    "city": "",
+    "city": "Copenhagen / Zealand",
     "e164": "452",
     "notes": "The Capital Region. Tivoli, Little Mermaid, Noma."
   },
@@ -13,7 +13,7 @@
     "code": "3",
     "country": "DK",
     "region": "Zealand / Islands",
-    "city": "",
+    "city": "Zealand / Islands",
     "e164": "453",
     "notes": "Historic Viking towns like Roskilde."
   },
@@ -22,7 +22,7 @@
     "code": "4",
     "country": "DK",
     "region": "Zealand / South",
-    "city": "",
+    "city": "Zealand / South",
     "e164": "454",
     "notes": "Commuter belt and coastal towns."
   },
@@ -31,7 +31,7 @@
     "code": "5",
     "country": "DK",
     "region": "Funen / Odense",
-    "city": "",
+    "city": "Funen / Odense",
     "e164": "455",
     "notes": "Hans Christian Andersen's birthplace."
   },
@@ -40,7 +40,7 @@
     "code": "6",
     "country": "DK",
     "region": "South Jutland",
-    "city": "",
+    "city": "South Jutland",
     "e164": "456",
     "notes": "Border region with Germany. Lego HQ (Billund)."
   },
@@ -49,7 +49,7 @@
     "code": "7",
     "country": "DK",
     "region": "West / Central Jutland",
-    "city": "",
+    "city": "West / Central Jutland",
     "e164": "457",
     "notes": "Rugged west coast. Wind energy hub."
   },
@@ -58,7 +58,7 @@
     "code": "8",
     "country": "DK",
     "region": "East Jutland / Aarhus",
-    "city": "",
+    "city": "East Jutland / Aarhus",
     "e164": "458",
     "notes": "University city. 'City of Smiles'."
   },
@@ -67,7 +67,7 @@
     "code": "9",
     "country": "DK",
     "region": "North Jutland / Aalborg",
-    "city": "",
+    "city": "North Jutland / Aalborg",
     "e164": "459",
     "notes": "Top of Denmark. Skagen painters and dunes."
   },

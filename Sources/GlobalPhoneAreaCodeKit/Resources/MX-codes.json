@@ -22,7 +22,7 @@
     "code": "81",
     "country": "MX",
     "region": "Monterrey",
-    "city": "San Pedro Garza García",
+    "city": "San Pedro Garza Garc\u00eda",
     "e164": "5281",
     "notes": "Industrial capital of the north - Business hub"
   },
@@ -39,8 +39,8 @@
     "id": "52442",
     "code": "442",
     "country": "MX",
-    "region": "Santiago de Querétaro",
-    "city": "",
+    "region": "Santiago de Quer\u00e9taro",
+    "city": "Santiago de Quer\u00e9taro",
     "e164": "52442",
     "notes": "Safe and rapidly growing industrial city"
   },
@@ -48,8 +48,8 @@
     "id": "52998",
     "code": "998",
     "country": "MX",
-    "region": "Cancún",
-    "city": "",
+    "region": "Canc\u00fan",
+    "city": "Canc\u00fan",
     "e164": "52998",
     "notes": "Major Caribbean tourist destination"
   },
@@ -58,7 +58,7 @@
     "code": "664",
     "country": "MX",
     "region": "Tijuana",
-    "city": "",
+    "city": "Tijuana",
     "e164": "52664",
     "notes": "Busiest border crossing in the world"
   },
@@ -66,8 +66,8 @@
     "id": "52999",
     "code": "999",
     "country": "MX",
-    "region": "Mérida",
-    "city": "",
+    "region": "M\u00e9rida",
+    "city": "M\u00e9rida",
     "e164": "52999",
     "notes": "The White City - Mayan culture hub"
   },
@@ -76,7 +76,7 @@
     "code": "614",
     "country": "MX",
     "region": "Chihuahua City",
-    "city": "",
+    "city": "Chihuahua City",
     "e164": "52614",
     "notes": "Capital of the largest state"
   },
@@ -84,8 +84,8 @@
     "id": "52477",
     "code": "477",
     "country": "MX",
-    "region": "León",
-    "city": "",
+    "region": "Le\u00f3n",
+    "city": "Le\u00f3n",
     "e164": "52477",
     "notes": "Shoe capital of the world"
   },
@@ -94,7 +94,7 @@
     "code": "662",
     "country": "MX",
     "region": "Hermosillo",
-    "city": "",
+    "city": "Hermosillo",
     "e164": "52662",
     "notes": "The Sun City in the desert"
   },
@@ -102,8 +102,8 @@
     "id": "52871",
     "code": "871",
     "country": "MX",
-    "region": "Torreón",
-    "city": "Gómez Palacio",
+    "region": "Torre\u00f3n",
+    "city": "G\u00f3mez Palacio",
     "e164": "52871",
     "notes": "Laguna region cotton hub"
   },
@@ -121,7 +121,7 @@
     "code": "449",
     "country": "MX",
     "region": "Aguascalientes",
-    "city": "",
+    "city": "Aguascalientes",
     "e164": "52449",
     "notes": "San Marcos Fair location"
   },
@@ -129,8 +129,8 @@
     "id": "52961",
     "code": "961",
     "country": "MX",
-    "region": "Tuxtla Gutiérrez",
-    "city": "",
+    "region": "Tuxtla Guti\u00e9rrez",
+    "city": "Tuxtla Guti\u00e9rrez",
     "e164": "52961",
     "notes": "Gateway to Sumidero Canyon"
   },
@@ -139,7 +139,7 @@
     "code": "322",
     "country": "MX",
     "region": "Puerto Vallarta",
-    "city": "",
+    "city": "Puerto Vallarta",
     "e164": "52322",
     "notes": "Pacific coast resort town"
   },
@@ -148,7 +148,7 @@
     "code": "624",
     "country": "MX",
     "region": "Cabo San Lucas",
-    "city": "San José del Cabo",
+    "city": "San Jos\u00e9 del Cabo",
     "e164": "52624",
     "notes": "Luxury tourism corridor"
   },
@@ -157,7 +157,7 @@
     "code": "744",
     "country": "MX",
     "region": "Acapulco",
-    "city": "",
+    "city": "Acapulco",
     "e164": "52744",
     "notes": "Legendary beach destination"
   },
@@ -166,7 +166,7 @@
     "code": "229",
     "country": "MX",
     "region": "Veracruz City",
-    "city": "Boca del Río",
+    "city": "Boca del R\u00edo",
     "e164": "52229",
     "notes": "Major Gulf port and carnival city"
   },
@@ -174,8 +174,8 @@
     "id": "52667",
     "code": "667",
     "country": "MX",
-    "region": "Culiacán",
-    "city": "",
+    "region": "Culiac\u00e1n",
+    "city": "Culiac\u00e1n",
     "e164": "52667",
     "notes": "Agricultural heartland of the northwest"
   }

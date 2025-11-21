@@ -4,7 +4,7 @@
     "code": "17",
     "country": "BY",
     "region": "Minsk",
-    "city": "",
+    "city": "Minsk",
     "e164": "37517",
     "notes": "Capital and largest city"
   },
@@ -13,7 +13,7 @@
     "code": "162",
     "country": "BY",
     "region": "Brest",
-    "city": "",
+    "city": "Brest",
     "e164": "375162",
     "notes": "Brest Fortress  border with Poland"
   },
@@ -22,7 +22,7 @@
     "code": "212",
     "country": "BY",
     "region": "Vitebsk",
-    "city": "",
+    "city": "Vitebsk",
     "e164": "375212",
     "notes": "Cultural capital  Slavianski Bazaar festival"
   },
@@ -31,7 +31,7 @@
     "code": "232",
     "country": "BY",
     "region": "Gomel",
-    "city": "",
+    "city": "Gomel",
     "e164": "375232",
     "notes": "Second largest city  park and palace ensemble"
   },
@@ -40,7 +40,7 @@
     "code": "152",
     "country": "BY",
     "region": "Grodno",
-    "city": "",
+    "city": "Grodno",
     "e164": "375152",
     "notes": "Historic city near Polish/Lithuanian borders"
   },
@@ -49,7 +49,7 @@
     "code": "222",
     "country": "BY",
     "region": "Mogilev",
-    "city": "",
+    "city": "Mogilev",
     "e164": "375222",
     "notes": "Eastern industrial hub"
   },
@@ -58,7 +58,7 @@
     "code": "163",
     "country": "BY",
     "region": "Baranovichi",
-    "city": "",
+    "city": "Baranovichi",
     "e164": "375163",
     "notes": "Major railway junction"
   },
@@ -67,7 +67,7 @@
     "code": "177",
     "country": "BY",
     "region": "Borisov",
-    "city": "",
+    "city": "Borisov",
     "e164": "375177",
     "notes": "Industrial city on the Berezina river"
   },
@@ -76,7 +76,7 @@
     "code": "225",
     "country": "BY",
     "region": "Bobruysk",
-    "city": "",
+    "city": "Bobruysk",
     "e164": "375225",
     "notes": "One of the oldest cities  tire manufacturing"
   },
@@ -85,7 +85,7 @@
     "code": "165",
     "country": "BY",
     "region": "Pinsk",
-    "city": "",
+    "city": "Pinsk",
     "e164": "375165",
     "notes": "Capital of the Polesia region"
   },
@@ -94,7 +94,7 @@
     "code": "216",
     "country": "BY",
     "region": "Orsha",
-    "city": "",
+    "city": "Orsha",
     "e164": "375216",
     "notes": "Important transport node"
   },
@@ -103,7 +103,7 @@
     "code": "214",
     "country": "BY",
     "region": "Polotsk",
-    "city": "",
+    "city": "Polotsk",
     "e164": "375214",
     "notes": "Oldest city in Belarus"
   },
@@ -112,7 +112,7 @@
     "code": "174",
     "country": "BY",
     "region": "Soligorsk",
-    "city": "",
+    "city": "Soligorsk",
     "e164": "375174",
     "notes": "Potash mining center"
   }

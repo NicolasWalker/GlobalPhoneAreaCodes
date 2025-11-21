@@ -13,7 +13,7 @@
     "code": "2",
     "country": "IT",
     "region": "Milan",
-    "city": "",
+    "city": "Milan",
     "e164": "3902",
     "notes": "Fashion and Finance Capital"
   },
@@ -22,7 +22,7 @@
     "code": "11",
     "country": "IT",
     "region": "Turin",
-    "city": "",
+    "city": "Turin",
     "e164": "39011",
     "notes": "Automotive hub (Fiat) - The Alps"
   },
@@ -31,7 +31,7 @@
     "code": "81",
     "country": "IT",
     "region": "Naples",
-    "city": "",
+    "city": "Naples",
     "e164": "39081",
     "notes": "Birthplace of Pizza - Mount Vesuvius"
   },
@@ -40,7 +40,7 @@
     "code": "41",
     "country": "IT",
     "region": "Venice",
-    "city": "",
+    "city": "Venice",
     "e164": "39041",
     "notes": "The Lagoon City - Tourism hub"
   },
@@ -49,7 +49,7 @@
     "code": "55",
     "country": "IT",
     "region": "Florence",
-    "city": "",
+    "city": "Florence",
     "e164": "39055",
     "notes": "Renaissance Capital - Art and History"
   },
@@ -58,7 +58,7 @@
     "code": "51",
     "country": "IT",
     "region": "Bologna",
-    "city": "",
+    "city": "Bologna",
     "e164": "39051",
     "notes": "The Learned City - Oldest University"
   },
@@ -67,7 +67,7 @@
     "code": "10",
     "country": "IT",
     "region": "Genoa",
-    "city": "",
+    "city": "Genoa",
     "e164": "39010",
     "notes": "Major Port City"
   },
@@ -76,7 +76,7 @@
     "code": "91",
     "country": "IT",
     "region": "Palermo",
-    "city": "",
+    "city": "Palermo",
     "e164": "39091",
     "notes": "Capital of Sicily"
   },
@@ -85,7 +85,7 @@
     "code": "80",
     "country": "IT",
     "region": "Bari",
-    "city": "",
+    "city": "Bari",
     "e164": "39080",
     "notes": "Port city on the Adriatic"
   },
@@ -94,7 +94,7 @@
     "code": "45",
     "country": "IT",
     "region": "Verona",
-    "city": "",
+    "city": "Verona",
     "e164": "39045",
     "notes": "City of Romeo and Juliet"
   },
@@ -103,7 +103,7 @@
     "code": "95",
     "country": "IT",
     "region": "Catania",
-    "city": "",
+    "city": "Catania",
     "e164": "39095",
     "notes": "City near Mount Etna"
   },
@@ -112,7 +112,7 @@
     "code": "40",
     "country": "IT",
     "region": "Trieste",
-    "city": "",
+    "city": "Trieste",
     "e164": "39040",
     "notes": "Coffee capital - Port city"
   },
@@ -121,7 +121,7 @@
     "code": "70",
     "country": "IT",
     "region": "Cagliari",
-    "city": "",
+    "city": "Cagliari",
     "e164": "39070",
     "notes": "Capital of Sardinia"
   },

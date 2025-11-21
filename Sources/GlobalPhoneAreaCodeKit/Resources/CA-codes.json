@@ -4,7 +4,7 @@
     "code": "204",
     "country": "CA",
     "region": "Winnipeg",
-    "city": "",
+    "city": "Winnipeg",
     "e164": "1204",
     "notes": "Friendly Manitoba. One of the original 1947 codes."
   },
@@ -13,7 +13,7 @@
     "code": "226",
     "country": "CA",
     "region": "London / Windsor",
-    "city": "",
+    "city": "London / Windsor",
     "e164": "1226",
     "notes": "Overlay for 519 (Southwest Ontario)."
   },
@@ -22,7 +22,7 @@
     "code": "236",
     "country": "CA",
     "region": "British Columbia",
-    "city": "",
+    "city": "British Columbia",
     "e164": "1236",
     "notes": "Province-wide overlay."
   },
@@ -31,7 +31,7 @@
     "code": "249",
     "country": "CA",
     "region": "Sudbury / Muskoka",
-    "city": "",
+    "city": "Sudbury / Muskoka",
     "e164": "1249",
     "notes": "Overlay for 705 (Northern Ontario)."
   },
@@ -40,7 +40,7 @@
     "code": "250",
     "country": "CA",
     "region": "Victoria / Kelowna",
-    "city": "",
+    "city": "Victoria / Kelowna",
     "e164": "1250",
     "notes": "BC Interior and Vancouver Island. 'The Island' lifestyle."
   },
@@ -49,7 +49,7 @@
     "code": "289",
     "country": "CA",
     "region": "GTA Suburbs",
-    "city": "",
+    "city": "GTA Suburbs",
     "e164": "1289",
     "notes": "Overlay for 905 (Hamilton/Niagara/Peel/York/Durham)."
   },
@@ -58,7 +58,7 @@
     "code": "306",
     "country": "CA",
     "region": "Saskatoon / Regina",
-    "city": "",
+    "city": "Saskatoon / Regina",
     "e164": "1306",
     "notes": "Rider Nation. The original Saskatchewan code."
   },
@@ -67,7 +67,7 @@
     "code": "343",
     "country": "CA",
     "region": "Ottawa",
-    "city": "",
+    "city": "Ottawa",
     "e164": "1343",
     "notes": "Overlay for 613 (National Capital Region)."
   },
@@ -76,7 +76,7 @@
     "code": "365",
     "country": "CA",
     "region": "GTA Suburbs",
-    "city": "",
+    "city": "GTA Suburbs",
     "e164": "1365",
     "notes": "Newer overlay for the 905 belt."
   },
@@ -85,7 +85,7 @@
     "code": "403",
     "country": "CA",
     "region": "Calgary / Banff",
-    "city": "",
+    "city": "Calgary / Banff",
     "e164": "1403",
     "notes": "The 'Cowtown' code. Stampede City and Rockies gateway."
   },
@@ -94,7 +94,7 @@
     "code": "416",
     "country": "CA",
     "region": "Toronto (Core)",
-    "city": "",
+    "city": "Toronto (Core)",
     "e164": "1416",
     "notes": "The 6ix. Drake made this code famous. Strictly downtown status."
   },
@@ -103,7 +103,7 @@
     "code": "418",
     "country": "CA",
     "region": "Quebec City / Saguenay",
-    "city": "",
+    "city": "Quebec City / Saguenay",
     "e164": "1418",
     "notes": "Francophone heartland. Old Quebec (UNESCO)."
   },
@@ -112,7 +112,7 @@
     "code": "431",
     "country": "CA",
     "region": "Manitoba",
-    "city": "",
+    "city": "Manitoba",
     "e164": "1431",
     "notes": "Newer overlay for Winnipeg/Manitoba."
   },
@@ -121,7 +121,7 @@
     "code": "437",
     "country": "CA",
     "region": "Toronto (Core)",
-    "city": "",
+    "city": "Toronto (Core)",
     "e164": "1437",
     "notes": "The newest overlay for downtown Toronto."
   },
@@ -130,7 +130,7 @@
     "code": "438",
     "country": "CA",
     "region": "Montreal",
-    "city": "",
+    "city": "Montreal",
     "e164": "1438",
     "notes": "Newer overlay for Montreal Island."
   },
@@ -139,7 +139,7 @@
     "code": "450",
     "country": "CA",
     "region": "Laval / Longueuil",
-    "city": "",
+    "city": "Laval / Longueuil",
     "e164": "1450",
     "notes": "The 450. Montreal's off-island suburbs (banlieues)."
   },
@@ -157,7 +157,7 @@
     "code": "514",
     "country": "CA",
     "region": "Montreal (Island)",
-    "city": "",
+    "city": "Montreal (Island)",
     "e164": "1514",
     "notes": "The '212' of Quebec. Historic, urban, and culturally vibrant."
   },
@@ -166,7 +166,7 @@
     "code": "519",
     "country": "CA",
     "region": "Waterloo / Kitchener",
-    "city": "",
+    "city": "Waterloo / Kitchener",
     "e164": "1519",
     "notes": "The 'Tech Triangle'. Blackberry birthplace."
   },
@@ -175,7 +175,7 @@
     "code": "548",
     "country": "CA",
     "region": "Southwest Ontario",
-    "city": "",
+    "city": "Southwest Ontario",
     "e164": "1548",
     "notes": "Newer overlay for 519."
   },
@@ -184,7 +184,7 @@
     "code": "579",
     "country": "CA",
     "region": "Montreal Suburbs",
-    "city": "",
+    "city": "Montreal Suburbs",
     "e164": "1579",
     "notes": "Newer overlay for 450."
   },
@@ -193,7 +193,7 @@
     "code": "581",
     "country": "CA",
     "region": "Eastern Quebec",
-    "city": "",
+    "city": "Eastern Quebec",
     "e164": "1581",
     "notes": "Newer overlay for Quebec City/418."
   },
@@ -202,7 +202,7 @@
     "code": "587",
     "country": "CA",
     "region": "Alberta",
-    "city": "",
+    "city": "Alberta",
     "e164": "1587",
     "notes": "Province-wide overlay (created during the oil boom)."
   },
@@ -211,7 +211,7 @@
     "code": "604",
     "country": "CA",
     "region": "Vancouver (Metro)",
-    "city": "",
+    "city": "Vancouver (Metro)",
     "e164": "1604",
     "notes": "The original BC code. 'The 604' lifestyle brand."
   },
@@ -220,7 +220,7 @@
     "code": "613",
     "country": "CA",
     "region": "Ottawa / Kingston",
-    "city": "",
+    "city": "Ottawa / Kingston",
     "e164": "1613",
     "notes": "The Political Capital code. Eastern Ontario."
   },
@@ -229,7 +229,7 @@
     "code": "639",
     "country": "CA",
     "region": "Saskatchewan",
-    "city": "",
+    "city": "Saskatchewan",
     "e164": "1639",
     "notes": "Newer overlay for Saskatchewan."
   },
@@ -238,7 +238,7 @@
     "code": "647",
     "country": "CA",
     "region": "Toronto (Metro)",
-    "city": "",
+    "city": "Toronto (Metro)",
     "e164": "1647",
     "notes": "First Toronto overlay (2001). Common but lacks 416 prestige."
   },
@@ -247,7 +247,7 @@
     "code": "672",
     "country": "CA",
     "region": "British Columbia",
-    "city": "",
+    "city": "British Columbia",
     "e164": "1672",
     "notes": "Future/New overlay."
   },
@@ -256,7 +256,7 @@
     "code": "705",
     "country": "CA",
     "region": "Northern Ontario",
-    "city": "",
+    "city": "Northern Ontario",
     "e164": "1705",
     "notes": "Cottage Country. Synonymous with summer vacations by the lake."
   },
@@ -265,7 +265,7 @@
     "code": "709",
     "country": "CA",
     "region": "St. John's",
-    "city": "",
+    "city": "St. John's",
     "e164": "1709",
     "notes": "The Rock. Unique time zone (+30 mins). Friendly locals."
   },
@@ -274,7 +274,7 @@
     "code": "753",
     "country": "CA",
     "region": "Eastern Ontario",
-    "city": "",
+    "city": "Eastern Ontario",
     "e164": "1753",
     "notes": "Future overlay for Ottawa area."
   },
@@ -283,7 +283,7 @@
     "code": "778",
     "country": "CA",
     "region": "British Columbia",
-    "city": "",
+    "city": "British Columbia",
     "e164": "1778",
     "notes": "Ubiquitous code across BC (Mobile/Landline)."
   },
@@ -292,7 +292,7 @@
     "code": "780",
     "country": "CA",
     "region": "Edmonton / North",
-    "city": "",
+    "city": "Edmonton / North",
     "e164": "1780",
     "notes": "Oil Sands capital. The 'Gretzky Era' code."
   },
@@ -301,7 +301,7 @@
     "code": "782",
     "country": "CA",
     "region": "Maritimes",
-    "city": "",
+    "city": "Maritimes",
     "e164": "1782",
     "notes": "Overlay for 902."
   },
@@ -310,7 +310,7 @@
     "code": "807",
     "country": "CA",
     "region": "Thunder Bay",
-    "city": "",
+    "city": "Thunder Bay",
     "e164": "1807",
     "notes": "Northwest Ontario. Closer to Winnipeg than Toronto."
   },
@@ -319,7 +319,7 @@
     "code": "819",
     "country": "CA",
     "region": "Gatineau / Sherbrooke",
-    "city": "",
+    "city": "Gatineau / Sherbrooke",
     "e164": "1819",
     "notes": "Western Quebec. National Capital Region (QC side)."
   },
@@ -328,7 +328,7 @@
     "code": "825",
     "country": "CA",
     "region": "Alberta",
-    "city": "",
+    "city": "Alberta",
     "e164": "1825",
     "notes": "Newest Alberta overlay."
   },
@@ -337,7 +337,7 @@
     "code": "867",
     "country": "CA",
     "region": "Yukon / NWT / Nunavut",
-    "city": "",
+    "city": "Yukon / NWT / Nunavut",
     "e164": "1867",
     "notes": "The 'Arctic' code. Covers 40% of Canada's land mass."
   },
@@ -346,7 +346,7 @@
     "code": "873",
     "country": "CA",
     "region": "Western Quebec",
-    "city": "",
+    "city": "Western Quebec",
     "e164": "1873",
     "notes": "Newer overlay for 819."
   },
@@ -355,7 +355,7 @@
     "code": "902",
     "country": "CA",
     "region": "Halifax / Charlottetown",
-    "city": "",
+    "city": "Halifax / Charlottetown",
     "e164": "1902",
     "notes": "The Maritimes. Trailer Park Boys setting. Anne of Green Gables."
   },

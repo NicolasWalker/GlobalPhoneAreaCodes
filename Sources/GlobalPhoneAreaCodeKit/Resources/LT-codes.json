@@ -4,7 +4,7 @@
     "code": "5",
     "country": "LT",
     "region": "Vilnius",
-    "city": "",
+    "city": "Vilnius",
     "e164": "3705",
     "notes": "The Capital. Baroque Old Town (UNESCO). Gediminas Tower."
   },
@@ -13,7 +13,7 @@
     "code": "37",
     "country": "LT",
     "region": "Kaunas",
-    "city": "",
+    "city": "Kaunas",
     "e164": "37037",
     "notes": "Interwar modernist architecture (UNESCO). Zalgiris Arena."
   },
@@ -21,8 +21,8 @@
     "id": "37046",
     "code": "46",
     "country": "LT",
-    "region": "Klaipėda",
-    "city": "",
+    "region": "Klaip\u0117da",
+    "city": "Klaip\u0117da",
     "e164": "37046",
     "notes": "Major ice-free port. Curonian Spit gateway. German architectural influence."
   },
@@ -30,8 +30,8 @@
     "id": "37041",
     "code": "41",
     "country": "LT",
-    "region": "Šiauliai",
-    "city": "",
+    "region": "\u0160iauliai",
+    "city": "\u0160iauliai",
     "e164": "37041",
     "notes": "Hill of Crosses pilgrimage site. City of the Sun."
   },
@@ -39,8 +39,8 @@
     "id": "37045",
     "code": "45",
     "country": "LT",
-    "region": "Panevėžys",
-    "city": "",
+    "region": "Panev\u0117\u017eys",
+    "city": "Panev\u0117\u017eys",
     "e164": "37045",
     "notes": "Industrial city. Narrow-gauge railway."
   },
@@ -49,16 +49,16 @@
     "code": "315",
     "country": "LT",
     "region": "Alytus",
-    "city": "",
+    "city": "Alytus",
     "e164": "370315",
-    "notes": "Capital of Dzūkija region. Surrounded by forests."
+    "notes": "Capital of Dz\u016bkija region. Surrounded by forests."
   },
   {
     "id": "370343",
     "code": "343",
     "country": "LT",
-    "region": "Marijampolė",
-    "city": "",
+    "region": "Marijampol\u0117",
+    "city": "Marijampol\u0117",
     "e164": "370343",
     "notes": "Capital of Suvalkija region."
   },

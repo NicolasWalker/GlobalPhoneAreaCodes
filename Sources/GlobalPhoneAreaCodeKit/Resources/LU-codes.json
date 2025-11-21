@@ -4,7 +4,7 @@
     "code": "2",
     "country": "LU",
     "region": "Luxembourg City",
-    "city": "",
+    "city": "Luxembourg City",
     "e164": "3522",
     "notes": "The Capital. Grand Ducal Palace. European Court of Justice & Investment Bank."
   },
@@ -13,7 +13,7 @@
     "code": "3",
     "country": "LU",
     "region": "South Region (Minett)",
-    "city": "",
+    "city": "South Region (Minett)",
     "e164": "3523",
     "notes": "Land of the Red Rocks. Industrial heritage."
   },
@@ -22,7 +22,7 @@
     "code": "4",
     "country": "LU",
     "region": "Center Region",
-    "city": "",
+    "city": "Center Region",
     "e164": "3524",
     "notes": "Central business and residential areas."
   },
@@ -31,7 +31,7 @@
     "code": "5",
     "country": "LU",
     "region": "South Region (Esch-sur-Alzette)",
-    "city": "",
+    "city": "South Region (Esch-sur-Alzette)",
     "e164": "3525",
     "notes": "Second city. University of Luxembourg. Belval blast furnaces."
   },
@@ -40,7 +40,7 @@
     "code": "8",
     "country": "LU",
     "region": "West Region",
-    "city": "",
+    "city": "West Region",
     "e164": "3528",
     "notes": "Rural landscapes and small towns."
   },
@@ -49,7 +49,7 @@
     "code": "9",
     "country": "LU",
     "region": "North Region (Oesling)",
-    "city": "",
+    "city": "North Region (Oesling)",
     "e164": "3529",
     "notes": "The Ardennes. Vianden Castle. Hiking region."
   },

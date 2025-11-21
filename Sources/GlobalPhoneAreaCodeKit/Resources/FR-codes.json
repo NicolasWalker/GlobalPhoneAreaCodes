@@ -4,7 +4,7 @@
     "code": "1",
     "country": "FR",
     "region": "Paris",
-    "city": "Boulogne-Billancourt",
+    "city": "Paris / \u00cele-de-France",
     "e164": "331",
     "notes": "Primary Paris region code"
   },
@@ -12,44 +12,44 @@
     "id": "332",
     "code": "2",
     "country": "FR",
-    "region": "Lille",
-    "city": "Rouen",
+    "region": "Northwest France",
+    "city": "Northwest France",
     "e164": "332",
-    "notes": "Northern and Northwestern zone"
+    "notes": "Northern and Northwestern zone (Lille, Rouen, Nantes)"
   },
   {
     "id": "333",
     "code": "3",
     "country": "FR",
-    "region": "Strasbourg",
-    "city": "Reims",
+    "region": "Northeast France",
+    "city": "Northeast France",
     "e164": "333",
-    "notes": "Northeastern zone adjoining Germany and Belgium"
+    "notes": "Northeastern zone adjoining Germany and Belgium (Strasbourg, Nancy, Reims)"
   },
   {
     "id": "334",
     "code": "4",
     "country": "FR",
-    "region": "Lyon",
-    "city": "Grenoble",
+    "region": "Southeast France",
+    "city": "Southeast France",
     "e164": "334",
-    "notes": "Southeastern zone including Rhône valley and Alps"
+    "notes": "Southeastern zone including Rh\u00f4ne valley and Alps (Lyon, Marseille, Grenoble)"
   },
   {
     "id": "335",
     "code": "5",
     "country": "FR",
-    "region": "Bordeaux",
-    "city": "Toulouse",
+    "region": "Southwest France",
+    "city": "Southwest France",
     "e164": "335",
-    "notes": "Southwestern zone spanning Atlantic to Pyrenees"
+    "notes": "Southwestern zone spanning Atlantic to Pyrenees (Bordeaux, Toulouse)"
   },
   {
     "id": "336",
     "code": "6",
     "country": "FR",
-    "region": "Nice",
-    "city": "Cannes",
+    "region": "Mobile Services",
+    "city": "",
     "e164": "336",
     "notes": "Mobile numbers legacy block"
   },
@@ -57,8 +57,8 @@
     "id": "337",
     "code": "7",
     "country": "FR",
-    "region": "Marseille",
-    "city": "Montpellier",
+    "region": "Mobile Services",
+    "city": "",
     "e164": "337",
     "notes": "Second mobile number block"
   },
@@ -66,8 +66,8 @@
     "id": "338",
     "code": "8",
     "country": "FR",
-    "region": "Nancy",
-    "city": "Metz",
+    "region": "Non-geographic",
+    "city": "Non-geographic",
     "e164": "338",
     "notes": "Non-geographic services (toll-free and shared-cost ranges vary)"
   },
@@ -75,8 +75,8 @@
     "id": "339",
     "code": "9",
     "country": "FR",
-    "region": "Nantes",
-    "city": "Rennes",
+    "region": "VoIP / Non-geographic",
+    "city": "VoIP",
     "e164": "339",
     "notes": "VoIP and non-geographic allocations"
   }

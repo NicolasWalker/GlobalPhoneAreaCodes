@@ -4,7 +4,7 @@
     "code": "495",
     "country": "RU",
     "region": "Moscow",
-    "city": "",
+    "city": "Moscow",
     "e164": "7495",
     "notes": "The Capital. The Kremlin. Red Square. Bolshoi Theatre."
   },
@@ -13,7 +13,7 @@
     "code": "812",
     "country": "RU",
     "region": "St. Petersburg",
-    "city": "",
+    "city": "St. Petersburg",
     "e164": "7812",
     "notes": "Cultural Capital. The Hermitage. White Nights. Venetial canals."
   },
@@ -22,7 +22,7 @@
     "code": "343",
     "country": "RU",
     "region": "Yekaterinburg",
-    "city": "",
+    "city": "Yekaterinburg",
     "e164": "7343",
     "notes": "Capital of the Urals. Romanov final site. Border of Europe/Asia."
   },
@@ -31,7 +31,7 @@
     "code": "383",
     "country": "RU",
     "region": "Novosibirsk",
-    "city": "",
+    "city": "Novosibirsk",
     "e164": "7383",
     "notes": "Capital of Siberia. Trans-Siberian railway hub. Academic Town (Akademgorodok)."
   },
@@ -40,7 +40,7 @@
     "code": "843",
     "country": "RU",
     "region": "Kazan",
-    "city": "",
+    "city": "Kazan",
     "e164": "7843",
     "notes": "'Third Capital'. Kazan Kremlin (UNESCO). Mix of Tatar and Russian cultures."
   },
@@ -49,7 +49,7 @@
     "code": "863",
     "country": "RU",
     "region": "Rostov-on-Don",
-    "city": "",
+    "city": "Rostov-on-Don",
     "e164": "7863",
     "notes": "Port of Five Seas. Gateway to the Caucasus. Cossack heritage."
   },
@@ -58,7 +58,7 @@
     "code": "423",
     "country": "RU",
     "region": "Vladivostok",
-    "city": "",
+    "city": "Vladivostok",
     "e164": "7423",
     "notes": "Pacific terminus of Trans-Siberian. Golden Horn Bay bridge."
   },
@@ -67,7 +67,7 @@
     "code": "862",
     "country": "RU",
     "region": "Sochi",
-    "city": "",
+    "city": "Sochi",
     "e164": "7862",
     "notes": "2014 Winter Olympics. Black Sea summer resort."
   },

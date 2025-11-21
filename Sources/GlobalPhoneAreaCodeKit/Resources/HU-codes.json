@@ -4,7 +4,7 @@
     "code": "1",
     "country": "HU",
     "region": "Budapest",
-    "city": "",
+    "city": "Budapest",
     "e164": "361",
     "notes": "Capital city - The Pearl of the Danube"
   },
@@ -13,7 +13,7 @@
     "code": "52",
     "country": "HU",
     "region": "Debrecen",
-    "city": "",
+    "city": "Debrecen",
     "e164": "3652",
     "notes": "Second largest city - Calvinist Rome"
   },
@@ -22,7 +22,7 @@
     "code": "62",
     "country": "HU",
     "region": "Szeged",
-    "city": "",
+    "city": "Szeged",
     "e164": "3662",
     "notes": "City of Sunshine - Paprika and Salami"
   },
@@ -31,7 +31,7 @@
     "code": "46",
     "country": "HU",
     "region": "Miskolc",
-    "city": "",
+    "city": "Miskolc",
     "e164": "3646",
     "notes": "Heavy industry history - Cave Bath"
   },
@@ -39,8 +39,8 @@
     "id": "3672",
     "code": "72",
     "country": "HU",
-    "region": "Pécs",
-    "city": "",
+    "region": "P\u00e9cs",
+    "city": "P\u00e9cs",
     "e164": "3672",
     "notes": "Cultural center - Early Christian Necropolis"
   },
@@ -48,8 +48,8 @@
     "id": "3696",
     "code": "96",
     "country": "HU",
-    "region": "Győr",
-    "city": "",
+    "region": "Gy\u0151r",
+    "city": "Gy\u0151r",
     "e164": "3696",
     "notes": "Industrial hub - Audi factory"
   },
@@ -57,8 +57,8 @@
     "id": "3622",
     "code": "22",
     "country": "HU",
-    "region": "Székesfehérvár",
-    "city": "",
+    "region": "Sz\u00e9kesfeh\u00e9rv\u00e1r",
+    "city": "Sz\u00e9kesfeh\u00e9rv\u00e1r",
     "e164": "3622",
     "notes": "City of Kings - Medieval coronation site"
   },
@@ -66,8 +66,8 @@
     "id": "3642",
     "code": "42",
     "country": "HU",
-    "region": "Nyíregyháza",
-    "city": "",
+    "region": "Ny\u00edregyh\u00e1za",
+    "city": "Ny\u00edregyh\u00e1za",
     "e164": "3642",
     "notes": "Gateway to the east - Zoo park"
   },
@@ -75,16 +75,16 @@
     "id": "3676",
     "code": "76",
     "country": "HU",
-    "region": "Kecskemét",
-    "city": "",
+    "region": "Kecskem\u00e9t",
+    "city": "Kecskem\u00e9t",
     "e164": "3676",
-    "notes": "Fruit brandy (Pálinka) and Mercedes factory"
+    "notes": "Fruit brandy (P\u00e1linka) and Mercedes factory"
   },
   {
     "id": "3688",
     "code": "88",
     "country": "HU",
-    "region": "Veszprém",
+    "region": "Veszpr\u00e9m",
     "city": "Balaton",
     "e164": "3688",
     "notes": "City of Queens - Near Lake Balaton"
@@ -94,7 +94,7 @@
     "code": "99",
     "country": "HU",
     "region": "Sopron",
-    "city": "",
+    "city": "Sopron",
     "e164": "3699",
     "notes": "Border city - Dental tourism hub"
   },
@@ -102,8 +102,8 @@
     "id": "3682",
     "code": "82",
     "country": "HU",
-    "region": "Kaposvár",
-    "city": "",
+    "region": "Kaposv\u00e1r",
+    "city": "Kaposv\u00e1r",
     "e164": "3682",
     "notes": "University city in the south west"
   },
@@ -112,7 +112,7 @@
     "code": "56",
     "country": "HU",
     "region": "Szolnok",
-    "city": "",
+    "city": "Szolnok",
     "e164": "3656",
     "notes": "Located on the Tisza river"
   }

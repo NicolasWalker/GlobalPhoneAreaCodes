@@ -4,7 +4,7 @@
     "code": "4",
     "country": "AL",
     "region": "Tirana",
-    "city": "",
+    "city": "Tirana",
     "e164": "3554",
     "notes": "Capital city and economic center"
   },
@@ -12,8 +12,8 @@
     "id": "35522",
     "code": "22",
     "country": "AL",
-    "region": "Shkodër",
-    "city": "",
+    "region": "Shkod\u00ebr",
+    "city": "Shkod\u00ebr",
     "e164": "35522",
     "notes": "Cultural center of northern Albania"
   },
@@ -21,8 +21,8 @@
     "id": "35533",
     "code": "33",
     "country": "AL",
-    "region": "Vlorë",
-    "city": "",
+    "region": "Vlor\u00eb",
+    "city": "Vlor\u00eb",
     "e164": "35533",
     "notes": "Major port city and tourism hub"
   },
@@ -30,8 +30,8 @@
     "id": "35552",
     "code": "52",
     "country": "AL",
-    "region": "Durrës",
-    "city": "",
+    "region": "Durr\u00ebs",
+    "city": "Durr\u00ebs",
     "e164": "35552",
     "notes": "Main port of Albania  ancient city"
   },
@@ -40,7 +40,7 @@
     "code": "54",
     "country": "AL",
     "region": "Elbasan",
-    "city": "",
+    "city": "Elbasan",
     "e164": "35554",
     "notes": "Industrial city in central Albania"
   },
@@ -48,8 +48,8 @@
     "id": "35582",
     "code": "82",
     "country": "AL",
-    "region": "Korçë",
-    "city": "",
+    "region": "Kor\u00e7\u00eb",
+    "city": "Kor\u00e7\u00eb",
     "e164": "35582",
     "notes": "Cultural capital  known for serenades"
   },
@@ -58,7 +58,7 @@
     "code": "34",
     "country": "AL",
     "region": "Fier",
-    "city": "",
+    "city": "Fier",
     "e164": "35534",
     "notes": "Important industrial and agricultural center"
   },
@@ -67,7 +67,7 @@
     "code": "32",
     "country": "AL",
     "region": "Berat",
-    "city": "",
+    "city": "Berat",
     "e164": "35532",
     "notes": "The 'Town of a Thousand Windows'  UNESCO site"
   },
@@ -75,8 +75,8 @@
     "id": "35584",
     "code": "84",
     "country": "AL",
-    "region": "Gjirokastër",
-    "city": "",
+    "region": "Gjirokast\u00ebr",
+    "city": "Gjirokast\u00ebr",
     "e164": "35584",
     "notes": "UNESCO World Heritage site  stone city"
   },
@@ -84,8 +84,8 @@
     "id": "35524",
     "code": "24",
     "country": "AL",
-    "region": "Kukës",
-    "city": "",
+    "region": "Kuk\u00ebs",
+    "city": "Kuk\u00ebs",
     "e164": "35524",
     "notes": "Northern city  Nobel Peace Prize nominee"
   }

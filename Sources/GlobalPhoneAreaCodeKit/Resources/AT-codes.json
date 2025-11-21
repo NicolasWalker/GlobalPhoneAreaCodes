@@ -4,7 +4,7 @@
     "code": "1",
     "country": "AT",
     "region": "Vienna",
-    "city": "",
+    "city": "Vienna",
     "e164": "431",
     "notes": "Federal capital and largest city"
   },
@@ -13,7 +13,7 @@
     "code": "316",
     "country": "AT",
     "region": "Graz",
-    "city": "",
+    "city": "Graz",
     "e164": "43316",
     "notes": "Second largest city  university hub"
   },
@@ -22,7 +22,7 @@
     "code": "732",
     "country": "AT",
     "region": "Linz",
-    "city": "",
+    "city": "Linz",
     "e164": "43732",
     "notes": "Industrial center and Danube port"
   },
@@ -31,7 +31,7 @@
     "code": "662",
     "country": "AT",
     "region": "Salzburg",
-    "city": "",
+    "city": "Salzburg",
     "e164": "43662",
     "notes": "Mozart's birthplace  major tourist destination"
   },
@@ -40,7 +40,7 @@
     "code": "512",
     "country": "AT",
     "region": "Innsbruck",
-    "city": "",
+    "city": "Innsbruck",
     "e164": "43512",
     "notes": "Capital of Tyrol  Alps sports center"
   },
@@ -49,16 +49,16 @@
     "code": "463",
     "country": "AT",
     "region": "Klagenfurt",
-    "city": "",
+    "city": "Klagenfurt",
     "e164": "43463",
-    "notes": "Capital of Carinthia  near Lake Wörthersee"
+    "notes": "Capital of Carinthia  near Lake W\u00f6rthersee"
   },
   {
     "id": "435574",
     "code": "5574",
     "country": "AT",
     "region": "Bregenz",
-    "city": "",
+    "city": "Bregenz",
     "e164": "435574",
     "notes": "Capital of Vorarlberg  Lake Constance festival"
   },
@@ -67,7 +67,7 @@
     "code": "2682",
     "country": "AT",
     "region": "Eisenstadt",
-    "city": "",
+    "city": "Eisenstadt",
     "e164": "432682",
     "notes": "Capital of Burgenland  Haydn city"
   },
@@ -75,8 +75,8 @@
     "id": "432742",
     "code": "2742",
     "country": "AT",
-    "region": "St. Pölten",
-    "city": "",
+    "region": "St. P\u00f6lten",
+    "city": "St. P\u00f6lten",
     "e164": "432742",
     "notes": "Capital of Lower Austria"
   },
@@ -85,7 +85,7 @@
     "code": "4242",
     "country": "AT",
     "region": "Villach",
-    "city": "",
+    "city": "Villach",
     "e164": "434242",
     "notes": "Second largest city in Carinthia"
   },
@@ -94,7 +94,7 @@
     "code": "7242",
     "country": "AT",
     "region": "Wels",
-    "city": "",
+    "city": "Wels",
     "e164": "437242",
     "notes": "Trade fair city"
   }

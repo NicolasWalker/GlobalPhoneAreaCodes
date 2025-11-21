@@ -4,7 +4,7 @@
     "code": "2",
     "country": "MK",
     "region": "Skopje",
-    "city": "",
+    "city": "Skopje",
     "e164": "3892",
     "notes": "The Capital. Stone Bridge. Mother Teresa Memorial. Massive statues project."
   },
@@ -13,7 +13,7 @@
     "code": "31",
     "country": "MK",
     "region": "Bitola",
-    "city": "",
+    "city": "Bitola",
     "e164": "38931",
     "notes": "'City of Consuls'. Shirok Sokak street. Ancient Heraclea Lyncestis."
   },
@@ -21,8 +21,8 @@
     "id": "38932",
     "code": "32",
     "country": "MK",
-    "region": "Štip",
-    "city": "",
+    "region": "\u0160tip",
+    "city": "\u0160tip",
     "e164": "38932",
     "notes": "Textile center. Pastrmajlija (local pizza) capital."
   },
@@ -31,7 +31,7 @@
     "code": "33",
     "country": "MK",
     "region": "Strumica",
-    "city": "",
+    "city": "Strumica",
     "e164": "38933",
     "notes": "Carnival city. Agriculture and peppers."
   },
@@ -40,7 +40,7 @@
     "code": "34",
     "country": "MK",
     "region": "Gevgelija",
-    "city": "",
+    "city": "Gevgelija",
     "e164": "38934",
     "notes": "'Macedonian Las Vegas'. Border crossing with Greece."
   },
@@ -49,7 +49,7 @@
     "code": "43",
     "country": "MK",
     "region": "Veles",
-    "city": "",
+    "city": "Veles",
     "e164": "38943",
     "notes": "Central city on Vardar river. Poetry and ceramics."
   },
@@ -58,7 +58,7 @@
     "code": "44",
     "country": "MK",
     "region": "Tetovo",
-    "city": "",
+    "city": "Tetovo",
     "e164": "38944",
     "notes": "Painted Mosque. Shar Mountain center."
   },
@@ -67,7 +67,7 @@
     "code": "46",
     "country": "MK",
     "region": "Ohrid",
-    "city": "",
+    "city": "Ohrid",
     "e164": "38946",
     "notes": "'Jerusalem of the Balkans'. UNESCO lake and town. Summer tourism pearl."
   },

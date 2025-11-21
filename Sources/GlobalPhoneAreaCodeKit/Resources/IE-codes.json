@@ -4,7 +4,7 @@
     "code": "1",
     "country": "IE",
     "region": "Dublin",
-    "city": "",
+    "city": "Dublin",
     "e164": "3531",
     "notes": "Capital and largest city area"
   },
@@ -13,7 +13,7 @@
     "code": "21",
     "country": "IE",
     "region": "Cork",
-    "city": "",
+    "city": "Cork",
     "e164": "35321",
     "notes": "The Rebel County - Second largest city"
   },
@@ -22,7 +22,7 @@
     "code": "61",
     "country": "IE",
     "region": "Limerick",
-    "city": "",
+    "city": "Limerick",
     "e164": "35361",
     "notes": "Treaty City - Shannon region"
   },
@@ -31,7 +31,7 @@
     "code": "91",
     "country": "IE",
     "region": "Galway",
-    "city": "",
+    "city": "Galway",
     "e164": "35391",
     "notes": "Cultural Heart of Ireland - The West"
   },
@@ -40,7 +40,7 @@
     "code": "51",
     "country": "IE",
     "region": "Waterford",
-    "city": "",
+    "city": "Waterford",
     "e164": "35351",
     "notes": "Crystal City - The Southeast"
   },
@@ -49,7 +49,7 @@
     "code": "41",
     "country": "IE",
     "region": "Drogheda",
-    "city": "",
+    "city": "Drogheda",
     "e164": "35341",
     "notes": "Gateway to the Boyne Valley"
   },
@@ -58,7 +58,7 @@
     "code": "42",
     "country": "IE",
     "region": "Dundalk",
-    "city": "",
+    "city": "Dundalk",
     "e164": "35342",
     "notes": "Border town - Cuchulainn country"
   },
@@ -67,7 +67,7 @@
     "code": "71",
     "country": "IE",
     "region": "Sligo",
-    "city": "",
+    "city": "Sligo",
     "e164": "35371",
     "notes": "Yeats Country - The Northwest"
   },
@@ -76,7 +76,7 @@
     "code": "66",
     "country": "IE",
     "region": "Tralee",
-    "city": "",
+    "city": "Tralee",
     "e164": "35366",
     "notes": "Capital of the Kingdom of Kerry"
   },
@@ -85,7 +85,7 @@
     "code": "64",
     "country": "IE",
     "region": "Killarney",
-    "city": "",
+    "city": "Killarney",
     "e164": "35364",
     "notes": "Tourism hub - Ring of Kerry"
   },
@@ -94,7 +94,7 @@
     "code": "56",
     "country": "IE",
     "region": "Kilkenny",
-    "city": "",
+    "city": "Kilkenny",
     "e164": "35356",
     "notes": "Marble City - Medieval capital"
   },
@@ -103,7 +103,7 @@
     "code": "53",
     "country": "IE",
     "region": "Wexford",
-    "city": "",
+    "city": "Wexford",
     "e164": "35353",
     "notes": "Sunny Southeast - Opera Festival"
   },
@@ -112,7 +112,7 @@
     "code": "90",
     "country": "IE",
     "region": "Athlone",
-    "city": "",
+    "city": "Athlone",
     "e164": "35390",
     "notes": "Heart of Ireland - Shannon crossing"
   },

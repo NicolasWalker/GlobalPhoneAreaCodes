@@ -4,7 +4,7 @@
     "code": "2",
     "country": "CZ",
     "region": "Prague",
-    "city": "",
+    "city": "Prague",
     "e164": "4202",
     "notes": "Capital city, The City of a Hundred Spires"
   },
@@ -13,7 +13,7 @@
     "code": "54",
     "country": "CZ",
     "region": "Brno",
-    "city": "",
+    "city": "Brno",
     "e164": "42054",
     "notes": "Second largest city, technology hub"
   },
@@ -22,7 +22,7 @@
     "code": "59",
     "country": "CZ",
     "region": "Ostrava",
-    "city": "",
+    "city": "Ostrava",
     "e164": "42059",
     "notes": "Industrial heartland, 'Steel Heart'"
   },
@@ -30,8 +30,8 @@
     "id": "42037",
     "code": "37",
     "country": "CZ",
-    "region": "Plzeň",
-    "city": "",
+    "region": "Plze\u0148",
+    "city": "Plze\u0148",
     "e164": "42037",
     "notes": "Home of Pilsner Urquell beer"
   },
@@ -40,16 +40,16 @@
     "code": "48",
     "country": "CZ",
     "region": "Liberec",
-    "city": "",
+    "city": "Liberec",
     "e164": "42048",
-    "notes": "Near Ještěd mountain, winter sports"
+    "notes": "Near Je\u0161t\u011bd mountain, winter sports"
   },
   {
     "id": "42038",
     "code": "38",
     "country": "CZ",
-    "region": "České Budějovice",
-    "city": "",
+    "region": "\u010cesk\u00e9 Bud\u011bjovice",
+    "city": "\u010cesk\u00e9 Bud\u011bjovice",
     "e164": "42038",
     "notes": "Budweiser Budvar brewery city"
   },
@@ -58,7 +58,7 @@
     "code": "58",
     "country": "CZ",
     "region": "Olomouc",
-    "city": "",
+    "city": "Olomouc",
     "e164": "42058",
     "notes": "Historical capital of Moravia, cheese specialty"
   },
@@ -66,8 +66,8 @@
     "id": "42049",
     "code": "49",
     "country": "CZ",
-    "region": "Hradec Králové",
-    "city": "",
+    "region": "Hradec Kr\u00e1lov\u00e9",
+    "city": "Hradec Kr\u00e1lov\u00e9",
     "e164": "42049",
     "notes": "University city, piano manufacturing"
   },
@@ -75,8 +75,8 @@
     "id": "42047",
     "code": "47",
     "country": "CZ",
-    "region": "Ústí nad Labem",
-    "city": "",
+    "region": "\u00dast\u00ed nad Labem",
+    "city": "\u00dast\u00ed nad Labem",
     "e164": "42047",
     "notes": "River port on the Elbe"
   },
@@ -85,7 +85,7 @@
     "code": "35",
     "country": "CZ",
     "region": "Karlovy Vary",
-    "city": "",
+    "city": "Karlovy Vary",
     "e164": "42035",
     "notes": "Famous spa town (Carlsbad), film festival"
   },
@@ -94,7 +94,7 @@
     "code": "56",
     "country": "CZ",
     "region": "Jihlava",
-    "city": "",
+    "city": "Jihlava",
     "e164": "42056",
     "notes": "Located in the Bohemian-Moravian Highlands"
   },
@@ -102,8 +102,8 @@
     "id": "42057",
     "code": "57",
     "country": "CZ",
-    "region": "Zlín",
-    "city": "",
+    "region": "Zl\u00edn",
+    "city": "Zl\u00edn",
     "e164": "42057",
     "notes": "Bata shoes origin, functionalist architecture"
   },
@@ -112,7 +112,7 @@
     "code": "46",
     "country": "CZ",
     "region": "Pardubice",
-    "city": "",
+    "city": "Pardubice",
     "e164": "42046",
     "notes": "Gingerbread and steeplechase horse race"
   }

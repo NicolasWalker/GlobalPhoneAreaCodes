@@ -13,7 +13,7 @@
     "code": "231",
     "country": "GR",
     "region": "Thessaloniki",
-    "city": "",
+    "city": "Thessaloniki",
     "e164": "30231",
     "notes": "Second largest city - Cultural capital"
   },
@@ -22,7 +22,7 @@
     "code": "281",
     "country": "GR",
     "region": "Heraklion",
-    "city": "",
+    "city": "Heraklion",
     "e164": "30281",
     "notes": "Major city on Crete"
   },
@@ -31,7 +31,7 @@
     "code": "261",
     "country": "GR",
     "region": "Patras",
-    "city": "",
+    "city": "Patras",
     "e164": "30261",
     "notes": "Major port - Gateway to the West"
   },
@@ -40,7 +40,7 @@
     "code": "241",
     "country": "GR",
     "region": "Larissa",
-    "city": "",
+    "city": "Larissa",
     "e164": "30241",
     "notes": "Major agricultural center"
   },
@@ -49,7 +49,7 @@
     "code": "242",
     "country": "GR",
     "region": "Volos",
-    "city": "",
+    "city": "Volos",
     "e164": "30242",
     "notes": "Port city at the foot of Mt Pelion"
   },
@@ -58,7 +58,7 @@
     "code": "265",
     "country": "GR",
     "region": "Ioannina",
-    "city": "",
+    "city": "Ioannina",
     "e164": "30265",
     "notes": "Historic city on Lake Pamvotis"
   },
@@ -67,7 +67,7 @@
     "code": "224",
     "country": "GR",
     "region": "Rhodes",
-    "city": "",
+    "city": "Rhodes",
     "e164": "30224",
     "notes": "Knight's island - Major tourist hub"
   },
@@ -76,7 +76,7 @@
     "code": "266",
     "country": "GR",
     "region": "Corfu",
-    "city": "",
+    "city": "Corfu",
     "e164": "30266",
     "notes": "Kerkyra - Historic Venetian influences"
   },
@@ -85,7 +85,7 @@
     "code": "272",
     "country": "GR",
     "region": "Kalamata",
-    "city": "",
+    "city": "Kalamata",
     "e164": "30272",
     "notes": "Famous for olives"
   },
@@ -94,7 +94,7 @@
     "code": "251",
     "country": "GR",
     "region": "Kavala",
-    "city": "",
+    "city": "Kavala",
     "e164": "30251",
     "notes": "Principal seaport of eastern Macedonia"
   },

@@ -4,16 +4,16 @@
     "code": "7",
     "country": "CU",
     "region": "Havana",
-    "city": "",
+    "city": "Havana",
     "e164": "537",
-    "notes": "The Capital. Old Havana (UNESCO). Malecón. Classic cars."
+    "notes": "The Capital. Old Havana (UNESCO). Malec\u00f3n. Classic cars."
   },
   {
     "id": "5321",
     "code": "21",
     "country": "CU",
-    "region": "Guantánamo",
-    "city": "",
+    "region": "Guant\u00e1namo",
+    "city": "Guant\u00e1namo",
     "e164": "5321",
     "notes": "Easternmost province. Famous song 'Guantanamera'."
   },
@@ -22,7 +22,7 @@
     "code": "22",
     "country": "CU",
     "region": "Santiago de Cuba",
-    "city": "",
+    "city": "Santiago de Cuba",
     "e164": "5322",
     "notes": "'Hero City'. Cradle of the Revolution. Trova music."
   },
@@ -31,7 +31,7 @@
     "code": "23",
     "country": "CU",
     "region": "Bayamo",
-    "city": "",
+    "city": "Bayamo",
     "e164": "5323",
     "notes": "National Anthem birthplace. Sierra Maestra mountains."
   },
@@ -39,8 +39,8 @@
     "id": "5324",
     "code": "24",
     "country": "CU",
-    "region": "Holguín",
-    "city": "",
+    "region": "Holgu\u00edn",
+    "city": "Holgu\u00edn",
     "e164": "5324",
     "notes": "City of Parks. Guardalavaca beaches."
   },
@@ -49,7 +49,7 @@
     "code": "31",
     "country": "CU",
     "region": "Las Tunas",
-    "city": "",
+    "city": "Las Tunas",
     "e164": "5331",
     "notes": "City of Sculpture."
   },
@@ -57,8 +57,8 @@
     "id": "5332",
     "code": "32",
     "country": "CU",
-    "region": "Camagüey",
-    "city": "",
+    "region": "Camag\u00fcey",
+    "city": "Camag\u00fcey",
     "e164": "5332",
     "notes": "City of Tinajones (clay pots). Maze-like streets."
   },
@@ -66,8 +66,8 @@
     "id": "5333",
     "code": "33",
     "country": "CU",
-    "region": "Ciego de Ávila",
-    "city": "",
+    "region": "Ciego de \u00c1vila",
+    "city": "Ciego de \u00c1vila",
     "e164": "5333",
     "notes": "Gateway to Jardines del Rey keys."
   },
@@ -75,8 +75,8 @@
     "id": "5341",
     "code": "41",
     "country": "CU",
-    "region": "Sancti Spíritus",
-    "city": "",
+    "region": "Sancti Sp\u00edritus",
+    "city": "Sancti Sp\u00edritus",
     "e164": "5341",
     "notes": "Colonial city. Nearby Trinidad (UNESCO)."
   },
@@ -85,7 +85,7 @@
     "code": "42",
     "country": "CU",
     "region": "Santa Clara",
-    "city": "",
+    "city": "Santa Clara",
     "e164": "5342",
     "notes": "Che Guevara Mausoleum."
   },
@@ -94,7 +94,7 @@
     "code": "43",
     "country": "CU",
     "region": "Cienfuegos",
-    "city": "",
+    "city": "Cienfuegos",
     "e164": "5343",
     "notes": "'Pearl of the South'. French influence (UNESCO)."
   },
@@ -103,7 +103,7 @@
     "code": "45",
     "country": "CU",
     "region": "Matanzas",
-    "city": "",
+    "city": "Matanzas",
     "e164": "5345",
     "notes": "'Athens of Cuba'. Varadero beach resort nearby."
   },
@@ -112,7 +112,7 @@
     "code": "46",
     "country": "CU",
     "region": "Nueva Gerona",
-    "city": "",
+    "city": "Nueva Gerona",
     "e164": "5346",
     "notes": "Isle of Youth. Diving and Presidio Modelo."
   },
@@ -120,8 +120,8 @@
     "id": "5347",
     "code": "47",
     "country": "CU",
-    "region": "San José de las Lajas",
-    "city": "",
+    "region": "San Jos\u00e9 de las Lajas",
+    "city": "San Jos\u00e9 de las Lajas",
     "e164": "5347",
     "notes": "Young province (created 2010)."
   },
@@ -129,17 +129,17 @@
     "id": "5348",
     "code": "48",
     "country": "CU",
-    "region": "Pinar del Río",
-    "city": "",
+    "region": "Pinar del R\u00edo",
+    "city": "Pinar del R\u00edo",
     "e164": "5348",
-    "notes": "Tobacco country (Viñales Valley). Best cigars in the world."
+    "notes": "Tobacco country (Vi\u00f1ales Valley). Best cigars in the world."
   },
   {
     "id": "5349",
     "code": "49",
     "country": "CU",
     "region": "Artemisa",
-    "city": "",
+    "city": "Artemisa",
     "e164": "5349",
     "notes": "Agricultural hub west of Havana."
   },

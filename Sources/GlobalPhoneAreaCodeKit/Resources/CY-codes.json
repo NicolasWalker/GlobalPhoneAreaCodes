@@ -4,7 +4,7 @@
     "code": "22",
     "country": "CY",
     "region": "Nicosia",
-    "city": "",
+    "city": "Nicosia",
     "e164": "35722",
     "notes": "The last divided capital in Europe. Venetian walls."
   },
@@ -13,7 +13,7 @@
     "code": "25",
     "country": "CY",
     "region": "Limassol",
-    "city": "",
+    "city": "Limassol",
     "e164": "35725",
     "notes": "Major port and business hub. Wine festival."
   },
@@ -22,7 +22,7 @@
     "code": "24",
     "country": "CY",
     "region": "Larnaca",
-    "city": "",
+    "city": "Larnaca",
     "e164": "35724",
     "notes": "Palm tree promenade. Salt Lake with flamingos."
   },
@@ -31,7 +31,7 @@
     "code": "26",
     "country": "CY",
     "region": "Paphos",
-    "city": "",
+    "city": "Paphos",
     "e164": "35726",
     "notes": "Mythological birthplace of Aphrodite. Ancient mosaics (UNESCO)."
   },
@@ -40,7 +40,7 @@
     "code": "23",
     "country": "CY",
     "region": "Paralimni / Ayia Napa",
-    "city": "",
+    "city": "Paralimni / Ayia Napa",
     "e164": "35723",
     "notes": "Protaras beaches and Ayia Napa nightlife."
   },

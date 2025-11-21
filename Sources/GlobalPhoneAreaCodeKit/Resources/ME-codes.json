@@ -4,7 +4,7 @@
     "code": "20",
     "country": "ME",
     "region": "Podgorica",
-    "city": "",
+    "city": "Podgorica",
     "e164": "38220",
     "notes": "The Capital. Millennium Bridge. Administrative center."
   },
@@ -13,7 +13,7 @@
     "code": "30",
     "country": "ME",
     "region": "Bar",
-    "city": "",
+    "city": "Bar",
     "e164": "38230",
     "notes": "Major seaport. Old Olive Tree (Stara Maslina)."
   },
@@ -22,7 +22,7 @@
     "code": "31",
     "country": "ME",
     "region": "Herceg Novi",
-    "city": "",
+    "city": "Herceg Novi",
     "e164": "38231",
     "notes": "'City of Sun'. Entrance to the Bay of Kotor."
   },
@@ -31,7 +31,7 @@
     "code": "32",
     "country": "ME",
     "region": "Kotor / Tivat",
-    "city": "",
+    "city": "Kotor / Tivat",
     "e164": "38232",
     "notes": "UNESCO World Heritage. Medieval fortified city. Porto Montenegro superyachts."
   },
@@ -40,7 +40,7 @@
     "code": "33",
     "country": "ME",
     "region": "Budva",
-    "city": "",
+    "city": "Budva",
     "e164": "38233",
     "notes": "Tourism metropolis. Medieval Old Town and nightlife."
   },
@@ -48,17 +48,17 @@
     "id": "38240",
     "code": "40",
     "country": "ME",
-    "region": "Nikšić",
-    "city": "",
+    "region": "Nik\u0161i\u0107",
+    "city": "Nik\u0161i\u0107",
     "e164": "38240",
-    "notes": "Industrial center. Nikšićko beer brewery."
+    "notes": "Industrial center. Nik\u0161i\u0107ko beer brewery."
   },
   {
     "id": "38250",
     "code": "50",
     "country": "ME",
     "region": "Bijelo Polje",
-    "city": "",
+    "city": "Bijelo Polje",
     "e164": "38250",
     "notes": "Center of the north. Tara River proximity."
   },

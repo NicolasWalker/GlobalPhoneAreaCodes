@@ -4,7 +4,7 @@
     "code": "6",
     "country": "EE",
     "region": "Tallinn",
-    "city": "",
+    "city": "Tallinn",
     "e164": "3726",
     "notes": "Medieval Old Town (UNESCO) and digital startup hub (Skype)."
   },
@@ -13,7 +13,7 @@
     "code": "7",
     "country": "EE",
     "region": "Tartu",
-    "city": "",
+    "city": "Tartu",
     "e164": "3727",
     "notes": "University town. 'City of Good Thoughts'."
   },
@@ -21,8 +21,8 @@
     "id": "37244",
     "code": "44",
     "country": "EE",
-    "region": "Pärnu",
-    "city": "",
+    "region": "P\u00e4rnu",
+    "city": "P\u00e4rnu",
     "e164": "37244",
     "notes": "Summer Capital. White sandy beaches."
   },
@@ -31,7 +31,7 @@
     "code": "33",
     "country": "EE",
     "region": "Paide",
-    "city": "",
+    "city": "Paide",
     "e164": "37233",
     "notes": "Heart of Estonia. Limestone heritage."
   },
@@ -40,7 +40,7 @@
     "code": "35",
     "country": "EE",
     "region": "Narva",
-    "city": "",
+    "city": "Narva",
     "e164": "37235",
     "notes": "Border city with Russia. Hermann Castle."
   },
@@ -49,7 +49,7 @@
     "code": "45",
     "country": "EE",
     "region": "Kuressaare",
-    "city": "",
+    "city": "Kuressaare",
     "e164": "37245",
     "notes": "Island life. Bishop's Castle and spa culture."
   },
@@ -57,8 +57,8 @@
     "id": "37246",
     "code": "46",
     "country": "EE",
-    "region": "Kärdla",
-    "city": "",
+    "region": "K\u00e4rdla",
+    "city": "K\u00e4rdla",
     "e164": "37246",
     "notes": "Second largest island. Lighthouse heritage."
   },

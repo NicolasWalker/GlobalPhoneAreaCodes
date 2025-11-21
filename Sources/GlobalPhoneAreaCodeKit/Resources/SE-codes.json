@@ -4,7 +4,7 @@
     "code": "8",
     "country": "SE",
     "region": "Stockholm",
-    "city": "",
+    "city": "Stockholm",
     "e164": "468",
     "notes": "The Capital. 14 islands. Gamla Stan (Old Town). Vasa Museum."
   },
@@ -13,7 +13,7 @@
     "code": "31",
     "country": "SE",
     "region": "Gothenburg",
-    "city": "",
+    "city": "Gothenburg",
     "e164": "4631",
     "notes": "Major port. Volvo HQ. Liseberg amusement park."
   },
@@ -21,17 +21,17 @@
     "id": "4640",
     "code": "40",
     "country": "SE",
-    "region": "Malmö",
-    "city": "",
+    "region": "Malm\u00f6",
+    "city": "Malm\u00f6",
     "e164": "4640",
-    "notes": "Turning Torso. Öresund Bridge connection to Copenhagen."
+    "notes": "Turning Torso. \u00d6resund Bridge connection to Copenhagen."
   },
   {
     "id": "4618",
     "code": "18",
     "country": "SE",
     "region": "Uppsala",
-    "city": "",
+    "city": "Uppsala",
     "e164": "4618",
     "notes": "Ecclesiastical center. Oldest university in Scandinavia."
   },
@@ -39,8 +39,8 @@
     "id": "4613",
     "code": "13",
     "country": "SE",
-    "region": "Linköping",
-    "city": "",
+    "region": "Link\u00f6ping",
+    "city": "Link\u00f6ping",
     "e164": "4613",
     "notes": "Aviation city (SAAB). University town."
   },
@@ -48,8 +48,8 @@
     "id": "4690",
     "code": "90",
     "country": "SE",
-    "region": "Umeå",
-    "city": "",
+    "region": "Ume\u00e5",
+    "city": "Ume\u00e5",
     "e164": "4690",
     "notes": "City of Birches. European Capital of Culture 2014."
   },
@@ -58,7 +58,7 @@
     "code": "498",
     "country": "SE",
     "region": "Visby",
-    "city": "",
+    "city": "Visby",
     "e164": "46498",
     "notes": "Hanseatic walled town (UNESCO). Summer vacation island."
   },

@@ -4,7 +4,7 @@
     "code": "44",
     "country": "UA",
     "region": "Kyiv",
-    "city": "",
+    "city": "Kyiv",
     "e164": "38044",
     "notes": "The Capital. Golden Domes (St. Sophia). Independence Square (Maidan)."
   },
@@ -13,7 +13,7 @@
     "code": "32",
     "country": "UA",
     "region": "Lviv",
-    "city": "",
+    "city": "Lviv",
     "e164": "38032",
     "notes": "Cultural Capital. Coffee culture. Austro-Hungarian architecture (UNESCO)."
   },
@@ -22,7 +22,7 @@
     "code": "48",
     "country": "UA",
     "region": "Odesa",
-    "city": "",
+    "city": "Odesa",
     "e164": "38048",
     "notes": "Pearl of the Black Sea. Potemkin Stairs. Opera House."
   },
@@ -31,7 +31,7 @@
     "code": "57",
     "country": "UA",
     "region": "Kharkiv",
-    "city": "",
+    "city": "Kharkiv",
     "e164": "38057",
     "notes": "Student city. Freedom Square (one of Europe's largest)."
   },
@@ -40,7 +40,7 @@
     "code": "56",
     "country": "UA",
     "region": "Dnipro",
-    "city": "",
+    "city": "Dnipro",
     "e164": "38056",
     "notes": "Space rocket industry. Longest promenade in Europe."
   },
@@ -49,7 +49,7 @@
     "code": "61",
     "country": "UA",
     "region": "Zaporizhzhia",
-    "city": "",
+    "city": "Zaporizhzhia",
     "e164": "38061",
     "notes": "Cossack heritage (Khortytsia island). DniproHES dam."
   },

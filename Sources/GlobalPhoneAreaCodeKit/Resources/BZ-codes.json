@@ -4,7 +4,7 @@
     "code": "2",
     "country": "BZ",
     "region": "Belize City",
-    "city": "",
+    "city": "Belize City",
     "e164": "5012",
     "notes": "Former capital. Gateway to the Barrier Reef (UNESCO)."
   },
@@ -13,7 +13,7 @@
     "code": "22",
     "country": "BZ",
     "region": "San Pedro (Ambergris Caye)",
-    "city": "",
+    "city": "San Pedro (Ambergris Caye)",
     "e164": "50122",
     "notes": "'La Isla Bonita'. Hol Chan Marine Reserve."
   },
@@ -22,7 +22,7 @@
     "code": "3",
     "country": "BZ",
     "region": "Orange Walk Town",
-    "city": "",
+    "city": "Orange Walk Town",
     "e164": "5013",
     "notes": "'Sugar City'. Lamanai Maya ruins."
   },
@@ -31,7 +31,7 @@
     "code": "4",
     "country": "BZ",
     "region": "Corozal Town",
-    "city": "",
+    "city": "Corozal Town",
     "e164": "5014",
     "notes": "Northern border town. English/Spanish bilingual culture."
   },
@@ -40,7 +40,7 @@
     "code": "5",
     "country": "BZ",
     "region": "Dangriga",
-    "city": "",
+    "city": "Dangriga",
     "e164": "5015",
     "notes": "Culture Capital (Garifuna heritage)."
   },
@@ -49,7 +49,7 @@
     "code": "52",
     "country": "BZ",
     "region": "Placencia",
-    "city": "",
+    "city": "Placencia",
     "e164": "50152",
     "notes": "Beach destination. Lobsterfest."
   },
@@ -58,7 +58,7 @@
     "code": "7",
     "country": "BZ",
     "region": "Punta Gorda",
-    "city": "",
+    "city": "Punta Gorda",
     "e164": "5017",
     "notes": "Deep South. Cacao production."
   },
@@ -67,7 +67,7 @@
     "code": "8",
     "country": "BZ",
     "region": "Belmopan",
-    "city": "",
+    "city": "Belmopan",
     "e164": "5018",
     "notes": "The Capital. Smallest capital in the Americas."
   },
@@ -76,7 +76,7 @@
     "code": "82",
     "country": "BZ",
     "region": "San Ignacio",
-    "city": "",
+    "city": "San Ignacio",
     "e164": "50182",
     "notes": "Gateway to Mayan ruins (Xunantunich)."
   },

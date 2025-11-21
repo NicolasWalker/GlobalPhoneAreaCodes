@@ -4,7 +4,7 @@
     "code": "91",
     "country": "ES",
     "region": "Madrid",
-    "city": "",
+    "city": "Madrid",
     "e164": "3491",
     "notes": "The capital. Museums (Prado), Retiro Park, and political center."
   },
@@ -13,7 +13,7 @@
     "code": "93",
     "country": "ES",
     "region": "Barcelona",
-    "city": "",
+    "city": "Barcelona",
     "e164": "3493",
     "notes": "Catalan capital. Gaudi architecture, beach city lifestyle."
   },
@@ -22,7 +22,7 @@
     "code": "95",
     "country": "ES",
     "region": "Seville / Malaga / Granada",
-    "city": "",
+    "city": "Seville / Malaga / Granada",
     "e164": "3495",
     "notes": "Flamenco heartland. Alhambra, Costa del Sol."
   },
@@ -31,7 +31,7 @@
     "code": "96",
     "country": "ES",
     "region": "Valencia",
-    "city": "",
+    "city": "Valencia",
     "e164": "3496",
     "notes": "Paella birthplace. City of Arts and Sciences."
   },
@@ -40,7 +40,7 @@
     "code": "94",
     "country": "ES",
     "region": "Bilbao / San Sebastian",
-    "city": "",
+    "city": "Bilbao / San Sebastian",
     "e164": "3494",
     "notes": "Culinary capital (pintxos). Guggenheim Museum."
   },
@@ -48,8 +48,8 @@
     "id": "34981",
     "code": "981",
     "country": "ES",
-    "region": "A Coruña / Santiago de Compostela",
-    "city": "",
+    "region": "A Coru\u00f1a / Santiago de Compostela",
+    "city": "A Coru\u00f1a / Santiago de Compostela",
     "e164": "34981",
     "notes": "End of the Camino de Santiago pilgrimage route."
   },
@@ -58,7 +58,7 @@
     "code": "922",
     "country": "ES",
     "region": "Santa Cruz de Tenerife",
-    "city": "",
+    "city": "Santa Cruz de Tenerife",
     "e164": "34922",
     "notes": "Volcanic landscapes (Teide). Winter sun destination."
   },
@@ -67,7 +67,7 @@
     "code": "928",
     "country": "ES",
     "region": "Las Palmas",
-    "city": "",
+    "city": "Las Palmas",
     "e164": "34928",
     "notes": "Gran Canaria resorts and dunes."
   },
@@ -76,7 +76,7 @@
     "code": "971",
     "country": "ES",
     "region": "Palma de Mallorca / Ibiza",
-    "city": "",
+    "city": "Palma de Mallorca / Ibiza",
     "e164": "34971",
     "notes": "Summer party capital and Mediterranean sailing."
   },
@@ -85,7 +85,7 @@
     "code": "876",
     "country": "ES",
     "region": "Zaragoza",
-    "city": "",
+    "city": "Zaragoza",
     "e164": "34876",
     "notes": "Ebro River city. Pillar Basilica."
   },

@@ -4,7 +4,7 @@
     "code": "21",
     "country": "PT",
     "region": "Lisbon",
-    "city": "",
+    "city": "Lisbon",
     "e164": "35121",
     "notes": "The Capital. Seven Hills. Fado music heritage and Tram 28."
   },
@@ -13,7 +13,7 @@
     "code": "22",
     "country": "PT",
     "region": "Porto",
-    "city": "",
+    "city": "Porto",
     "e164": "35122",
     "notes": "'The North'. Port wine cellars. Distinct industrial & independent identity."
   },
@@ -22,7 +22,7 @@
     "code": "23",
     "country": "PT",
     "region": "Coimbra",
-    "city": "",
+    "city": "Coimbra",
     "e164": "35123",
     "notes": "Oldest University in Portugal. Traditional academic robes (inspiration for Harry Potter)."
   },
@@ -31,7 +31,7 @@
     "code": "24",
     "country": "PT",
     "region": "Braga",
-    "city": "",
+    "city": "Braga",
     "e164": "35124",
     "notes": "'Rome of Portugal'. Religious center with Bom Jesus sanctuary."
   },
@@ -40,7 +40,7 @@
     "code": "25",
     "country": "PT",
     "region": "Viana do Castelo",
-    "city": "",
+    "city": "Viana do Castelo",
     "e164": "35125",
     "notes": "Shipbuilding history and traditional filigree jewelry."
   },
@@ -48,8 +48,8 @@
     "id": "35126",
     "code": "26",
     "country": "PT",
-    "region": "Évora",
-    "city": "",
+    "region": "\u00c9vora",
+    "city": "\u00c9vora",
     "e164": "35126",
     "notes": "Roman Temple of Diana. Whitewashed towns and cork oak plains."
   },
@@ -58,7 +58,7 @@
     "code": "27",
     "country": "PT",
     "region": "Castelo Branco",
-    "city": "",
+    "city": "Castelo Branco",
     "e164": "35127",
     "notes": "Embroidery tradition and border castles."
   },
@@ -67,7 +67,7 @@
     "code": "28",
     "country": "PT",
     "region": "Faro",
-    "city": "",
+    "city": "Faro",
     "e164": "35128",
     "notes": "Golden cliffs and golf resorts. Major tourism region."
   },
@@ -76,7 +76,7 @@
     "code": "291",
     "country": "PT",
     "region": "Funchal",
-    "city": "",
+    "city": "Funchal",
     "e164": "351291",
     "notes": "Floating Garden of the Atlantic. Cristiano Ronaldo's home. New Year's fireworks."
   },
@@ -85,16 +85,16 @@
     "code": "292",
     "country": "PT",
     "region": "Horta",
-    "city": "",
+    "city": "Horta",
     "e164": "351292",
-    "notes": "Yachtsman's paradise. Peter Café Sport."
+    "notes": "Yachtsman's paradise. Peter Caf\u00e9 Sport."
   },
   {
     "id": "351295",
     "code": "295",
     "country": "PT",
-    "region": "Angra do Heroísmo",
-    "city": "",
+    "region": "Angra do Hero\u00edsmo",
+    "city": "Angra do Hero\u00edsmo",
     "e164": "351295",
     "notes": "UNESCO World Heritage city. Bullfighting tradition."
   },
@@ -103,9 +103,9 @@
     "code": "296",
     "country": "PT",
     "region": "Ponta Delgada",
-    "city": "",
+    "city": "Ponta Delgada",
     "e164": "351296",
-    "notes": "Green island (São Miguel). Volcanic lakes and tea plantations."
+    "notes": "Green island (S\u00e3o Miguel). Volcanic lakes and tea plantations."
   },
   {
     "id": "35191",

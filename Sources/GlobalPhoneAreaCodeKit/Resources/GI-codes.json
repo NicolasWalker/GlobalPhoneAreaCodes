@@ -4,7 +4,7 @@
     "code": "200",
     "country": "GI",
     "region": "Gibraltar",
-    "city": "",
+    "city": "Gibraltar",
     "e164": "350200",
     "notes": "General fixed line services"
   },
@@ -13,7 +13,7 @@
     "code": "216",
     "country": "GI",
     "region": "Gibraltar",
-    "city": "",
+    "city": "Gibraltar",
     "e164": "350216",
     "notes": "Enterprise fixed lines"
   },
@@ -22,7 +22,7 @@
     "code": "222",
     "country": "GI",
     "region": "Gibraltar",
-    "city": "",
+    "city": "Gibraltar",
     "e164": "350222",
     "notes": "Fixed lines"
   },

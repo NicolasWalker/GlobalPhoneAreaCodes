@@ -4,7 +4,7 @@
     "code": "2",
     "country": "NO",
     "region": "Oslo",
-    "city": "",
+    "city": "Oslo",
     "e164": "472",
     "notes": "The Capital. Nobel Peace Prize. Munch Museum and Opera House."
   },
@@ -13,16 +13,16 @@
     "code": "3",
     "country": "NO",
     "region": "Hamar / Lillehammer",
-    "city": "",
+    "city": "Hamar / Lillehammer",
     "e164": "473",
-    "notes": "1994 Winter Olympics host. Lake Mjøsa."
+    "notes": "1994 Winter Olympics host. Lake Mj\u00f8sa."
   },
   {
     "id": "475",
     "code": "5",
     "country": "NO",
     "region": "Bergen",
-    "city": "",
+    "city": "Bergen",
     "e164": "475",
     "notes": "Gateway to the Fjords. Bryggen (UNESCO). Rainiest city."
   },
@@ -31,7 +31,7 @@
     "code": "6",
     "country": "NO",
     "region": "Trondheim",
-    "city": "",
+    "city": "Trondheim",
     "e164": "476",
     "notes": "Viking capital. Nidaros Cathedral (Coronation site). NTNU University."
   },
@@ -39,8 +39,8 @@
     "id": "477",
     "code": "7",
     "country": "NO",
-    "region": "Tromsø / Bodø",
-    "city": "",
+    "region": "Troms\u00f8 / Bod\u00f8",
+    "city": "Troms\u00f8 / Bod\u00f8",
     "e164": "477",
     "notes": "Arctic Circle. Northern Lights. Midnight Sun."
   },

@@ -4,7 +4,7 @@
     "code": "2",
     "country": "BG",
     "region": "Sofia",
-    "city": "",
+    "city": "Sofia",
     "e164": "3592",
     "notes": "Capital and largest city"
   },
@@ -13,7 +13,7 @@
     "code": "32",
     "country": "BG",
     "region": "Plovdiv",
-    "city": "",
+    "city": "Plovdiv",
     "e164": "35932",
     "notes": "European Capital of Culture  ancient history"
   },
@@ -22,7 +22,7 @@
     "code": "52",
     "country": "BG",
     "region": "Varna",
-    "city": "",
+    "city": "Varna",
     "e164": "35952",
     "notes": "Maritime capital  major Black Sea resort"
   },
@@ -31,7 +31,7 @@
     "code": "56",
     "country": "BG",
     "region": "Burgas",
-    "city": "",
+    "city": "Burgas",
     "e164": "35956",
     "notes": "Major port and oil industry center"
   },
@@ -40,7 +40,7 @@
     "code": "82",
     "country": "BG",
     "region": "Ruse",
-    "city": "",
+    "city": "Ruse",
     "e164": "35982",
     "notes": "Known as 'Little Vienna'  on the Danube"
   },
@@ -49,7 +49,7 @@
     "code": "42",
     "country": "BG",
     "region": "Stara Zagora",
-    "city": "",
+    "city": "Stara Zagora",
     "e164": "35942",
     "notes": "City of linden trees and poets"
   },
@@ -58,7 +58,7 @@
     "code": "64",
     "country": "BG",
     "region": "Pleven",
-    "city": "",
+    "city": "Pleven",
     "e164": "35964",
     "notes": "Historical city known for the 1877 siege"
   },
@@ -67,7 +67,7 @@
     "code": "44",
     "country": "BG",
     "region": "Sliven",
-    "city": "",
+    "city": "Sliven",
     "e164": "35944",
     "notes": "Known for textile industry and Blue Rocks"
   },
@@ -76,7 +76,7 @@
     "code": "58",
     "country": "BG",
     "region": "Dobrich",
-    "city": "",
+    "city": "Dobrich",
     "e164": "35958",
     "notes": "Center of the Dobrudzha grain region"
   },
@@ -85,7 +85,7 @@
     "code": "54",
     "country": "BG",
     "region": "Shumen",
-    "city": "",
+    "city": "Shumen",
     "e164": "35954",
     "notes": "Home to the Monument to 1300 Years of Bulgaria"
   },
@@ -94,7 +94,7 @@
     "code": "76",
     "country": "BG",
     "region": "Pernik",
-    "city": "",
+    "city": "Pernik",
     "e164": "35976",
     "notes": "Heavy industry and mining heritage"
   },
@@ -103,7 +103,7 @@
     "code": "38",
     "country": "BG",
     "region": "Haskovo",
-    "city": "",
+    "city": "Haskovo",
     "e164": "35938",
     "notes": "Monument of the Holy Mother of God"
   },
@@ -112,7 +112,7 @@
     "code": "62",
     "country": "BG",
     "region": "Veliko Tarnovo",
-    "city": "",
+    "city": "Veliko Tarnovo",
     "e164": "35962",
     "notes": "Medieval capital of the Second Bulgarian Empire"
   },
@@ -121,7 +121,7 @@
     "code": "73",
     "country": "BG",
     "region": "Blagoevgrad",
-    "city": "",
+    "city": "Blagoevgrad",
     "e164": "35973",
     "notes": "University town in the southwest"
   }

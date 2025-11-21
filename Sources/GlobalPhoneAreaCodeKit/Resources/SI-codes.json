@@ -4,16 +4,16 @@
     "code": "1",
     "country": "SI",
     "region": "Ljubljana",
-    "city": "",
+    "city": "Ljubljana",
     "e164": "3861",
-    "notes": "The Capital. Green Capital of Europe. Jože Plečnik architecture. Dragon Bridge."
+    "notes": "The Capital. Green Capital of Europe. Jo\u017ee Ple\u010dnik architecture. Dragon Bridge."
   },
   {
     "id": "3862",
     "code": "2",
     "country": "SI",
     "region": "Maribor",
-    "city": "",
+    "city": "Maribor",
     "e164": "3862",
     "notes": "Oldest Vine in the World. Drava river. Pohorje ski resort."
   },
@@ -22,7 +22,7 @@
     "code": "4",
     "country": "SI",
     "region": "Kranj / Bled",
-    "city": "",
+    "city": "Kranj / Bled",
     "e164": "3864",
     "notes": "Gateway to the Alps. Lake Bled island and castle."
   },
@@ -31,7 +31,7 @@
     "code": "5",
     "country": "SI",
     "region": "Koper / Piran",
-    "city": "",
+    "city": "Koper / Piran",
     "e164": "3865",
     "notes": "Adriatic coast. Venetian architecture in Piran. Postojna Cave."
   },
@@ -40,9 +40,9 @@
     "code": "7",
     "country": "SI",
     "region": "Novo Mesto",
-    "city": "",
+    "city": "Novo Mesto",
     "e164": "3867",
-    "notes": "Pharmaceutical hub (Krka). Cviček wine region."
+    "notes": "Pharmaceutical hub (Krka). Cvi\u010dek wine region."
   },
   {
     "id": "38630",

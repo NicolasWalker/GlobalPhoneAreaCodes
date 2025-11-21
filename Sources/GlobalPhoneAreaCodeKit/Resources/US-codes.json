@@ -15,7 +15,7 @@
     "region": "Washington D.C.",
     "city": "Washington D.C.",
     "e164": "1202",
-    "notes": "Strictly the District. A status symbol for politicos and lobbyists. The entire District of Columbia"
+    "notes": "Strictly the District. A status symbol for politicos and lobbyists."
   },
   {
     "id": "1203",
@@ -87,7 +87,7 @@
     "region": "Manhattan",
     "city": "New York",
     "e164": "1212",
-    "notes": "The \"Gold Standard\" of phone numbers. Indicates you have had a landline since the 90s. Manhattan (Strictly)"
+    "notes": "The \"Gold Standard\" of phone numbers. Indicates you have had a landline since the 90s."
   },
   {
     "id": "1213",
@@ -112,7 +112,7 @@
     "code": "215",
     "country": "US",
     "region": "Philadelphia",
-    "city": "Center City",
+    "city": "Philadelphia",
     "e164": "1215",
     "notes": "The original Philly code. \"The 215\" vs the suburban \"610\"."
   },
@@ -184,9 +184,9 @@
     "code": "248",
     "country": "US",
     "region": "Detroit Suburbs",
-    "city": "Oakland County",
+    "city": "Oakland County (Troy / Birmingham)",
     "e164": "1248",
-    "notes": "(Troy  Birmingham). The \"Wealthy\" Detroit code vs the city's 313."
+    "notes": "The \"Wealthy\" Detroit code vs the city's 313."
   },
   {
     "id": "1251",
@@ -348,7 +348,7 @@
     "region": "Wyoming",
     "city": "Wyoming",
     "e164": "1307",
-    "notes": "**The Big Miss!** Includes Yellowstone and Jackson Hole."
+    "notes": "Includes Yellowstone and Jackson Hole."
   },
   {
     "id": "1308",
@@ -373,9 +373,9 @@
     "code": "310",
     "country": "US",
     "region": "Los Angeles (Westside)",
-    "city": "Los Angeles",
+    "city": "Los Angeles / Beverly Hills",
     "e164": "1310",
-    "notes": "The \"Prestige\" LA code. Implies wealth and beach proximity. Beverly Hills"
+    "notes": "The \"Prestige\" LA code. Implies wealth and beach proximity."
   },
   {
     "id": "1312",
@@ -463,7 +463,7 @@
     "code": "321",
     "country": "US",
     "region": "Space Coast / Orlando",
-    "city": "Cape Canaveral",
+    "city": "Cape Canaveral / Orlando",
     "e164": "1321",
     "notes": "The only area code that is a countdown (3-2-1) in honor of rocket launches at NASA."
   },
@@ -1003,9 +1003,9 @@
     "code": "516",
     "country": "US",
     "region": "Long Island (Nassau)",
-    "city": "Hempstead",
+    "city": "Hempstead / Great Neck",
     "e164": "1516",
-    "notes": "The \"Great Gatsby\" code. Wealthy suburbs directly bordering Queens. Great Neck"
+    "notes": "The \"Great Gatsby\" code. Wealthy suburbs directly bordering Queens."
   },
   {
     "id": "1517",
@@ -1372,9 +1372,9 @@
     "code": "631",
     "country": "US",
     "region": "Long Island (Suffolk)",
-    "city": "Brentwood",
+    "city": "Brentwood / The Hamptons",
     "e164": "1631",
-    "notes": "The \"Summer Vacation\" code for wealthy Manhattanites. The Hamptons"
+    "notes": "The \"Summer Vacation\" code for wealthy Manhattanites."
   },
   {
     "id": "1641",
@@ -1410,7 +1410,7 @@
     "region": "St. Paul",
     "city": "St. Paul (The Twin Cities)",
     "e164": "1651",
-    "notes": "The \"Twin\" to Minneapolis (612). You had 612 but missed 651."
+    "notes": "The \"Twin\" to Minneapolis (612)."
   },
   {
     "id": "1657",
@@ -1597,9 +1597,9 @@
     "code": "718",
     "country": "US",
     "region": "NYC Outer Boroughs",
-    "city": "New York",
+    "city": "NYC (Brooklyn / Queens / Bronx / Staten Island)",
     "e164": "1718",
-    "notes": "The \"Real New Yorker\" code for many. Not 212  but culturally massive (Biggie/Jay-Z). Brooklyn / Bronx / Queens / Staten Island"
+    "notes": "The \"Real New Yorker\" code for many. Not 212  but culturally massive (Biggie/Jay-Z)."
   },
   {
     "id": "1719",
@@ -1759,9 +1759,9 @@
     "code": "773",
     "country": "US",
     "region": "Chicago (Neighborhoods)",
-    "city": "Chicago",
+    "city": "Chicago (Lincoln Park / Neighborhoods)",
     "e164": "1773",
-    "notes": "Covers everything in Chicago that isn't the downtown Loop. Lincoln Park"
+    "notes": "Covers everything in Chicago that isn't the downtown Loop."
   },
   {
     "id": "1775",
@@ -1773,7 +1773,7 @@
     "notes": "Home to Burning Man and Lake Tahoe (NV side)."
   },
   {
-    "id": "1781",
+    "id": "1776",
     "code": "781",
     "country": "US",
     "region": "Boston Suburbs",
@@ -1921,9 +1921,9 @@
     "code": "818",
     "country": "US",
     "region": "The Valley",
-    "city": "Los Angeles",
+    "city": "Los Angeles (The Valley / Sherman Oaks)",
     "e164": "1818",
-    "notes": "Pop culture icon (\"Valley Girl\" accent). Sherman Oaks"
+    "notes": "Pop culture icon (\"Valley Girl\" accent)."
   },
   {
     "id": "1820",
@@ -1939,7 +1939,7 @@
     "code": "828",
     "country": "US",
     "region": "Asheville",
-    "city": "Western NC Mountains. Blue Ridge Parkway.",
+    "city": "Western NC Mountains / Asheville",
     "e164": "1828",
     "notes": ""
   },

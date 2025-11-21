@@ -3,8 +3,8 @@
     "id": "4812",
     "code": "12",
     "country": "PL",
-    "region": "Kraków",
-    "city": "",
+    "region": "Krak\u00f3w",
+    "city": "Krak\u00f3w",
     "e164": "4812",
     "notes": "Former Royal Capital. Wawel Castle. Main Market Square (UNESCO)."
   },
@@ -13,7 +13,7 @@
     "code": "22",
     "country": "PL",
     "region": "Warsaw",
-    "city": "",
+    "city": "Warsaw",
     "e164": "4822",
     "notes": "The Capital. Rebuilt Old Town. Palace of Culture and Science."
   },
@@ -22,7 +22,7 @@
     "code": "32",
     "country": "PL",
     "region": "Katowice",
-    "city": "",
+    "city": "Katowice",
     "e164": "4832",
     "notes": "Industrial heartland. Spodek arena. Modernist architecture."
   },
@@ -30,8 +30,8 @@
     "id": "4842",
     "code": "42",
     "country": "PL",
-    "region": "Łódź",
-    "city": "",
+    "region": "\u0141\u00f3d\u017a",
+    "city": "\u0141\u00f3d\u017a",
     "e164": "4842",
     "notes": "Textile industry heritage (Manufaktura). Film school."
   },
@@ -39,8 +39,8 @@
     "id": "4858",
     "code": "58",
     "country": "PL",
-    "region": "Gdańsk",
-    "city": "",
+    "region": "Gda\u0144sk",
+    "city": "Gda\u0144sk",
     "e164": "4858",
     "notes": "Baltic port. Solidarity movement birthplace. Amber capital."
   },
@@ -48,8 +48,8 @@
     "id": "4861",
     "code": "61",
     "country": "PL",
-    "region": "Poznań",
-    "city": "",
+    "region": "Pozna\u0144",
+    "city": "Pozna\u0144",
     "e164": "4861",
     "notes": "Trade fair city. Renaissance town hall with mechanical goats."
   },
@@ -57,8 +57,8 @@
     "id": "4871",
     "code": "71",
     "country": "PL",
-    "region": "Wrocław",
-    "city": "",
+    "region": "Wroc\u0142aw",
+    "city": "Wroc\u0142aw",
     "e164": "4871",
     "notes": "City of Bridges and Dwarfs. European Capital of Culture 2016."
   },
@@ -67,9 +67,9 @@
     "code": "91",
     "country": "PL",
     "region": "Szczecin",
-    "city": "",
+    "city": "Szczecin",
     "e164": "4891",
-    "notes": "Major port city. Ducal Castle. Wały Chrobrego promenade."
+    "notes": "Major port city. Ducal Castle. Wa\u0142y Chrobrego promenade."
   },
   {
     "id": "4850",

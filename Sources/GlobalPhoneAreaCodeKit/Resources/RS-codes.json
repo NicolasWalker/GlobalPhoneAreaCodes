@@ -4,7 +4,7 @@
     "code": "11",
     "country": "RS",
     "region": "Belgrade",
-    "city": "",
+    "city": "Belgrade",
     "e164": "38111",
     "notes": "The Capital. Fortress (Kalemegdan). Floating river clubs (Splavovi)."
   },
@@ -13,7 +13,7 @@
     "code": "21",
     "country": "RS",
     "region": "Novi Sad",
-    "city": "",
+    "city": "Novi Sad",
     "e164": "38121",
     "notes": "EXIT Festival (Petrovaradin Fortress). European Capital of Culture 2022."
   },
@@ -21,8 +21,8 @@
     "id": "38118",
     "code": "18",
     "country": "RS",
-    "region": "Niš",
-    "city": "",
+    "region": "Ni\u0161",
+    "city": "Ni\u0161",
     "e164": "38118",
     "notes": "Birthplace of Constantine the Great. Skull Tower."
   },
@@ -31,7 +31,7 @@
     "code": "34",
     "country": "RS",
     "region": "Kragujevac",
-    "city": "",
+    "city": "Kragujevac",
     "e164": "38134",
     "notes": "First capital of modern Serbia. Memorial Park."
   },
@@ -40,18 +40,18 @@
     "code": "24",
     "country": "RS",
     "region": "Subotica",
-    "city": "",
+    "city": "Subotica",
     "e164": "38124",
-    "notes": "Art Nouveau architecture. Palić Lake."
+    "notes": "Art Nouveau architecture. Pali\u0107 Lake."
   },
   {
     "id": "38132",
     "code": "32",
     "country": "RS",
-    "region": "Čačak",
-    "city": "",
+    "region": "\u010ca\u010dak",
+    "city": "\u010ca\u010dak",
     "e164": "38132",
-    "notes": "Roasted pork capital. Gateway to Ovčar-Kablar Gorge monasteries."
+    "notes": "Roasted pork capital. Gateway to Ov\u010dar-Kablar Gorge monasteries."
   },
   {
     "id": "38160",

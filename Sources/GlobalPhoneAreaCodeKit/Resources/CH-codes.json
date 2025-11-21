@@ -4,7 +4,7 @@
     "code": "21",
     "country": "CH",
     "region": "Lausanne",
-    "city": "",
+    "city": "Lausanne",
     "e164": "4121",
     "notes": "Olympic Capital (IOC HQ) and EPFL university."
   },
@@ -13,7 +13,7 @@
     "code": "22",
     "country": "CH",
     "region": "Geneva",
-    "city": "",
+    "city": "Geneva",
     "e164": "4122",
     "notes": "The \"Peace Capital\". Home to the UN Red Cross and CERN."
   },
@@ -22,7 +22,7 @@
     "code": "24",
     "country": "CH",
     "region": "Yverdon-les-Bains",
-    "city": "",
+    "city": "Yverdon-les-Bains",
     "e164": "4124",
     "notes": "Gateway to the Vaud Alps and thermal springs."
   },
@@ -31,7 +31,7 @@
     "code": "26",
     "country": "CH",
     "region": "Fribourg",
-    "city": "",
+    "city": "Fribourg",
     "e164": "4126",
     "notes": "A cultural bridge between French and German-speaking Switzerland."
   },
@@ -40,16 +40,16 @@
     "code": "27",
     "country": "CH",
     "region": "Sion",
-    "city": "",
+    "city": "Sion",
     "e164": "4127",
-    "notes": "Home to the Matterhorn Verbier and Crans-Montana"
+    "notes": "Home to the Matterhorn, Verbier and Crans-Montana"
   },
   {
     "id": "4131",
     "code": "31",
     "country": "CH",
     "region": "Bern",
-    "city": "",
+    "city": "Bern",
     "e164": "4131",
     "notes": "The Federal Capital. Medieval Old Town (UNESCO)."
   },
@@ -58,7 +58,7 @@
     "code": "32",
     "country": "CH",
     "region": "Biel/Bienne",
-    "city": "",
+    "city": "Biel/Bienne",
     "e164": "4132",
     "notes": "The \"Watch Valley\". Home to Rolex Omega and Swatch"
   },
@@ -67,7 +67,7 @@
     "code": "33",
     "country": "CH",
     "region": "Interlaken",
-    "city": "",
+    "city": "Interlaken",
     "e164": "4133",
     "notes": "Gateway to the Jungfrau Region and \"The Top of Europe\"."
   },
@@ -76,7 +76,7 @@
     "code": "41",
     "country": "CH",
     "region": "Lucerne",
-    "city": "",
+    "city": "Lucerne",
     "e164": "4141",
     "notes": "The historic heart of the Swiss Confederation."
   },
@@ -85,7 +85,7 @@
     "code": "43",
     "country": "CH",
     "region": "Zurich (Suburbs)",
-    "city": "",
+    "city": "Zurich (Suburbs)",
     "e164": "4143",
     "notes": "The suburban ring of the financial capital."
   },
@@ -94,7 +94,7 @@
     "code": "44",
     "country": "CH",
     "region": "Zurich (City)",
-    "city": "",
+    "city": "Zurich (City)",
     "e164": "4144",
     "notes": "The \"Downtown\" code. Banking Finance and Bahnhofstrasse."
   },
@@ -103,7 +103,7 @@
     "code": "52",
     "country": "CH",
     "region": "Winterthur",
-    "city": "",
+    "city": "Winterthur",
     "e164": "4152",
     "notes": "Former industrial powerhouse; now a museum and university hub."
   },
@@ -112,7 +112,7 @@
     "code": "56",
     "country": "CH",
     "region": "Baden",
-    "city": "",
+    "city": "Baden",
     "e164": "4156",
     "notes": "Thermal baths and engineering (ABB HQ)."
   },
@@ -121,7 +121,7 @@
     "code": "61",
     "country": "CH",
     "region": "Basel",
-    "city": "",
+    "city": "Basel",
     "e164": "4161",
     "notes": "Pharma capital of the world (Novartis/Roche) and Art Basel."
   },
@@ -130,7 +130,7 @@
     "code": "71",
     "country": "CH",
     "region": "St. Gallen",
-    "city": "",
+    "city": "St. Gallen",
     "e164": "4171",
     "notes": "Textile history and the Abbey Library (UNESCO)."
   },
@@ -139,7 +139,7 @@
     "code": "81",
     "country": "CH",
     "region": "Chur / Davos / St. Moritz",
-    "city": "",
+    "city": "Chur / Davos / St. Moritz",
     "e164": "4181",
     "notes": "Luxury ski resorts (WEF) and \"Heidi\" country."
   },
@@ -148,7 +148,7 @@
     "code": "91",
     "country": "CH",
     "region": "Lugano / Locarno",
-    "city": "",
+    "city": "Lugano / Locarno",
     "e164": "4191",
     "notes": "Italian-speaking Switzerland. \"The sunny living room\" of the country."
   }
