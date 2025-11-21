@@ -109,26 +109,6 @@ struct AreaCodeSearchView: View {
 - ✅ **SwiftUI Ready**: Built-in display helpers and Identifiable conformance
 - ✅ **E.164 Format**: Unambiguous phone number identification with country codes
 
-## Understanding E.164 Format
-
-**Important:** Area codes are NOT globally unique! For example, area code "212" exists in:
-- **United States:** E.164 format `1212` (country code +1)
-- **Belarus:** E.164 format `375212` (country code +375)
-
-The E.164 format includes the country calling code, making it globally unique:
-
-```swift
-// Ambiguous - returns multiple results
-let results = try await kit.lookup(code: "212")
-// Returns both US and Belarus entries
-
-// Unambiguous - returns exact match
-let usCode = try await kit.lookup(e164: "1212")      // US only
-let byCode = try await kit.lookup(e164: "375212")    // Belarus only
-```
-
-**Best Practice:** Use E.164 format when you need to identify a specific phone number region globally.
-
 ## Supported Countries / Regions
 
 The library currently includes data for the following:
@@ -232,6 +212,27 @@ The library throws `AreaCodeError` with these cases:
 - `countryName: String` - Full country name
 - `displayName: String` - Formatted display string
 - `subtitle: String` - Location detail string
+
+## Understanding E.164 Format
+
+**Important:** Area codes are NOT globally unique! For example, area code "212" exists in:
+- **United States:** E.164 format `1212` (country code +1)
+- **Belarus:** E.164 format `375212` (country code +375)
+
+The E.164 format includes the country calling code, making it globally unique:
+
+```swift
+// Ambiguous - returns multiple results
+let results = try await kit.lookup(code: "212")
+// Returns both US and Belarus entries
+
+// Unambiguous - returns exact match
+let usCode = try await kit.lookup(e164: "1212")      // US only
+let byCode = try await kit.lookup(e164: "375212")    // Belarus only
+```
+
+**Best Practice:** Use E.164 format when you need to identify a specific phone number region globally.
+
 
 ## Data Sources & Origin
 
