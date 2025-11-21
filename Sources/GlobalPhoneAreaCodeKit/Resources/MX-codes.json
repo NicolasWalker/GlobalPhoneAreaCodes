@@ -4,7 +4,7 @@
     "code": "55",
     "country": "MX",
     "region": "Mexico City",
-    "city": "Naucalpan, State of Mexico",
+    "city": "Naucalpan",
     "e164": "5255",
     "notes": "Capital and massive cultural hub - The CDMX region"
   },
@@ -103,7 +103,7 @@
     "code": "871",
     "country": "MX",
     "region": "Torreón",
-    "city": "Gómez Palacio, Durango",
+    "city": "Gómez Palacio",
     "e164": "52871",
     "notes": "Laguna region cotton hub"
   },

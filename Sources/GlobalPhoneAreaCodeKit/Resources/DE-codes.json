@@ -4,7 +4,7 @@
     "code": "30",
     "country": "DE",
     "region": "Berlin",
-    "city": "Brandenburg",
+    "city": "",
     "e164": "4930",
     "notes": "Capital and largest city, '030' is iconic"
   },
@@ -22,7 +22,7 @@
     "code": "89",
     "country": "DE",
     "region": "Munich",
-    "city": "Oberbayern",
+    "city": "",
     "e164": "4989",
     "notes": "Oktoberfest, BMW, tech hub"
   },
@@ -40,7 +40,7 @@
     "code": "221",
     "country": "DE",
     "region": "Cologne",
-    "city": "Rhineland",
+    "city": "",
     "e164": "49221",
     "notes": "Cathedral city  Carnival stronghold"
   },
@@ -49,7 +49,7 @@
     "code": "211",
     "country": "DE",
     "region": "Düsseldorf",
-    "city": "Rhineland",
+    "city": "",
     "e164": "49211",
     "notes": "Fashion capital  Japanese community"
   },
@@ -94,7 +94,7 @@
     "code": "911",
     "country": "DE",
     "region": "Nuremberg",
-    "city": "Franconia",
+    "city": "",
     "e164": "49911",
     "notes": "Historical imperial city  Christmas market"
   },
@@ -103,7 +103,7 @@
     "code": "201",
     "country": "DE",
     "region": "Essen",
-    "city": "Ruhr",
+    "city": "",
     "e164": "49201",
     "notes": "Energy capital  former coal/steel hub"
   },
@@ -121,7 +121,7 @@
     "code": "231",
     "country": "DE",
     "region": "Dortmund",
-    "city": "Ruhr",
+    "city": "",
     "e164": "49231",
     "notes": "Football capital (BVB)  former brewing center"
   },

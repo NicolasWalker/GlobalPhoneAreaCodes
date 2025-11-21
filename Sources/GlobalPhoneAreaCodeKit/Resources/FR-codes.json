@@ -13,7 +13,7 @@
     "code": "2",
     "country": "FR",
     "region": "Lille",
-    "city": "Rouen, Normandie",
+    "city": "Rouen",
     "e164": "332",
     "notes": "Northern and Northwestern zone"
   },
@@ -31,7 +31,7 @@
     "code": "4",
     "country": "FR",
     "region": "Lyon",
-    "city": "Grenoble, Provence-Alpes-Côte d’Azur",
+    "city": "Grenoble",
     "e164": "334",
     "notes": "Southeastern zone including Rhône valley and Alps"
   },
@@ -40,7 +40,7 @@
     "code": "5",
     "country": "FR",
     "region": "Bordeaux",
-    "city": "Toulouse, Occitanie",
+    "city": "Toulouse",
     "e164": "335",
     "notes": "Southwestern zone spanning Atlantic to Pyrenees"
   },
@@ -58,7 +58,7 @@
     "code": "7",
     "country": "FR",
     "region": "Marseille",
-    "city": "Montpellier, Provence-Alpes-Côte d’Azur",
+    "city": "Montpellier",
     "e164": "337",
     "notes": "Second mobile number block"
   },
@@ -76,7 +76,7 @@
     "code": "9",
     "country": "FR",
     "region": "Nantes",
-    "city": "Rennes, Bretagne",
+    "city": "Rennes",
     "e164": "339",
     "notes": "VoIP and non-geographic allocations"
   }

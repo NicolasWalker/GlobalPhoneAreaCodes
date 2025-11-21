@@ -1,0 +1,38 @@
+[
+  {
+    "id": "4232",
+    "code": "2",
+    "country": "LI",
+    "region": "Vaduz",
+    "city": "Schaan",
+    "e164": "4232",
+    "notes": "Capital city. Vaduz Castle (Princely Family residence). Alpine finance hub."
+  },
+  {
+    "id": "4233",
+    "code": "3",
+    "country": "LI",
+    "region": "Triesen",
+    "city": "Balzers",
+    "e164": "4233",
+    "notes": "Gutenberg Castle."
+  },
+  {
+    "id": "4236",
+    "code": "6",
+    "country": "LI",
+    "region": "Mobile",
+    "city": "",
+    "e164": "4236",
+    "notes": "Mobile services"
+  },
+  {
+    "id": "4237",
+    "code": "7",
+    "country": "LI",
+    "region": "Mobile",
+    "city": "",
+    "e164": "4237",
+    "notes": "Mobile services"
+  }
+]

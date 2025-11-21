@@ -1,0 +1,137 @@
+[
+  {
+    "id": "3906",
+    "code": "6",
+    "country": "IT",
+    "region": "Rome",
+    "city": "Vatican City",
+    "e164": "3906",
+    "notes": "The Capital - Eternal City"
+  },
+  {
+    "id": "3902",
+    "code": "2",
+    "country": "IT",
+    "region": "Milan",
+    "city": "",
+    "e164": "3902",
+    "notes": "Fashion and Finance Capital"
+  },
+  {
+    "id": "39011",
+    "code": "11",
+    "country": "IT",
+    "region": "Turin",
+    "city": "",
+    "e164": "39011",
+    "notes": "Automotive hub (Fiat) - The Alps"
+  },
+  {
+    "id": "39081",
+    "code": "81",
+    "country": "IT",
+    "region": "Naples",
+    "city": "",
+    "e164": "39081",
+    "notes": "Birthplace of Pizza - Mount Vesuvius"
+  },
+  {
+    "id": "39041",
+    "code": "41",
+    "country": "IT",
+    "region": "Venice",
+    "city": "",
+    "e164": "39041",
+    "notes": "The Lagoon City - Tourism hub"
+  },
+  {
+    "id": "39055",
+    "code": "55",
+    "country": "IT",
+    "region": "Florence",
+    "city": "",
+    "e164": "39055",
+    "notes": "Renaissance Capital - Art and History"
+  },
+  {
+    "id": "39051",
+    "code": "51",
+    "country": "IT",
+    "region": "Bologna",
+    "city": "",
+    "e164": "39051",
+    "notes": "The Learned City - Oldest University"
+  },
+  {
+    "id": "39010",
+    "code": "10",
+    "country": "IT",
+    "region": "Genoa",
+    "city": "",
+    "e164": "39010",
+    "notes": "Major Port City"
+  },
+  {
+    "id": "39091",
+    "code": "91",
+    "country": "IT",
+    "region": "Palermo",
+    "city": "",
+    "e164": "39091",
+    "notes": "Capital of Sicily"
+  },
+  {
+    "id": "39080",
+    "code": "80",
+    "country": "IT",
+    "region": "Bari",
+    "city": "",
+    "e164": "39080",
+    "notes": "Port city on the Adriatic"
+  },
+  {
+    "id": "39045",
+    "code": "45",
+    "country": "IT",
+    "region": "Verona",
+    "city": "",
+    "e164": "39045",
+    "notes": "City of Romeo and Juliet"
+  },
+  {
+    "id": "39095",
+    "code": "95",
+    "country": "IT",
+    "region": "Catania",
+    "city": "",
+    "e164": "39095",
+    "notes": "City near Mount Etna"
+  },
+  {
+    "id": "39040",
+    "code": "40",
+    "country": "IT",
+    "region": "Trieste",
+    "city": "",
+    "e164": "39040",
+    "notes": "Coffee capital - Port city"
+  },
+  {
+    "id": "39070",
+    "code": "70",
+    "country": "IT",
+    "region": "Cagliari",
+    "city": "",
+    "e164": "39070",
+    "notes": "Capital of Sardinia"
+  },
+  {
+    "id": "393",
+    "code": "3",
+    "country": "IT",
+    "region": "Mobile",
+    "city": "",
+    "e164": "393",
+    "notes": "Mobile numbers start with 3 (32x 33x 34x etc)"
+  }
+]

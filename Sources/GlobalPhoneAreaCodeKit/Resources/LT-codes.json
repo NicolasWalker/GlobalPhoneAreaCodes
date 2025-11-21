@@ -1,0 +1,74 @@
+[
+  {
+    "id": "3705",
+    "code": "5",
+    "country": "LT",
+    "region": "Vilnius",
+    "city": "",
+    "e164": "3705",
+    "notes": "The Capital. Baroque Old Town (UNESCO). Gediminas Tower."
+  },
+  {
+    "id": "37037",
+    "code": "37",
+    "country": "LT",
+    "region": "Kaunas",
+    "city": "",
+    "e164": "37037",
+    "notes": "Interwar modernist architecture (UNESCO). Zalgiris Arena."
+  },
+  {
+    "id": "37046",
+    "code": "46",
+    "country": "LT",
+    "region": "Klaipėda",
+    "city": "",
+    "e164": "37046",
+    "notes": "Major ice-free port. Curonian Spit gateway. German architectural influence."
+  },
+  {
+    "id": "37041",
+    "code": "41",
+    "country": "LT",
+    "region": "Šiauliai",
+    "city": "",
+    "e164": "37041",
+    "notes": "Hill of Crosses pilgrimage site. City of the Sun."
+  },
+  {
+    "id": "37045",
+    "code": "45",
+    "country": "LT",
+    "region": "Panevėžys",
+    "city": "",
+    "e164": "37045",
+    "notes": "Industrial city. Narrow-gauge railway."
+  },
+  {
+    "id": "370315",
+    "code": "315",
+    "country": "LT",
+    "region": "Alytus",
+    "city": "",
+    "e164": "370315",
+    "notes": "Capital of Dzūkija region. Surrounded by forests."
+  },
+  {
+    "id": "370343",
+    "code": "343",
+    "country": "LT",
+    "region": "Marijampolė",
+    "city": "",
+    "e164": "370343",
+    "notes": "Capital of Suvalkija region."
+  },
+  {
+    "id": "3706",
+    "code": "6",
+    "country": "LT",
+    "region": "Mobile",
+    "city": "",
+    "e164": "3706",
+    "notes": "Mobile network services (60-69)"
+  }
+]

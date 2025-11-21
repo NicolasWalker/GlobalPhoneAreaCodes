@@ -1,0 +1,74 @@
+[
+  {
+    "id": "3110",
+    "code": "10",
+    "country": "NL",
+    "region": "Rotterdam",
+    "city": "",
+    "e164": "3110",
+    "notes": "The '010'. Working class pride. Modern architecture and Europe's largest port."
+  },
+  {
+    "id": "3120",
+    "code": "20",
+    "country": "NL",
+    "region": "Amsterdam",
+    "city": "",
+    "e164": "3120",
+    "notes": "The '020'. Canal Ring (UNESCO). Liberal culture and global tourism hub."
+  },
+  {
+    "id": "3130",
+    "code": "30",
+    "country": "NL",
+    "region": "Utrecht",
+    "city": "",
+    "e164": "3130",
+    "notes": "Central railway hub. Medieval center with unique wharf cellars."
+  },
+  {
+    "id": "3140",
+    "code": "40",
+    "country": "NL",
+    "region": "Eindhoven",
+    "city": "",
+    "e164": "3140",
+    "notes": "The 'Brainport'. Philips heritage. High-tech and design capital."
+  },
+  {
+    "id": "3143",
+    "code": "43",
+    "country": "NL",
+    "region": "Maastricht",
+    "city": "",
+    "e164": "3143",
+    "notes": "Oldest city claim. Birthplace of the EU (Maastricht Treaty). Burgundian lifestyle."
+  },
+  {
+    "id": "3150",
+    "code": "50",
+    "country": "NL",
+    "region": "Groningen",
+    "city": "",
+    "e164": "3150",
+    "notes": "Historic student city of the North. 'Martinitoren' landmark."
+  },
+  {
+    "id": "3170",
+    "code": "70",
+    "country": "NL",
+    "region": "The Hague",
+    "city": "",
+    "e164": "3170",
+    "notes": "Seat of Government & Royal Family. International Court of Justice ('Peace Palace')."
+  },
+  {
+    "id": "316",
+    "code": "6",
+    "country": "NL",
+    "region": "Mobile",
+    "city": "",
+    "e164": "316",
+    "notes": "Mobile network services (KPN / Vodafone / T-Mobile)"
+  }
+]

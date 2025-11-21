@@ -1,0 +1,83 @@
+[
+  {
+    "id": "37322",
+    "code": "22",
+    "country": "MD",
+    "region": "Chișinău",
+    "city": "",
+    "e164": "37322",
+    "notes": "The Capital. Soviet modernist architecture and green parks. Stefan cel Mare boulevard."
+  },
+  {
+    "id": "373231",
+    "code": "231",
+    "country": "MD",
+    "region": "Bălți",
+    "city": "",
+    "e164": "373231",
+    "notes": "'Northern Capital'. Industrial and cultural center."
+  },
+  {
+    "id": "373291",
+    "code": "291",
+    "country": "MD",
+    "region": "Cahul",
+    "city": "",
+    "e164": "373291",
+    "notes": "Southern cultural center. Folk music festivals."
+  },
+  {
+    "id": "373533",
+    "code": "533",
+    "country": "MD",
+    "region": "Tiraspol",
+    "city": "",
+    "e164": "373533",
+    "notes": "De facto capital of Transnistria. Soviet relics."
+  },
+  {
+    "id": "373298",
+    "code": "298",
+    "country": "MD",
+    "region": "Comrat",
+    "city": "",
+    "e164": "373298",
+    "notes": "Capital of the autonomous Gagauz region. Turkic heritage."
+  },
+  {
+    "id": "37360",
+    "code": "60",
+    "country": "MD",
+    "region": "Mobile",
+    "city": "",
+    "e164": "37360",
+    "notes": "Orange Moldova"
+  },
+  {
+    "id": "37368",
+    "code": "68",
+    "country": "MD",
+    "region": "Mobile",
+    "city": "",
+    "e164": "37368",
+    "notes": "Orange Moldova"
+  },
+  {
+    "id": "37379",
+    "code": "79",
+    "country": "MD",
+    "region": "Mobile",
+    "city": "",
+    "e164": "37379",
+    "notes": "Moldcell"
+  },
+  {
+    "id": "37367",
+    "code": "67",
+    "country": "MD",
+    "region": "Mobile",
+    "city": "",
+    "e164": "37367",
+    "notes": "Unité"
+  }
+]

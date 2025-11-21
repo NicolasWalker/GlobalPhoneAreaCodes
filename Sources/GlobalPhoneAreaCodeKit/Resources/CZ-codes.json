@@ -4,7 +4,7 @@
     "code": "2",
     "country": "CZ",
     "region": "Prague",
-    "city": "Central Bohemia",
+    "city": "",
     "e164": "4202",
     "notes": "Capital city, The City of a Hundred Spires"
   },
@@ -13,7 +13,7 @@
     "code": "54",
     "country": "CZ",
     "region": "Brno",
-    "city": "Moravia",
+    "city": "",
     "e164": "42054",
     "notes": "Second largest city, technology hub"
   },
@@ -22,7 +22,7 @@
     "code": "59",
     "country": "CZ",
     "region": "Ostrava",
-    "city": "Silesia",
+    "city": "",
     "e164": "42059",
     "notes": "Industrial heartland, 'Steel Heart'"
   },
@@ -31,7 +31,7 @@
     "code": "37",
     "country": "CZ",
     "region": "Plzeň",
-    "city": "Bohemia",
+    "city": "",
     "e164": "42037",
     "notes": "Home of Pilsner Urquell beer"
   },
@@ -40,7 +40,7 @@
     "code": "48",
     "country": "CZ",
     "region": "Liberec",
-    "city": "Bohemia",
+    "city": "",
     "e164": "42048",
     "notes": "Near Ještěd mountain, winter sports"
   },
@@ -49,7 +49,7 @@
     "code": "38",
     "country": "CZ",
     "region": "České Budějovice",
-    "city": "Bohemia",
+    "city": "",
     "e164": "42038",
     "notes": "Budweiser Budvar brewery city"
   },
@@ -58,7 +58,7 @@
     "code": "58",
     "country": "CZ",
     "region": "Olomouc",
-    "city": "Moravia",
+    "city": "",
     "e164": "42058",
     "notes": "Historical capital of Moravia, cheese specialty"
   },
@@ -67,7 +67,7 @@
     "code": "49",
     "country": "CZ",
     "region": "Hradec Králové",
-    "city": "Bohemia",
+    "city": "",
     "e164": "42049",
     "notes": "University city, piano manufacturing"
   },
@@ -76,7 +76,7 @@
     "code": "47",
     "country": "CZ",
     "region": "Ústí nad Labem",
-    "city": "Bohemia",
+    "city": "",
     "e164": "42047",
     "notes": "River port on the Elbe"
   },
@@ -85,7 +85,7 @@
     "code": "35",
     "country": "CZ",
     "region": "Karlovy Vary",
-    "city": "Bohemia",
+    "city": "",
     "e164": "42035",
     "notes": "Famous spa town (Carlsbad), film festival"
   },
@@ -94,7 +94,7 @@
     "code": "56",
     "country": "CZ",
     "region": "Jihlava",
-    "city": "Moravia",
+    "city": "",
     "e164": "42056",
     "notes": "Located in the Bohemian-Moravian Highlands"
   },
@@ -103,7 +103,7 @@
     "code": "57",
     "country": "CZ",
     "region": "Zlín",
-    "city": "Moravia",
+    "city": "",
     "e164": "42057",
     "notes": "Bata shoes origin, functionalist architecture"
   },
@@ -112,7 +112,7 @@
     "code": "46",
     "country": "CZ",
     "region": "Pardubice",
-    "city": "Bohemia",
+    "city": "",
     "e164": "42046",
     "notes": "Gingerbread and steeplechase horse race"
   }

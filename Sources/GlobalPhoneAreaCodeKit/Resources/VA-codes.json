@@ -1,0 +1,20 @@
+[
+  {
+    "id": "379",
+    "code": "379",
+    "country": "VA",
+    "region": "Vatican City",
+    "city": "",
+    "e164": "379",
+    "notes": "Officially assigned country code. Rarely used."
+  },
+  {
+    "id": "3906698",
+    "code": "06",
+    "country": "VA",
+    "region": "Vatican City",
+    "city": "",
+    "e164": "3906698",
+    "notes": "The Holy See. St. Peter's Basilica. Sistine Chapel. Uses Rome code +39 06."
+  }
+]

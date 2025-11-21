@@ -4,7 +4,7 @@
     "code": "201",
     "country": "US",
     "region": "North Jersey",
-    "city": "Jersey City, Hoboken, Hackensack",
+    "city": "Jersey City",
     "e164": "1201",
     "notes": "The very first area code ever assigned (1947). Home to the Sopranos settings."
   },
@@ -22,7 +22,7 @@
     "code": "203",
     "country": "US",
     "region": "Southwest Connecticut",
-    "city": "Fairfield County, Stamford, Greenwich",
+    "city": "Fairfield County",
     "e164": "1203",
     "notes": "The \"Gold Coast\" of Connecticut; hedge fund country close to NYC."
   },
@@ -31,7 +31,7 @@
     "code": "205",
     "country": "US",
     "region": "Birmingham",
-    "city": "Birmingham, Tuscaloosa",
+    "city": "Birmingham",
     "e164": "1205",
     "notes": "Historically covered the entire state of Alabama."
   },
@@ -40,7 +40,7 @@
     "code": "206",
     "country": "US",
     "region": "Seattle",
-    "city": "Seattle, Shoreline, Bainbridge Island",
+    "city": "Seattle",
     "e164": "1206",
     "notes": "The original grunge-era code. Suburbs like Bellevue are 425."
   },
@@ -67,7 +67,7 @@
     "code": "209",
     "country": "US",
     "region": "Central Valley",
-    "city": "Stockton, Modesto, Yosemite",
+    "city": "Stockton",
     "e164": "1209",
     "notes": "Agricultural hub; famously shouted out by the Diaz brothers (UFC fighters)."
   },
@@ -76,7 +76,7 @@
     "code": "210",
     "country": "US",
     "region": "San Antonio",
-    "city": "Downtown, Alamo Heights, Pearl District",
+    "city": "Downtown",
     "e164": "1210",
     "notes": "The \"Military City\" code. One of the original Texas area codes."
   },
@@ -94,7 +94,7 @@
     "code": "213",
     "country": "US",
     "region": "Los Angeles (Downtown)",
-    "city": "DTLA, Staples Center, USC",
+    "city": "DTLA",
     "e164": "1213",
     "notes": "The original SoCal code (1947). Now mostly strictly Downtown LA."
   },
@@ -103,7 +103,7 @@
     "code": "214",
     "country": "US",
     "region": "Dallas (Core)",
-    "city": "Downtown, Uptown, Deep Ellum",
+    "city": "Downtown",
     "e164": "1214",
     "notes": "The original Dallas code. historically considered the \"prestige\" code vs. the suburban 972."
   },
@@ -112,7 +112,7 @@
     "code": "215",
     "country": "US",
     "region": "Philadelphia",
-    "city": "Center City, South Philly, North Philly",
+    "city": "Center City",
     "e164": "1215",
     "notes": "The original Philly code. \"The 215\" vs the suburban \"610\"."
   },
@@ -121,7 +121,7 @@
     "code": "216",
     "country": "US",
     "region": "Cleveland",
-    "city": "Cleveland proper, The Flats",
+    "city": "Cleveland proper",
     "e164": "1216",
     "notes": "Famous from \"The Drew Carey Show\" and Bone Thugs-N-Harmony songs."
   },
@@ -130,7 +130,7 @@
     "code": "217",
     "country": "US",
     "region": "Central Illinois",
-    "city": "Springfield, Champaign-Urbana",
+    "city": "Springfield",
     "e164": "1217",
     "notes": "Home to the State Capitol and University of Illinois."
   },
@@ -139,7 +139,7 @@
     "code": "219",
     "country": "US",
     "region": "Northwest Indiana",
-    "city": "Gary, Hammond, \"The Region\"",
+    "city": "Gary",
     "e164": "1219",
     "notes": "Culturally part of the Chicago metro area (suburbs) but in Indiana."
   },
@@ -148,7 +148,7 @@
     "code": "225",
     "country": "US",
     "region": "Baton Rouge",
-    "city": "Baton Rouge, LSU area",
+    "city": "Baton Rouge",
     "e164": "1225",
     "notes": "spells \"CAJ\" on the dial pad."
   },
@@ -157,7 +157,7 @@
     "code": "228",
     "country": "US",
     "region": "Gulf Coast",
-    "city": "Biloxi, Gulfport, Ocean Springs",
+    "city": "Biloxi",
     "e164": "1228",
     "notes": "The \"Coastal Mississippi\" code; casino country."
   },
@@ -166,7 +166,7 @@
     "code": "229",
     "country": "US",
     "region": "Southwest Georgia",
-    "city": "Albany / Valdosta, Home to Plains",
+    "city": "Albany / Valdosta",
     "e164": "1229",
     "notes": "GA (Jimmy Carter's home)."
   },
@@ -175,7 +175,7 @@
     "code": "239",
     "country": "US",
     "region": "Southwest Florida",
-    "city": "Naples, Fort Myers, Cape Coral",
+    "city": "Naples",
     "e164": "1239",
     "notes": "Covers the \"Paradise Coast.\""
   },
@@ -220,7 +220,7 @@
     "code": "254",
     "country": "US",
     "region": "Central Texas",
-    "city": "Waco, Killeen (Fort Cavazos), Temple",
+    "city": "Waco",
     "e164": "1254",
     "notes": "Known for the Magnolia Market (Chip & Joanna Gaines) and military history."
   },
@@ -247,7 +247,7 @@
     "code": "262",
     "country": "US",
     "region": "Milwaukee Suburbs",
-    "city": "Waukesha, Racine",
+    "city": "Waukesha",
     "e164": "1262",
     "notes": "The conservative suburban ring around Milwaukee (414)."
   },
@@ -292,7 +292,7 @@
     "code": "281",
     "country": "US",
     "region": "Houston (Suburbs)",
-    "city": "Katy, The Woodlands, Sugar Land",
+    "city": "Katy",
     "e164": "1281",
     "notes": "Historically the suburban ring outside the \"610 Loop.\" Now overlays the whole city."
   },
@@ -301,7 +301,7 @@
     "code": "301",
     "country": "US",
     "region": "Maryland (DC Suburbs)",
-    "city": "Bethesda, Silver Spring, Prince George's Co.",
+    "city": "Bethesda",
     "e164": "1301",
     "notes": "Historically the whole state; now implies the wealthy DC suburbs."
   },
@@ -310,7 +310,7 @@
     "code": "302",
     "country": "US",
     "region": "Delaware",
-    "city": "Entire State, Small state, single code.",
+    "city": "Entire State",
     "e164": "1302",
     "notes": ""
   },
@@ -319,7 +319,7 @@
     "code": "303",
     "country": "US",
     "region": "Denver",
-    "city": "Denver, Boulder, Aurora",
+    "city": "Denver",
     "e164": "1303",
     "notes": "The original Colorado code. 720 is the overlay  but 303 is the \"native\" badge."
   },
@@ -337,7 +337,7 @@
     "code": "305",
     "country": "US",
     "region": "Miami",
-    "city": "South Beach, Little Havana, Brickell",
+    "city": "South Beach",
     "e164": "1305",
     "notes": "The ultimate \"212\" of Florida. \"The 305\" is a cultural brand made famous by Pitbull."
   },
@@ -373,7 +373,7 @@
     "code": "310",
     "country": "US",
     "region": "Los Angeles (Westside)",
-    "city": "Beverly Hills, Santa Monica, Malibu",
+    "city": "Beverly Hills",
     "e164": "1310",
     "notes": "The \"Prestige\" LA code. Implies wealth and beach proximity."
   },
@@ -382,7 +382,7 @@
     "code": "312",
     "country": "US",
     "region": "Chicago (The Loop)",
-    "city": "Downtown Chicago, Gold Coast, River North",
+    "city": "Downtown Chicago",
     "e164": "1312",
     "notes": "Strictly the business/downtown district. The \"212\" of the Midwest."
   },
@@ -391,7 +391,7 @@
     "code": "313",
     "country": "US",
     "region": "Detroit",
-    "city": "Dearborn, Grosse Pointe",
+    "city": "",
     "e164": "1313",
     "notes": "Eminem made this famous in the movie *8 Mile*. strictly \"The D.\""
   },
@@ -409,7 +409,7 @@
     "code": "315",
     "country": "US",
     "region": "Central NY",
-    "city": "Syracuse, Utica, Watertown",
+    "city": "Syracuse",
     "e164": "1315",
     "notes": "Home to the Snow Belt and Syracuse University."
   },
@@ -445,7 +445,7 @@
     "code": "319",
     "country": "US",
     "region": "Eastern Iowa",
-    "city": "Iowa City, Cedar Rapids, Waterloo",
+    "city": "Iowa City",
     "e164": "1319",
     "notes": "Home to the University of Iowa."
   },
@@ -454,7 +454,7 @@
     "code": "320",
     "country": "US",
     "region": "Central Minnesota",
-    "city": "St. Cloud, Lake Wobegon territory.",
+    "city": "St. Cloud",
     "e164": "1320",
     "notes": ""
   },
@@ -463,7 +463,7 @@
     "code": "321",
     "country": "US",
     "region": "Space Coast / Orlando",
-    "city": "Cape Canaveral, Cocoa Beach, Titusville",
+    "city": "Cape Canaveral",
     "e164": "1321",
     "notes": "The only area code that is a countdown (3-2-1) in honor of rocket launches at NASA."
   },
@@ -472,7 +472,7 @@
     "code": "323",
     "country": "US",
     "region": "Los Angeles (Central)",
-    "city": "Hollywood, Silver Lake, Echo Park",
+    "city": "Hollywood",
     "e164": "1323",
     "notes": "Historically the \"Cool/Hipster\" code surrounding Downtown."
   },
@@ -481,7 +481,7 @@
     "code": "325",
     "country": "US",
     "region": "West Central Texas",
-    "city": "Abilene, San Angelo, Snyder",
+    "city": "Abilene",
     "e164": "1325",
     "notes": "Covers a massive rural area of ranching country."
   },
@@ -526,7 +526,7 @@
     "code": "334",
     "country": "US",
     "region": "Montgomery",
-    "city": "Montgomery, Auburn, Selma",
+    "city": "Montgomery",
     "e164": "1334",
     "notes": "Civil Rights history hub."
   },
@@ -535,7 +535,7 @@
     "code": "336",
     "country": "US",
     "region": "Piedmont Triad",
-    "city": "Greensboro, Winston-Salem, High Point",
+    "city": "Greensboro",
     "e164": "1336",
     "notes": "Tobacco and furniture country."
   },
@@ -571,7 +571,7 @@
     "code": "347",
     "country": "US",
     "region": "NYC Outer Boroughs",
-    "city": "Bronx, Brooklyn, Queens",
+    "city": "Bronx",
     "e164": "1347",
     "notes": "The \"Millennial\" NYC code. Common for cell phones issued post-2000."
   },
@@ -589,7 +589,7 @@
     "code": "352",
     "country": "US",
     "region": "Gainesville / Ocala",
-    "city": "University of Florida campus, The Villages",
+    "city": "University of Florida campus",
     "e164": "1352",
     "notes": "Known as the \"Nature Coast\" code."
   },
@@ -598,7 +598,7 @@
     "code": "360",
     "country": "US",
     "region": "Western Washington",
-    "city": "Olympia, Bellingham",
+    "city": "Olympia",
     "e164": "1360",
     "notes": "Vancouver. Everything in West WA that isn't Seattle/Tacoma."
   },
@@ -607,7 +607,7 @@
     "code": "361",
     "country": "US",
     "region": "Corpus Christi",
-    "city": "Padre Island, Port Aransas, Victoria",
+    "city": "Padre Island",
     "e164": "1361",
     "notes": "The \"Coastal Bend\" code."
   },
@@ -634,7 +634,7 @@
     "code": "386",
     "country": "US",
     "region": "Daytona Beach",
-    "city": "Daytona International Speedway, Ormond Beach",
+    "city": "Daytona International Speedway",
     "e164": "1386",
     "notes": "Home of the Daytona 500."
   },
@@ -652,7 +652,7 @@
     "code": "402",
     "country": "US",
     "region": "Eastern Nebraska",
-    "city": "Omaha, Lincoln",
+    "city": "Omaha",
     "e164": "1402",
     "notes": "Warren Buffett lives in the 402."
   },
@@ -670,7 +670,7 @@
     "code": "405",
     "country": "US",
     "region": "Oklahoma City",
-    "city": "Oklahoma City metro, Norman",
+    "city": "Oklahoma City metro",
     "e164": "1405",
     "notes": "University of Oklahoma territory."
   },
@@ -688,7 +688,7 @@
     "code": "407",
     "country": "US",
     "region": "Orlando (Core)",
-    "city": "Downtown Orlando, Winter Park, Lake Nona",
+    "city": "Downtown Orlando",
     "e164": "1407",
     "notes": "The primary Orlando code. Recognized globally due to Disney and tourism."
   },
@@ -697,7 +697,7 @@
     "code": "408",
     "country": "US",
     "region": "Silicon Valley",
-    "city": "San Jose, Cupertino, Sunnyvale",
+    "city": "San Jose",
     "e164": "1408",
     "notes": "The code for Apple HQ. High-tech history."
   },
@@ -706,7 +706,7 @@
     "code": "409",
     "country": "US",
     "region": "Southeast Texas",
-    "city": "Galveston Island, Beaumont, Port Arthur",
+    "city": "Galveston Island",
     "e164": "1409",
     "notes": "Historically included Houston until 1983. Now mostly coastal/industrial."
   },
@@ -715,7 +715,7 @@
     "code": "410",
     "country": "US",
     "region": "Baltimore",
-    "city": "Baltimore City, Annapolis, Eastern Shore",
+    "city": "Baltimore City",
     "e164": "1410",
     "notes": "Known for \"The Wire\" and crabcakes."
   },
@@ -724,7 +724,7 @@
     "code": "412",
     "country": "US",
     "region": "Pittsburgh",
-    "city": "Pittsburgh, Steel City",
+    "city": "Pittsburgh",
     "e164": "1412",
     "notes": "One of the original 1947 codes."
   },
@@ -733,7 +733,7 @@
     "code": "413",
     "country": "US",
     "region": "Western Mass",
-    "city": "The Berkshires, Springfield, Amherst",
+    "city": "The Berkshires",
     "e164": "1413",
     "notes": "Distinctly rural/academic vibe compared to Boston's 617."
   },
@@ -751,7 +751,7 @@
     "code": "415",
     "country": "US",
     "region": "San Francisco",
-    "city": "San Francisco, Marin County",
+    "city": "San Francisco",
     "e164": "1415",
     "notes": "The tech prestige code. Startups crave a 415 number for legitimacy."
   },
@@ -769,7 +769,7 @@
     "code": "419",
     "country": "US",
     "region": "Northwest Ohio",
-    "city": "Toledo, Sandusky, Lake Erie Islands",
+    "city": "Toledo",
     "e164": "1419",
     "notes": "Historically covered half of Ohio."
   },
@@ -778,7 +778,7 @@
     "code": "423",
     "country": "US",
     "region": "East Tennessee",
-    "city": "Chattanooga / Johnson City, Appalachian Mountains region, Great Smoky Mountains.",
+    "city": "Chattanooga / Johnson City",
     "e164": "1423",
     "notes": ""
   },
@@ -796,7 +796,7 @@
     "code": "425",
     "country": "US",
     "region": "Seattle Suburbs (Eastside)",
-    "city": "Bellevue, Redmond, Kirkland",
+    "city": "Bellevue",
     "e164": "1425",
     "notes": "The \"Tech Suburb\" code (Microsoft HQ). Wealthier suburban vibe."
   },
@@ -805,7 +805,7 @@
     "code": "432",
     "country": "US",
     "region": "West Texas (Permian Basin)",
-    "city": "Midland, Odessa, Big Spring",
+    "city": "Midland",
     "e164": "1432",
     "notes": "The heart of Texas oil country and \"Friday Night Lights.\""
   },
@@ -877,7 +877,7 @@
     "code": "480",
     "country": "US",
     "region": "Phoenix (East Valley)",
-    "city": "Scottsdale, Tempe, Mesa",
+    "city": "Scottsdale",
     "e164": "1480",
     "notes": "Generally considered the \"wealthy/upscale\" part of the Phoenix metro."
   },
@@ -886,7 +886,7 @@
     "code": "501",
     "country": "US",
     "region": "Little Rock",
-    "city": "Central Arkansas, Little Rock, Hot Springs",
+    "city": "Central Arkansas",
     "e164": "1501",
     "notes": "The \"Clinton\" code (governor's mansion area)."
   },
@@ -895,7 +895,7 @@
     "code": "502",
     "country": "US",
     "region": "Louisville",
-    "city": "Louisville, Frankfort",
+    "city": "Louisville",
     "e164": "1502",
     "notes": "Home of the Kentucky Derby."
   },
@@ -904,7 +904,7 @@
     "code": "503",
     "country": "US",
     "region": "Portland",
-    "city": "Portland, Salem",
+    "city": "Portland",
     "e164": "1503",
     "notes": "The original Oregon code. \"Keep Portland Weird\" territory."
   },
@@ -913,7 +913,7 @@
     "code": "504",
     "country": "US",
     "region": "New Orleans",
-    "city": "New Orleans, Metairie, Kenner",
+    "city": "New Orleans",
     "e164": "1504",
     "notes": "Deep cultural significance; \"The 504 Boyz\" (rap group)."
   },
@@ -922,7 +922,7 @@
     "code": "505",
     "country": "US",
     "region": "Albuquerque",
-    "city": "Albuquerque, Santa Fe",
+    "city": "Albuquerque",
     "e164": "1505",
     "notes": "Historically the whole state. Breaking Bad territory."
   },
@@ -940,7 +940,7 @@
     "code": "507",
     "country": "US",
     "region": "Southern MN",
-    "city": "Rochester (Mayo Clinic), Mankato.",
+    "city": "Rochester (Mayo Clinic)",
     "e164": "1507",
     "notes": ""
   },
@@ -949,7 +949,7 @@
     "code": "508",
     "country": "US",
     "region": "Massachusetts (Coast)",
-    "city": "Cape Cod, Worcester, New Bedford",
+    "city": "Cape Cod",
     "e164": "1508",
     "notes": "The \"Summer Vacation\" code for Bostonians."
   },
@@ -958,7 +958,7 @@
     "code": "509",
     "country": "US",
     "region": "Eastern Washington",
-    "city": "Spokane, Yakima, Walla Walla",
+    "city": "Spokane",
     "e164": "1509",
     "notes": "The dry agricultural side of the state."
   },
@@ -967,7 +967,7 @@
     "code": "510",
     "country": "US",
     "region": "East Bay",
-    "city": "Oakland, Berkeley, Richmond",
+    "city": "Oakland",
     "e164": "1510",
     "notes": "Historically the counter-culture/activist counterpart to SF's 415."
   },
@@ -976,7 +976,7 @@
     "code": "512",
     "country": "US",
     "region": "Austin (Core)",
-    "city": "Downtown, South Congress (SoCo), Zilker",
+    "city": "Downtown",
     "e164": "1512",
     "notes": "The original Austin code. Extremely coveted as the city became a tech hub."
   },
@@ -985,7 +985,7 @@
     "code": "513",
     "country": "US",
     "region": "Cincinnati",
-    "city": "Cincinnati, Hamilton, Middletown",
+    "city": "Cincinnati",
     "e164": "1513",
     "notes": "Original code; distinct identity from Cleveland/Columbus."
   },
@@ -994,7 +994,7 @@
     "code": "515",
     "country": "US",
     "region": "Des Moines",
-    "city": "Central Iowa, Ames",
+    "city": "Central Iowa",
     "e164": "1515",
     "notes": "Political hub due to the Iowa Caucuses."
   },
@@ -1003,7 +1003,7 @@
     "code": "516",
     "country": "US",
     "region": "Long Island (Nassau)",
-    "city": "Great Neck, Garden City, Levittown",
+    "city": "Great Neck",
     "e164": "1516",
     "notes": "The \"Great Gatsby\" code. Wealthy suburbs directly bordering Queens."
   },
@@ -1021,7 +1021,7 @@
     "code": "518",
     "country": "US",
     "region": "Upstate NY",
-    "city": "Albany, Schenectady, Adirondacks",
+    "city": "Albany",
     "e164": "1518",
     "notes": "Home to the State Capital and massive state parks."
   },
@@ -1030,7 +1030,7 @@
     "code": "520",
     "country": "US",
     "region": "Tucson",
-    "city": "Tucson, Southern Arizona",
+    "city": "Tucson",
     "e164": "1520",
     "notes": "Home of the University of Arizona."
   },
@@ -1039,7 +1039,7 @@
     "code": "530",
     "country": "US",
     "region": "Northern California",
-    "city": "Chico, Redding",
+    "city": "Chico",
     "e164": "1530",
     "notes": "Lake Tahoe. The outdoor adventure hub."
   },
@@ -1075,7 +1075,7 @@
     "code": "544",
     "country": "US",
     "region": "Central Texas",
-    "city": "Overlay for 254, Newer overlay for Killeen/Temple.",
+    "city": "Overlay for 254",
     "e164": "1544",
     "notes": ""
   },
@@ -1084,7 +1084,7 @@
     "code": "559",
     "country": "US",
     "region": "Central Valley (South)",
-    "city": "Fresno, Visalia",
+    "city": "Fresno",
     "e164": "1559",
     "notes": "The Raisin Capital of the world and gateway to Yosemite."
   },
@@ -1093,7 +1093,7 @@
     "code": "561",
     "country": "US",
     "region": "Palm Beach County",
-    "city": "Palm Beach Island, Boca Raton, Jupiter",
+    "city": "Palm Beach Island",
     "e164": "1561",
     "notes": "Wealthy coastal enclave; the \"Gold Coast\" of Florida."
   },
@@ -1102,7 +1102,7 @@
     "code": "562",
     "country": "US",
     "region": "Long Beach",
-    "city": "Long Beach, Whittier",
+    "city": "Long Beach",
     "e164": "1562",
     "notes": "Famous in 90s rap (Snoop Dogg/Sublime). Culturally distinct from LA proper."
   },
@@ -1174,7 +1174,7 @@
     "code": "585",
     "country": "US",
     "region": "Western NY",
-    "city": "Rochester, Finger Lakes",
+    "city": "Rochester",
     "e164": "1585",
     "notes": "Home of Kodak and the \"Garbage Plate.\""
   },
@@ -1183,7 +1183,7 @@
     "code": "601",
     "country": "US",
     "region": "Mississippi",
-    "city": "Jackson, Central MS",
+    "city": "Jackson",
     "e164": "1601",
     "notes": "Historically the whole state."
   },
@@ -1228,7 +1228,7 @@
     "code": "607",
     "country": "US",
     "region": "Southern Tier",
-    "city": "Binghamton, Ithaca, Elmira",
+    "city": "Binghamton",
     "e164": "1607",
     "notes": "Home to Cornell University. Rural and academic vibes."
   },
@@ -1246,7 +1246,7 @@
     "code": "609",
     "country": "US",
     "region": "South Jersey",
-    "city": "Trenton, Atlantic City, Princeton",
+    "city": "Trenton",
     "e164": "1609",
     "notes": "Culturally Philadelphia-aligned (Eagles fans) vs. 201's Giants fans."
   },
@@ -1255,7 +1255,7 @@
     "code": "610",
     "country": "US",
     "region": "Philadelphia Suburbs",
-    "city": "The Main Line, King of Prussia, Valley Forge",
+    "city": "The Main Line",
     "e164": "1610",
     "notes": "One of the wealthiest suburban corridors in the US."
   },
@@ -1273,7 +1273,7 @@
     "code": "614",
     "country": "US",
     "region": "Columbus",
-    "city": "Columbus proper, Ohio State University",
+    "city": "Columbus proper",
     "e164": "1614",
     "notes": "The political and educational center of Ohio."
   },
@@ -1282,7 +1282,7 @@
     "code": "615",
     "country": "US",
     "region": "Nashville",
-    "city": "Nashville proper, Franklin",
+    "city": "Nashville proper",
     "e164": "1615",
     "notes": "The \"Music City\" code. Highly coveted by aspiring country stars."
   },
@@ -1300,7 +1300,7 @@
     "code": "617",
     "country": "US",
     "region": "Boston",
-    "city": "Downtown, Cambridge, Beacon Hill / Fenway",
+    "city": "Downtown",
     "e164": "1617",
     "notes": "The \"Smartest\" area code (Harvard/MIT). Original 1947 code."
   },
@@ -1318,7 +1318,7 @@
     "code": "619",
     "country": "US",
     "region": "San Diego (Core)",
-    "city": "Downtown SD, Coronado, Gaslamp",
+    "city": "Downtown SD",
     "e164": "1619",
     "notes": "The \"Top Gun\" code. The original San Diego identifier."
   },
@@ -1372,7 +1372,7 @@
     "code": "631",
     "country": "US",
     "region": "Long Island (Suffolk)",
-    "city": "The Hamptons, Montauk, Stony Brook",
+    "city": "The Hamptons",
     "e164": "1631",
     "notes": "The \"Summer Vacation\" code for wealthy Manhattanites."
   },
@@ -1399,7 +1399,7 @@
     "code": "650",
     "country": "US",
     "region": "The Peninsula",
-    "city": "Palo Alto, Menlo Park, Stanford",
+    "city": "Palo Alto",
     "e164": "1650",
     "notes": "The Venture Capital / Facebook HQ code."
   },
@@ -1435,7 +1435,7 @@
     "code": "661",
     "country": "US",
     "region": "Kern County",
-    "city": "Bakersfield, Santa Clarita, Palmdale",
+    "city": "Bakersfield",
     "e164": "1661",
     "notes": "Home to the \"Bakersfield Sound\" (Country Music) and Magic Mountain."
   },
@@ -1489,7 +1489,7 @@
     "code": "701",
     "country": "US",
     "region": "North Dakota",
-    "city": "Entire State, Fargo, Bismarck.",
+    "city": "Entire State",
     "e164": "1701",
     "notes": ""
   },
@@ -1498,7 +1498,7 @@
     "code": "702",
     "country": "US",
     "region": "Las Vegas",
-    "city": "The Strip, Downtown Vegas, Henderson",
+    "city": "The Strip",
     "e164": "1702",
     "notes": "Synonymous with Sin City."
   },
@@ -1507,7 +1507,7 @@
     "code": "703",
     "country": "US",
     "region": "Northern Virginia",
-    "city": "Arlington, Alexandria, Fairfax (NoVA)",
+    "city": "Arlington",
     "e164": "1703",
     "notes": "The Pentagon/CIA code. High income DC Suburb"
   },
@@ -1516,7 +1516,7 @@
     "code": "704",
     "country": "US",
     "region": "Charlotte",
-    "city": "Uptown Charlotte, Concord, Banking hub of the south.",
+    "city": "Uptown Charlotte",
     "e164": "1704",
     "notes": ""
   },
@@ -1534,7 +1534,7 @@
     "code": "707",
     "country": "US",
     "region": "North Coast",
-    "city": "Napa, Sonoma, Humboldt",
+    "city": "Napa",
     "e164": "1707",
     "notes": "Known for Wine Country and the \"Emerald Triangle\" (cannabis culture)."
   },
@@ -1552,7 +1552,7 @@
     "code": "713",
     "country": "US",
     "region": "Houston (Core)",
-    "city": "River Oaks, Montrose, Rice University",
+    "city": "River Oaks",
     "e164": "1713",
     "notes": "The \"Inside the Loop\" code. Historically defined as strictly inside Interstate 610."
   },
@@ -1561,7 +1561,7 @@
     "code": "714",
     "country": "US",
     "region": "Orange County (North)",
-    "city": "Anaheim, Huntington Beach, Fullerton",
+    "city": "Anaheim",
     "e164": "1714",
     "notes": "Home to Disneyland and \"No Doubt\" (Gwen Stefani)."
   },
@@ -1579,7 +1579,7 @@
     "code": "716",
     "country": "US",
     "region": "Western NY",
-    "city": "Buffalo, Niagara Falls",
+    "city": "Buffalo",
     "e164": "1716",
     "notes": "Home of the \"Bills Mafia\" and original Buffalo wings."
   },
@@ -1633,7 +1633,7 @@
     "code": "727",
     "country": "US",
     "region": "Pinellas County",
-    "city": "St. Petersburg, Clearwater, Dunedin",
+    "city": "St. Petersburg",
     "e164": "1727",
     "notes": "Separated from Tampa's 813 in 1998. Home to some of the top beaches in the US."
   },
@@ -1651,7 +1651,7 @@
     "code": "732",
     "country": "US",
     "region": "Jersey Shore",
-    "city": "Asbury Park, Sandy Hook, New Brunswick",
+    "city": "Asbury Park",
     "e164": "1732",
     "notes": "The \"Jersey Shore\" MTV reality show area."
   },
@@ -1714,7 +1714,7 @@
     "code": "757",
     "country": "US",
     "region": "Hampton Roads",
-    "city": "Virginia Beach, Norfolk, Newport News",
+    "city": "Virginia Beach",
     "e164": "1757",
     "notes": "Huge military presence (Navy). Missy Elliott/Pharrell represent \"The 757\"."
   },
@@ -1723,7 +1723,7 @@
     "code": "760",
     "country": "US",
     "region": "SoCal Desert",
-    "city": "Palm Springs, Indio, Joshua Tree",
+    "city": "Palm Springs",
     "e164": "1760",
     "notes": "Home to the Coachella Music Festival."
   },
@@ -1741,7 +1741,7 @@
     "code": "770",
     "country": "US",
     "region": "Atlanta Suburbs",
-    "city": "Marietta, Alpharetta, Gwinnett",
+    "city": "Marietta",
     "e164": "1770",
     "notes": "The Burbs of Atlanta."
   },
@@ -1750,7 +1750,7 @@
     "code": "772",
     "country": "US",
     "region": "Treasure Coast",
-    "city": "Port St. Lucie, Vero Beach, Stuart",
+    "city": "Port St. Lucie",
     "e164": "1772",
     "notes": "Named after the Spanish Treasure Fleet lost off the coast in 1715."
   },
@@ -1759,7 +1759,7 @@
     "code": "773",
     "country": "US",
     "region": "Chicago (Neighborhoods)",
-    "city": "Lincoln Park, Wrigleyville, South Side",
+    "city": "Lincoln Park",
     "e164": "1773",
     "notes": "Covers everything in Chicago that isn't the downtown Loop."
   },
@@ -1813,7 +1813,7 @@
     "code": "801",
     "country": "US",
     "region": "Salt Lake City",
-    "city": "SLC Metro, Provo, Ogden",
+    "city": "SLC Metro",
     "e164": "1801",
     "notes": "The \"Mormon Corridor\" code."
   },
@@ -1840,7 +1840,7 @@
     "code": "805",
     "country": "US",
     "region": "Central Coast",
-    "city": "Santa Barbara, Ventura, San Luis Obispo",
+    "city": "Santa Barbara",
     "e164": "1805",
     "notes": "The \"American Riviera.\" Oprah and Prince Harry live here."
   },
@@ -1849,7 +1849,7 @@
     "code": "806",
     "country": "US",
     "region": "Texas Panhandle",
-    "city": "Lubbock (Texas Tech), Amarillo, Palo Duro Canyon",
+    "city": "Lubbock (Texas Tech)",
     "e164": "1806",
     "notes": "Buddy Holly's hometown code."
   },
@@ -1867,7 +1867,7 @@
     "code": "810",
     "country": "US",
     "region": "Flint",
-    "city": "Flint, Port Huron",
+    "city": "Flint",
     "e164": "1810",
     "notes": "Industrial history; General Motors birthplace."
   },
@@ -1876,7 +1876,7 @@
     "code": "813",
     "country": "US",
     "region": "Tampa (Core)",
-    "city": "Ybor City, Hyde Park, Seminole Heights",
+    "city": "Ybor City",
     "e164": "1813",
     "notes": "The original Tampa Bay code. Often rivals St. Pete's 727."
   },
@@ -1885,7 +1885,7 @@
     "code": "814",
     "country": "US",
     "region": "Central PA",
-    "city": "State College (Penn State), Erie, Rural PA",
+    "city": "State College (Penn State)",
     "e164": "1814",
     "notes": "Happy Valley code."
   },
@@ -1912,7 +1912,7 @@
     "code": "817",
     "country": "US",
     "region": "Fort Worth (Core)",
-    "city": "Sundance Square, Stockyards, TCU area",
+    "city": "Sundance Square",
     "e164": "1817",
     "notes": "The \"Funky Town\" code. Distinct cultural identity from Dallas's 214."
   },
@@ -1921,7 +1921,7 @@
     "code": "818",
     "country": "US",
     "region": "The Valley",
-    "city": "Sherman Oaks, Encino, Burbank",
+    "city": "Sherman Oaks",
     "e164": "1818",
     "notes": "Pop culture icon (\"Valley Girl\" accent)."
   },
@@ -1948,7 +1948,7 @@
     "code": "830",
     "country": "US",
     "region": "Texas Hill Country",
-    "city": "New Braunfels, Fredericksburg, Kerrville",
+    "city": "New Braunfels",
     "e164": "1830",
     "notes": "The \"Donut\" code that encircles San Antonio. Famous for wineries and river floating."
   },
@@ -1957,7 +1957,7 @@
     "code": "831",
     "country": "US",
     "region": "Central Coast",
-    "city": "Monterey, Santa Cruz, Salinas",
+    "city": "Monterey",
     "e164": "1831",
     "notes": "Surf City and Pebble Beach golf culture."
   },
@@ -1993,7 +1993,7 @@
     "code": "843",
     "country": "US",
     "region": "South Carolina Coast",
-    "city": "Charleston, Myrtle Beach, Hilton Head",
+    "city": "Charleston",
     "e164": "1843",
     "notes": "Lowcountry life."
   },
@@ -2002,7 +2002,7 @@
     "code": "845",
     "country": "US",
     "region": "Hudson Valley",
-    "city": "Poughkeepsie, West Point, Woodstock",
+    "city": "Poughkeepsie",
     "e164": "1845",
     "notes": "Commuter belt for NYC and weekend getaway region."
   },
@@ -2011,7 +2011,7 @@
     "code": "847",
     "country": "US",
     "region": "Chicago North Shore",
-    "city": "Evanston, Highland Park, wealthy suburbs",
+    "city": "Evanston",
     "e164": "1847",
     "notes": "The \"Mean Girls\" and \"Home Alone\" filming locations."
   },
@@ -2020,7 +2020,7 @@
     "code": "850",
     "country": "US",
     "region": "Florida Panhandle",
-    "city": "Tallahassee (Capitol), Pensacola, Panama City",
+    "city": "Tallahassee (Capitol)",
     "e164": "1850",
     "notes": "Culturally distinct from South FL; often jokingly called \"Lower Alabama.\""
   },
@@ -2047,7 +2047,7 @@
     "code": "858",
     "country": "US",
     "region": "San Diego (North)",
-    "city": "La Jolla, Del Mar, Poway",
+    "city": "La Jolla",
     "e164": "1858",
     "notes": "The \"Biotech Beach\" code. Generally wealthier than 619."
   },
@@ -2056,7 +2056,7 @@
     "code": "859",
     "country": "US",
     "region": "Lexington",
-    "city": "University of Kentucky (Wildcats)., v",
+    "city": "University of Kentucky (Wildcats).",
     "e164": "1859",
     "notes": "University of Kentucky (Wildcats)."
   },
@@ -2065,7 +2065,7 @@
     "code": "860",
     "country": "US",
     "region": "Hartford/East CT",
-    "city": "Hartford, Uconn, Mystic",
+    "city": "Hartford",
     "e164": "1860",
     "notes": "Everything in CT that isn't a NYC suburb."
   },
@@ -2083,7 +2083,7 @@
     "code": "863",
     "country": "US",
     "region": "Heartland Florida",
-    "city": "Lakeland, Winter Haven, Sebring",
+    "city": "Lakeland",
     "e164": "1863",
     "notes": "Central agricultural hub; citrus and strawberries."
   },
@@ -2110,7 +2110,7 @@
     "code": "901",
     "country": "US",
     "region": "Memphis",
-    "city": "Memphis, Graceland",
+    "city": "Memphis",
     "e164": "1901",
     "notes": "Home of the Blues and Elvis."
   },
@@ -2119,7 +2119,7 @@
     "code": "903",
     "country": "US",
     "region": "Northeast Texas",
-    "city": "Tyler, Longview, Texarkana",
+    "city": "Tyler",
     "e164": "1903",
     "notes": "Known for the Piney Woods and East Texas distinct culture."
   },
@@ -2128,7 +2128,7 @@
     "code": "904",
     "country": "US",
     "region": "Jacksonville",
-    "city": "Downtown Jax, Ponte Vedra, St. Augustine",
+    "city": "Downtown Jax",
     "e164": "1904",
     "notes": "One of the original FL codes. Covers the largest city by land area in the contiguous US."
   },
@@ -2146,7 +2146,7 @@
     "code": "909",
     "country": "US",
     "region": "Inland Empire",
-    "city": "San Bernardino, Ontario, Pomona",
+    "city": "San Bernardino",
     "e164": "1909",
     "notes": "The 909 was historically used as derogatory slang by coastal residents (now reclaimed)."
   },
@@ -2182,7 +2182,7 @@
     "code": "914",
     "country": "US",
     "region": "Westchester",
-    "city": "Yonkers, White Plains, Scarsdale",
+    "city": "Yonkers",
     "e164": "1914",
     "notes": "The wealthy suburbs north of NYC. Location of the X-Men Mansion in comics."
   },
@@ -2191,7 +2191,7 @@
     "code": "915",
     "country": "US",
     "region": "El Paso",
-    "city": "El Paso, Fort Bliss, Border region",
+    "city": "El Paso",
     "e164": "1915",
     "notes": "Operates on Mountain Time (the only part of Texas that does)."
   },
@@ -2200,7 +2200,7 @@
     "code": "916",
     "country": "US",
     "region": "Sacramento",
-    "city": "Sacramento, Roseville",
+    "city": "Sacramento",
     "e164": "1916",
     "notes": "The political center of California."
   },
@@ -2218,7 +2218,7 @@
     "code": "919",
     "country": "US",
     "region": "The Triangle",
-    "city": "Raleigh, Durham, Chapel Hill",
+    "city": "Raleigh",
     "e164": "1919",
     "notes": "Research Triangle Park (Duke/UNC/NC State)."
   },
@@ -2236,7 +2236,7 @@
     "code": "925",
     "country": "US",
     "region": "East Bay Suburbs",
-    "city": "Walnut Creek, Concord, Pleasanton",
+    "city": "Walnut Creek",
     "e164": "1925",
     "notes": "Wealthy suburbs east of the Oakland hills."
   },
@@ -2281,7 +2281,7 @@
     "code": "936",
     "country": "US",
     "region": "Deep East Texas",
-    "city": "Huntsville, Conroe, Nacogdoches",
+    "city": "Huntsville",
     "e164": "1936",
     "notes": "Heavily wooded region; home to Sam Houston State University."
   },
@@ -2299,7 +2299,7 @@
     "code": "940",
     "country": "US",
     "region": "North Texas",
-    "city": "Denton, Wichita Falls, Decatur",
+    "city": "Denton",
     "e164": "1940",
     "notes": "College town vibes (UNT/TWU) blending into horse country."
   },
@@ -2308,7 +2308,7 @@
     "code": "941",
     "country": "US",
     "region": "Sarasota / Manatee",
-    "city": "Siesta Key, Bradenton, Venice",
+    "city": "Siesta Key",
     "e164": "1941",
     "notes": "Home to the Ringling Bros circus history."
   },
@@ -2317,7 +2317,7 @@
     "code": "949",
     "country": "US",
     "region": "Orange County (South)",
-    "city": "Newport Beach, Laguna Beach, Irvine",
+    "city": "Newport Beach",
     "e164": "1949",
     "notes": "The \"Real Housewives\" code. Very wealthy coastal suburbs."
   },
@@ -2326,7 +2326,7 @@
     "code": "951",
     "country": "US",
     "region": "Inland Empire (South)",
-    "city": "Riverside, Corona, Temecula",
+    "city": "Riverside",
     "e164": "1951",
     "notes": "Split off from 909. Known for wine (Temecula) and suburban sprawl."
   },
@@ -2335,7 +2335,7 @@
     "code": "954",
     "country": "US",
     "region": "Broward County",
-    "city": "Fort Lauderdale, Hollywood, Coral Springs",
+    "city": "Fort Lauderdale",
     "e164": "1954",
     "notes": "Often overshadowed by 305  but distinct. \"The 954\" represents the Ft. Lauderdale metro."
   },
@@ -2344,7 +2344,7 @@
     "code": "956",
     "country": "US",
     "region": "Rio Grande Valley",
-    "city": "McAllen, Brownsville, South Padre Island",
+    "city": "McAllen",
     "e164": "1956",
     "notes": "Puro 956 is a major local catchphrase representing border culture."
   },
@@ -2353,7 +2353,7 @@
     "code": "970",
     "country": "US",
     "region": "Colorado Mountains",
-    "city": "Aspen, Vail, Breckenridge",
+    "city": "Aspen",
     "e164": "1970",
     "notes": "The \"Ski Bum\" code."
   },
@@ -2371,7 +2371,7 @@
     "code": "972",
     "country": "US",
     "region": "Dallas (Suburbs)",
-    "city": "Plano, Frisco, Richardson",
+    "city": "Plano",
     "e164": "1972",
     "notes": "Historically the \"Suburban\" code to 214's \"Urban\" code. Now they are mixed."
   },
@@ -2380,7 +2380,7 @@
     "code": "973",
     "country": "US",
     "region": "North Jersey",
-    "city": "Newark, Paterson, Morristown",
+    "city": "Newark",
     "e164": "1973",
     "notes": "Overlay for 201  heavily urban/industrial."
   },
@@ -2398,7 +2398,7 @@
     "code": "979",
     "country": "US",
     "region": "Brazos Valley",
-    "city": "College Station (Texas A&M), Bryan, Brenham",
+    "city": "College Station (Texas A&M)",
     "e164": "1979",
     "notes": "The \"Aggieland\" code."
   },

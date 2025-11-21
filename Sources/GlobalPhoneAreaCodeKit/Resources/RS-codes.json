@@ -1,0 +1,83 @@
+[
+  {
+    "id": "38111",
+    "code": "11",
+    "country": "RS",
+    "region": "Belgrade",
+    "city": "",
+    "e164": "38111",
+    "notes": "The Capital. Fortress (Kalemegdan). Floating river clubs (Splavovi)."
+  },
+  {
+    "id": "38121",
+    "code": "21",
+    "country": "RS",
+    "region": "Novi Sad",
+    "city": "",
+    "e164": "38121",
+    "notes": "EXIT Festival (Petrovaradin Fortress). European Capital of Culture 2022."
+  },
+  {
+    "id": "38118",
+    "code": "18",
+    "country": "RS",
+    "region": "Niš",
+    "city": "",
+    "e164": "38118",
+    "notes": "Birthplace of Constantine the Great. Skull Tower."
+  },
+  {
+    "id": "38134",
+    "code": "34",
+    "country": "RS",
+    "region": "Kragujevac",
+    "city": "",
+    "e164": "38134",
+    "notes": "First capital of modern Serbia. Memorial Park."
+  },
+  {
+    "id": "38124",
+    "code": "24",
+    "country": "RS",
+    "region": "Subotica",
+    "city": "",
+    "e164": "38124",
+    "notes": "Art Nouveau architecture. Palić Lake."
+  },
+  {
+    "id": "38132",
+    "code": "32",
+    "country": "RS",
+    "region": "Čačak",
+    "city": "",
+    "e164": "38132",
+    "notes": "Roasted pork capital. Gateway to Ovčar-Kablar Gorge monasteries."
+  },
+  {
+    "id": "38160",
+    "code": "60",
+    "country": "RS",
+    "region": "Mobile",
+    "city": "",
+    "e164": "38160",
+    "notes": "A1 Serbia"
+  },
+  {
+    "id": "38163",
+    "code": "63",
+    "country": "RS",
+    "region": "Mobile",
+    "city": "",
+    "e164": "38163",
+    "notes": "Yettel (Telenor)"
+  },
+  {
+    "id": "38164",
+    "code": "64",
+    "country": "RS",
+    "region": "Mobile",
+    "city": "",
+    "e164": "38164",
+    "notes": "MTS (Telekom Srbija)"
+  }
+]

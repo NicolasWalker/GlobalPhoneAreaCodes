@@ -1,0 +1,47 @@
+[
+  {
+    "id": "441534",
+    "code": "1534",
+    "country": "JE",
+    "region": "St. Helier",
+    "city": "",
+    "e164": "441534",
+    "notes": "Bailiwick of Jersey. Channel Island financial center. Jersey Royal potatoes and cows."
+  },
+  {
+    "id": "447509",
+    "code": "7509",
+    "country": "JE",
+    "region": "Mobile",
+    "city": "",
+    "e164": "447509",
+    "notes": "JT (Jersey Telecom)"
+  },
+  {
+    "id": "447700",
+    "code": "7700",
+    "country": "JE",
+    "region": "Mobile",
+    "city": "",
+    "e164": "447700",
+    "notes": "Sure Mobile"
+  },
+  {
+    "id": "447797",
+    "code": "7797",
+    "country": "JE",
+    "region": "Mobile",
+    "city": "",
+    "e164": "447797",
+    "notes": "Airtel-Vodafone"
+  },
+  {
+    "id": "447829",
+    "code": "7829",
+    "country": "JE",
+    "region": "Mobile",
+    "city": "",
+    "e164": "447829",
+    "notes": "JT (Jersey Telecom)"
+  }
+]

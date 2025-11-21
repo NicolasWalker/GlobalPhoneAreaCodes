@@ -1,0 +1,65 @@
+[
+  {
+    "id": "5062",
+    "code": "2",
+    "country": "CR",
+    "region": "San José / Heredia",
+    "city": "",
+    "e164": "5062",
+    "notes": "The Capital. National Theatre. Coffee plantations."
+  },
+  {
+    "id": "5064",
+    "code": "4",
+    "country": "CR",
+    "region": "Alajuela",
+    "city": "",
+    "e164": "5064",
+    "notes": "Juan Santamaría Airport. Poás Volcano nearby."
+  },
+  {
+    "id": "5065",
+    "code": "5",
+    "country": "CR",
+    "region": "Liberia / Cartago",
+    "city": "",
+    "e164": "5065",
+    "notes": "Pacific beaches (Guanacaste) & Old Capital (Cartago)."
+  },
+  {
+    "id": "5066",
+    "code": "6",
+    "country": "CR",
+    "region": "Puntarenas",
+    "city": "",
+    "e164": "5066",
+    "notes": "Pacific port city. Ferries to Nicoya Peninsula."
+  },
+  {
+    "id": "5067",
+    "code": "7",
+    "country": "CR",
+    "region": "Limón",
+    "city": "",
+    "e164": "5067",
+    "notes": "Caribbean coast. Afro-Caribbean culture. Tortuguero access."
+  },
+  {
+    "id": "5068",
+    "code": "8",
+    "country": "CR",
+    "region": "Special Services",
+    "city": "",
+    "e164": "5068",
+    "notes": "Typically associated with special services or VoIP."
+  },
+  {
+    "id": "5068",
+    "code": "8",
+    "country": "CR",
+    "region": "Mobile",
+    "city": "",
+    "e164": "5068",
+    "notes": "Mobile services (Kölbi / Liberty / Claro)"
+  }
+]

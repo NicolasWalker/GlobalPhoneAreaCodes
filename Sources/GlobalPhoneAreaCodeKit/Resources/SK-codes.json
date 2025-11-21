@@ -1,0 +1,92 @@
+[
+  {
+    "id": "4212",
+    "code": "2",
+    "country": "SK",
+    "region": "Bratislava",
+    "city": "",
+    "e164": "4212",
+    "notes": "The Capital. Danube river. Bratislava Castle. UFO bridge."
+  },
+  {
+    "id": "42155",
+    "code": "55",
+    "country": "SK",
+    "region": "Košice",
+    "city": "",
+    "e164": "42155",
+    "notes": "Metropolis of the East. St. Elisabeth Cathedral. Peace Marathon."
+  },
+  {
+    "id": "42141",
+    "code": "41",
+    "country": "SK",
+    "region": "Žilina",
+    "city": "",
+    "e164": "42141",
+    "notes": "Gateway to Malá Fatra mountains. Kia Motors plant."
+  },
+  {
+    "id": "42133",
+    "code": "33",
+    "country": "SK",
+    "region": "Trnava",
+    "city": "",
+    "e164": "42133",
+    "notes": "'Slovak Rome' (many churches). University city."
+  },
+  {
+    "id": "42148",
+    "code": "48",
+    "country": "SK",
+    "region": "Banská Bystrica",
+    "city": "",
+    "e164": "42148",
+    "notes": "Slovak National Uprising center. Central mountains."
+  },
+  {
+    "id": "42151",
+    "code": "51",
+    "country": "SK",
+    "region": "Prešov",
+    "city": "",
+    "e164": "42151",
+    "notes": "Opal mines nearby. Historical center."
+  },
+  {
+    "id": "42152",
+    "code": "52",
+    "country": "SK",
+    "region": "Poprad",
+    "city": "",
+    "e164": "42152",
+    "notes": "Gateway to High Tatras National Park. AquaCity."
+  },
+  {
+    "id": "421901",
+    "code": "901",
+    "country": "SK",
+    "region": "Mobile",
+    "city": "",
+    "e164": "421901",
+    "notes": "Telekom"
+  },
+  {
+    "id": "421905",
+    "code": "905",
+    "country": "SK",
+    "region": "Mobile",
+    "city": "",
+    "e164": "421905",
+    "notes": "Orange"
+  },
+  {
+    "id": "421940",
+    "code": "940",
+    "country": "SK",
+    "region": "Mobile",
+    "city": "",
+    "e164": "421940",
+    "notes": "O2"
+  }
+]

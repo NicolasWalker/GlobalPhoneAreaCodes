@@ -1,0 +1,146 @@
+[
+  {
+    "id": "3531",
+    "code": "1",
+    "country": "IE",
+    "region": "Dublin",
+    "city": "",
+    "e164": "3531",
+    "notes": "Capital and largest city area"
+  },
+  {
+    "id": "35321",
+    "code": "21",
+    "country": "IE",
+    "region": "Cork",
+    "city": "",
+    "e164": "35321",
+    "notes": "The Rebel County - Second largest city"
+  },
+  {
+    "id": "35361",
+    "code": "61",
+    "country": "IE",
+    "region": "Limerick",
+    "city": "",
+    "e164": "35361",
+    "notes": "Treaty City - Shannon region"
+  },
+  {
+    "id": "35391",
+    "code": "91",
+    "country": "IE",
+    "region": "Galway",
+    "city": "",
+    "e164": "35391",
+    "notes": "Cultural Heart of Ireland - The West"
+  },
+  {
+    "id": "35351",
+    "code": "51",
+    "country": "IE",
+    "region": "Waterford",
+    "city": "",
+    "e164": "35351",
+    "notes": "Crystal City - The Southeast"
+  },
+  {
+    "id": "35341",
+    "code": "41",
+    "country": "IE",
+    "region": "Drogheda",
+    "city": "",
+    "e164": "35341",
+    "notes": "Gateway to the Boyne Valley"
+  },
+  {
+    "id": "35342",
+    "code": "42",
+    "country": "IE",
+    "region": "Dundalk",
+    "city": "",
+    "e164": "35342",
+    "notes": "Border town - Cuchulainn country"
+  },
+  {
+    "id": "35371",
+    "code": "71",
+    "country": "IE",
+    "region": "Sligo",
+    "city": "",
+    "e164": "35371",
+    "notes": "Yeats Country - The Northwest"
+  },
+  {
+    "id": "35366",
+    "code": "66",
+    "country": "IE",
+    "region": "Tralee",
+    "city": "",
+    "e164": "35366",
+    "notes": "Capital of the Kingdom of Kerry"
+  },
+  {
+    "id": "35364",
+    "code": "64",
+    "country": "IE",
+    "region": "Killarney",
+    "city": "",
+    "e164": "35364",
+    "notes": "Tourism hub - Ring of Kerry"
+  },
+  {
+    "id": "35356",
+    "code": "56",
+    "country": "IE",
+    "region": "Kilkenny",
+    "city": "",
+    "e164": "35356",
+    "notes": "Marble City - Medieval capital"
+  },
+  {
+    "id": "35353",
+    "code": "53",
+    "country": "IE",
+    "region": "Wexford",
+    "city": "",
+    "e164": "35353",
+    "notes": "Sunny Southeast - Opera Festival"
+  },
+  {
+    "id": "35390",
+    "code": "90",
+    "country": "IE",
+    "region": "Athlone",
+    "city": "",
+    "e164": "35390",
+    "notes": "Heart of Ireland - Shannon crossing"
+  },
+  {
+    "id": "35387",
+    "code": "87",
+    "country": "IE",
+    "region": "Mobile (Vodafone)",
+    "city": "",
+    "e164": "35387",
+    "notes": "Common mobile prefix"
+  },
+  {
+    "id": "35386",
+    "code": "86",
+    "country": "IE",
+    "region": "Mobile (Three)",
+    "city": "",
+    "e164": "35386",
+    "notes": "Common mobile prefix"
+  },
+  {
+    "id": "35385",
+    "code": "85",
+    "country": "IE",
+    "region": "Mobile (Eir)",
+    "city": "",
+    "e164": "35385",
+    "notes": "Common mobile prefix"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "3861",
+    "code": "1",
+    "country": "SI",
+    "region": "Ljubljana",
+    "city": "",
+    "e164": "3861",
+    "notes": "The Capital. Green Capital of Europe. Jože Plečnik architecture. Dragon Bridge."
+  },
+  {
+    "id": "3862",
+    "code": "2",
+    "country": "SI",
+    "region": "Maribor",
+    "city": "",
+    "e164": "3862",
+    "notes": "Oldest Vine in the World. Drava river. Pohorje ski resort."
+  },
+  {
+    "id": "3864",
+    "code": "4",
+    "country": "SI",
+    "region": "Kranj / Bled",
+    "city": "",
+    "e164": "3864",
+    "notes": "Gateway to the Alps. Lake Bled island and castle."
+  },
+  {
+    "id": "3865",
+    "code": "5",
+    "country": "SI",
+    "region": "Koper / Piran",
+    "city": "",
+    "e164": "3865",
+    "notes": "Adriatic coast. Venetian architecture in Piran. Postojna Cave."
+  },
+  {
+    "id": "3867",
+    "code": "7",
+    "country": "SI",
+    "region": "Novo Mesto",
+    "city": "",
+    "e164": "3867",
+    "notes": "Pharmaceutical hub (Krka). Cviček wine region."
+  },
+  {
+    "id": "38630",
+    "code": "30",
+    "country": "SI",
+    "region": "Mobile",
+    "city": "",
+    "e164": "38630",
+    "notes": "A1 Slovenia"
+  },
+  {
+    "id": "38631",
+    "code": "31",
+    "country": "SI",
+    "region": "Mobile",
+    "city": "",
+    "e164": "38631",
+    "notes": "Telekom Slovenije"
+  },
+  {
+    "id": "38670",
+    "code": "70",
+    "country": "SI",
+    "region": "Mobile",
+    "city": "",
+    "e164": "38670",
+    "notes": "Telemach"
+  }
+]

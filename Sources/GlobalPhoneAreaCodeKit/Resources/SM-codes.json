@@ -1,0 +1,29 @@
+[
+  {
+    "id": "378",
+    "code": "378",
+    "country": "SM",
+    "region": "San Marino",
+    "city": "",
+    "e164": "378",
+    "notes": "The Serene Republic. Oldest constitutional republic. Mount Titano (UNESCO)."
+  },
+  {
+    "id": "3780549",
+    "code": "0549",
+    "country": "SM",
+    "region": "San Marino",
+    "city": "",
+    "e164": "3780549",
+    "notes": "Landline numbers (accessible via Italian grid)."
+  },
+  {
+    "id": "37866",
+    "code": "66",
+    "country": "SM",
+    "region": "Mobile",
+    "city": "",
+    "e164": "37866",
+    "notes": "Prima"
+  }
+]

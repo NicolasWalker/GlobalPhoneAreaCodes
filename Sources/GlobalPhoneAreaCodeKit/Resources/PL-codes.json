@@ -1,0 +1,101 @@
+[
+  {
+    "id": "4812",
+    "code": "12",
+    "country": "PL",
+    "region": "Kraków",
+    "city": "",
+    "e164": "4812",
+    "notes": "Former Royal Capital. Wawel Castle. Main Market Square (UNESCO)."
+  },
+  {
+    "id": "4822",
+    "code": "22",
+    "country": "PL",
+    "region": "Warsaw",
+    "city": "",
+    "e164": "4822",
+    "notes": "The Capital. Rebuilt Old Town. Palace of Culture and Science."
+  },
+  {
+    "id": "4832",
+    "code": "32",
+    "country": "PL",
+    "region": "Katowice",
+    "city": "",
+    "e164": "4832",
+    "notes": "Industrial heartland. Spodek arena. Modernist architecture."
+  },
+  {
+    "id": "4842",
+    "code": "42",
+    "country": "PL",
+    "region": "Łódź",
+    "city": "",
+    "e164": "4842",
+    "notes": "Textile industry heritage (Manufaktura). Film school."
+  },
+  {
+    "id": "4858",
+    "code": "58",
+    "country": "PL",
+    "region": "Gdańsk",
+    "city": "",
+    "e164": "4858",
+    "notes": "Baltic port. Solidarity movement birthplace. Amber capital."
+  },
+  {
+    "id": "4861",
+    "code": "61",
+    "country": "PL",
+    "region": "Poznań",
+    "city": "",
+    "e164": "4861",
+    "notes": "Trade fair city. Renaissance town hall with mechanical goats."
+  },
+  {
+    "id": "4871",
+    "code": "71",
+    "country": "PL",
+    "region": "Wrocław",
+    "city": "",
+    "e164": "4871",
+    "notes": "City of Bridges and Dwarfs. European Capital of Culture 2016."
+  },
+  {
+    "id": "4891",
+    "code": "91",
+    "country": "PL",
+    "region": "Szczecin",
+    "city": "",
+    "e164": "4891",
+    "notes": "Major port city. Ducal Castle. Wały Chrobrego promenade."
+  },
+  {
+    "id": "4850",
+    "code": "50",
+    "country": "PL",
+    "region": "Mobile",
+    "city": "",
+    "e164": "4850",
+    "notes": "Orange / T-Mobile"
+  },
+  {
+    "id": "4860",
+    "code": "60",
+    "country": "PL",
+    "region": "Mobile",
+    "city": "",
+    "e164": "4860",
+    "notes": "T-Mobile / Plus"
+  },
+  {
+    "id": "4879",
+    "code": "79",
+    "country": "PL",
+    "region": "Mobile",
+    "city": "",
+    "e164": "4879",
+    "notes": "Play / Orange"
+  }
+]

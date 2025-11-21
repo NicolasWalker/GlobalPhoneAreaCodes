@@ -1,0 +1,65 @@
+[
+  {
+    "id": "472",
+    "code": "2",
+    "country": "NO",
+    "region": "Oslo",
+    "city": "",
+    "e164": "472",
+    "notes": "The Capital. Nobel Peace Prize. Munch Museum and Opera House."
+  },
+  {
+    "id": "473",
+    "code": "3",
+    "country": "NO",
+    "region": "Hamar / Lillehammer",
+    "city": "",
+    "e164": "473",
+    "notes": "1994 Winter Olympics host. Lake Mjøsa."
+  },
+  {
+    "id": "475",
+    "code": "5",
+    "country": "NO",
+    "region": "Bergen",
+    "city": "",
+    "e164": "475",
+    "notes": "Gateway to the Fjords. Bryggen (UNESCO). Rainiest city."
+  },
+  {
+    "id": "476",
+    "code": "6",
+    "country": "NO",
+    "region": "Trondheim",
+    "city": "",
+    "e164": "476",
+    "notes": "Viking capital. Nidaros Cathedral (Coronation site). NTNU University."
+  },
+  {
+    "id": "477",
+    "code": "7",
+    "country": "NO",
+    "region": "Tromsø / Bodø",
+    "city": "",
+    "e164": "477",
+    "notes": "Arctic Circle. Northern Lights. Midnight Sun."
+  },
+  {
+    "id": "474",
+    "code": "4",
+    "country": "NO",
+    "region": "Mobile",
+    "city": "",
+    "e164": "474",
+    "notes": "Mobile network services"
+  },
+  {
+    "id": "479",
+    "code": "9",
+    "country": "NO",
+    "region": "Mobile",
+    "city": "",
+    "e164": "479",
+    "notes": "Mobile network services"
+  }
+]

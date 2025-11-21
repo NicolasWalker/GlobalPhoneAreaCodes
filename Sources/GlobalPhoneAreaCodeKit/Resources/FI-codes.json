@@ -1,0 +1,110 @@
+[
+  {
+    "id": "3589",
+    "code": "9",
+    "country": "FI",
+    "region": "Helsinki",
+    "city": "",
+    "e164": "3589",
+    "notes": "The White City of the North. Design District and Sauna culture."
+  },
+  {
+    "id": "3582",
+    "code": "2",
+    "country": "FI",
+    "region": "Turku / Pori",
+    "city": "",
+    "e164": "3582",
+    "notes": "Oldest city in Finland. Archipelago Sea gateway."
+  },
+  {
+    "id": "3583",
+    "code": "3",
+    "country": "FI",
+    "region": "Tampere / Hämeenlinna",
+    "city": "",
+    "e164": "3583",
+    "notes": "'Manchester of Finland'. Industrial history and lakes."
+  },
+  {
+    "id": "3585",
+    "code": "5",
+    "country": "FI",
+    "region": "Kouvola / Kotka",
+    "city": "",
+    "e164": "3585",
+    "notes": "Gateway to the East. Paper industry heritage."
+  },
+  {
+    "id": "3586",
+    "code": "6",
+    "country": "FI",
+    "region": "Vaasa / Seinäjoki",
+    "city": "",
+    "e164": "3586",
+    "notes": "Swedish-speaking coastal heritage."
+  },
+  {
+    "id": "3588",
+    "code": "8",
+    "country": "FI",
+    "region": "Oulu / Kajaani",
+    "city": "",
+    "e164": "3588",
+    "notes": "Tech hub of the North (Nokia roots). Air Guitar World Championships."
+  },
+  {
+    "id": "35813",
+    "code": "13",
+    "country": "FI",
+    "region": "Joensuu",
+    "city": "",
+    "e164": "35813",
+    "notes": "Eastern borderland culture. Kalevala folklore roots."
+  },
+  {
+    "id": "35814",
+    "code": "14",
+    "country": "FI",
+    "region": "Savonlinna / Mikkeli",
+    "city": "",
+    "e164": "35814",
+    "notes": "Lakeland heart. Opera Festival in Olavinlinna Castle."
+  },
+  {
+    "id": "35816",
+    "code": "16",
+    "country": "FI",
+    "region": "Rovaniemi",
+    "city": "",
+    "e164": "35816",
+    "notes": "Home of Santa Claus. Northern Lights tourism."
+  },
+  {
+    "id": "35818",
+    "code": "18",
+    "country": "FI",
+    "region": "Mariehamn",
+    "city": "",
+    "e164": "35818",
+    "notes": "Autonomous Swedish-speaking archipelago."
+  },
+  {
+    "id": "3584",
+    "code": "4",
+    "country": "FI",
+    "region": "Mobile",
+    "city": "",
+    "e164": "3584",
+    "notes": "Mobile network services (40-49)"
+  },
+  {
+    "id": "35850",
+    "code": "50",
+    "country": "FI",
+    "region": "Mobile",
+    "city": "",
+    "e164": "35850",
+    "notes": "Mobile network services (50)"
+  }
+]

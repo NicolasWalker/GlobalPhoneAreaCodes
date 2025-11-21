@@ -1,0 +1,92 @@
+[
+  {
+    "id": "38220",
+    "code": "20",
+    "country": "ME",
+    "region": "Podgorica",
+    "city": "",
+    "e164": "38220",
+    "notes": "The Capital. Millennium Bridge. Administrative center."
+  },
+  {
+    "id": "38230",
+    "code": "30",
+    "country": "ME",
+    "region": "Bar",
+    "city": "",
+    "e164": "38230",
+    "notes": "Major seaport. Old Olive Tree (Stara Maslina)."
+  },
+  {
+    "id": "38231",
+    "code": "31",
+    "country": "ME",
+    "region": "Herceg Novi",
+    "city": "",
+    "e164": "38231",
+    "notes": "'City of Sun'. Entrance to the Bay of Kotor."
+  },
+  {
+    "id": "38232",
+    "code": "32",
+    "country": "ME",
+    "region": "Kotor / Tivat",
+    "city": "",
+    "e164": "38232",
+    "notes": "UNESCO World Heritage. Medieval fortified city. Porto Montenegro superyachts."
+  },
+  {
+    "id": "38233",
+    "code": "33",
+    "country": "ME",
+    "region": "Budva",
+    "city": "",
+    "e164": "38233",
+    "notes": "Tourism metropolis. Medieval Old Town and nightlife."
+  },
+  {
+    "id": "38240",
+    "code": "40",
+    "country": "ME",
+    "region": "Nikšić",
+    "city": "",
+    "e164": "38240",
+    "notes": "Industrial center. Nikšićko beer brewery."
+  },
+  {
+    "id": "38250",
+    "code": "50",
+    "country": "ME",
+    "region": "Bijelo Polje",
+    "city": "",
+    "e164": "38250",
+    "notes": "Center of the north. Tara River proximity."
+  },
+  {
+    "id": "38267",
+    "code": "67",
+    "country": "ME",
+    "region": "Mobile",
+    "city": "",
+    "e164": "38267",
+    "notes": "T-Mobile"
+  },
+  {
+    "id": "38268",
+    "code": "68",
+    "country": "ME",
+    "region": "Mobile",
+    "city": "",
+    "e164": "38268",
+    "notes": "m:tel"
+  },
+  {
+    "id": "38269",
+    "code": "69",
+    "country": "ME",
+    "region": "Mobile",
+    "city": "",
+    "e164": "38269",
+    "notes": "Telenor"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "441624",
+    "code": "1624",
+    "country": "IM",
+    "region": "Isle of Man",
+    "city": "",
+    "e164": "441624",
+    "notes": "Main landline code for the island"
+  },
+  {
+    "id": "447624",
+    "code": "7624",
+    "country": "IM",
+    "region": "Mobile",
+    "city": "",
+    "e164": "447624",
+    "notes": "Main mobile code for the island"
+  },
+  {
+    "id": "447524",
+    "code": "7524",
+    "country": "IM",
+    "region": "Mobile",
+    "city": "",
+    "e164": "447524",
+    "notes": "Additional mobile capacity"
+  },
+  {
+    "id": "447924",
+    "code": "7924",
+    "country": "IM",
+    "region": "Mobile",
+    "city": "",
+    "e164": "447924",
+    "notes": "Additional mobile capacity"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "468",
+    "code": "8",
+    "country": "SE",
+    "region": "Stockholm",
+    "city": "",
+    "e164": "468",
+    "notes": "The Capital. 14 islands. Gamla Stan (Old Town). Vasa Museum."
+  },
+  {
+    "id": "4631",
+    "code": "31",
+    "country": "SE",
+    "region": "Gothenburg",
+    "city": "",
+    "e164": "4631",
+    "notes": "Major port. Volvo HQ. Liseberg amusement park."
+  },
+  {
+    "id": "4640",
+    "code": "40",
+    "country": "SE",
+    "region": "Malmö",
+    "city": "",
+    "e164": "4640",
+    "notes": "Turning Torso. Öresund Bridge connection to Copenhagen."
+  },
+  {
+    "id": "4618",
+    "code": "18",
+    "country": "SE",
+    "region": "Uppsala",
+    "city": "",
+    "e164": "4618",
+    "notes": "Ecclesiastical center. Oldest university in Scandinavia."
+  },
+  {
+    "id": "4613",
+    "code": "13",
+    "country": "SE",
+    "region": "Linköping",
+    "city": "",
+    "e164": "4613",
+    "notes": "Aviation city (SAAB). University town."
+  },
+  {
+    "id": "4690",
+    "code": "90",
+    "country": "SE",
+    "region": "Umeå",
+    "city": "",
+    "e164": "4690",
+    "notes": "City of Birches. European Capital of Culture 2014."
+  },
+  {
+    "id": "46498",
+    "code": "498",
+    "country": "SE",
+    "region": "Visby",
+    "city": "",
+    "e164": "46498",
+    "notes": "Hanseatic walled town (UNESCO). Summer vacation island."
+  },
+  {
+    "id": "4670",
+    "code": "70",
+    "country": "SE",
+    "region": "Mobile",
+    "city": "",
+    "e164": "4670",
+    "notes": "Telia / Other"
+  }
+]

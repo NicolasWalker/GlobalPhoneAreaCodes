@@ -1,0 +1,47 @@
+[
+  {
+    "id": "3545",
+    "code": "5",
+    "country": "IS",
+    "region": "Reykjavík",
+    "city": "Kópavogur",
+    "e164": "3545",
+    "notes": "Numbers starting with 5 are mostly Capital Area fixed lines"
+  },
+  {
+    "id": "3544",
+    "code": "4",
+    "country": "IS",
+    "region": "Akureyri",
+    "city": "Keflavík",
+    "e164": "3544",
+    "notes": "Numbers starting with 4 are often regional fixed lines"
+  },
+  {
+    "id": "3546",
+    "code": "6",
+    "country": "IS",
+    "region": "Mobile",
+    "city": "",
+    "e164": "3546",
+    "notes": "Mobile numbers often start with 6"
+  },
+  {
+    "id": "3547",
+    "code": "7",
+    "country": "IS",
+    "region": "Mobile",
+    "city": "",
+    "e164": "3547",
+    "notes": "Mobile numbers often start with 7"
+  },
+  {
+    "id": "3548",
+    "code": "8",
+    "country": "IS",
+    "region": "Mobile/Special",
+    "city": "",
+    "e164": "3548",
+    "notes": "Mobile and special service numbers"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "id": "4021",
+    "code": "21",
+    "country": "RO",
+    "region": "Bucharest",
+    "city": "",
+    "e164": "4021",
+    "notes": "The Capital. 'Little Paris'. Palace of the Parliament (heaviest building)."
+  },
+  {
+    "id": "40232",
+    "code": "232",
+    "country": "RO",
+    "region": "Iași",
+    "city": "",
+    "e164": "40232",
+    "notes": "Cultural Capital. Palace of Culture. Oldest University."
+  },
+  {
+    "id": "40241",
+    "code": "241",
+    "country": "RO",
+    "region": "Constanța",
+    "city": "",
+    "e164": "40241",
+    "notes": "Black Sea port. Mamaia beach resort. Ancient Tomis."
+  },
+  {
+    "id": "40251",
+    "code": "251",
+    "country": "RO",
+    "region": "Craiova",
+    "city": "",
+    "e164": "40251",
+    "notes": "Oltenia capital. Art Museum (Brancusi works)."
+  },
+  {
+    "id": "40256",
+    "code": "256",
+    "country": "RO",
+    "region": "Timișoara",
+    "city": "",
+    "e164": "40256",
+    "notes": "'Little Vienna'. 1989 Revolution birthplace. European Capital of Culture 2023."
+  },
+  {
+    "id": "40264",
+    "code": "264",
+    "country": "RO",
+    "region": "Cluj-Napoca",
+    "city": "",
+    "e164": "40264",
+    "notes": "Transylvania's heart. Untold Festival. IT hub."
+  },
+  {
+    "id": "40268",
+    "code": "268",
+    "country": "RO",
+    "region": "Brașov",
+    "city": "",
+    "e164": "40268",
+    "notes": "Medieval Saxon city. Gateway to Bran (Dracula) Castle."
+  },
+  {
+    "id": "40269",
+    "code": "269",
+    "country": "RO",
+    "region": "Sibiu",
+    "city": "",
+    "e164": "40269",
+    "notes": "European Capital of Culture 2007. Brukenthal Museum. Saxon heritage."
+  },
+  {
+    "id": "4072",
+    "code": "72",
+    "country": "RO",
+    "region": "Mobile",
+    "city": "",
+    "e164": "4072",
+    "notes": "Vodafone"
+  },
+  {
+    "id": "4074",
+    "code": "74",
+    "country": "RO",
+    "region": "Mobile",
+    "city": "",
+    "e164": "4074",
+    "notes": "Orange"
+  },
+  {
+    "id": "4076",
+    "code": "76",
+    "country": "RO",
+    "region": "Mobile",
+    "city": "",
+    "e164": "4076",
+    "notes": "Telekom"
+  },
+  {
+    "id": "4077",
+    "code": "77",
+    "country": "RO",
+    "region": "Mobile",
+    "city": "",
+    "e164": "4077",
+    "notes": "Digi.Mobil"
+  }
+]

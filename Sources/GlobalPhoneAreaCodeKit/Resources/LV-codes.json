@@ -1,0 +1,74 @@
+[
+  {
+    "id": "37167",
+    "code": "67",
+    "country": "LV",
+    "region": "Riga",
+    "city": "",
+    "e164": "37167",
+    "notes": "The Capital. Art Nouveau architecture (UNESCO). Medieval Old Town."
+  },
+  {
+    "id": "371630",
+    "code": "630",
+    "country": "LV",
+    "region": "Jelgava",
+    "city": "",
+    "e164": "371630",
+    "notes": "Jelgava Palace (Rastrelli). Former capital of Courland."
+  },
+  {
+    "id": "371634",
+    "code": "634",
+    "country": "LV",
+    "region": "Liepāja",
+    "city": "",
+    "e164": "371634",
+    "notes": "'City where the wind is born'. Port and musical capital."
+  },
+  {
+    "id": "371654",
+    "code": "654",
+    "country": "LV",
+    "region": "Daugavpils",
+    "city": "",
+    "e164": "371654",
+    "notes": "Second largest city. Daugavpils Fortress. Rothko Center."
+  },
+  {
+    "id": "371636",
+    "code": "636",
+    "country": "LV",
+    "region": "Ventspils",
+    "city": "",
+    "e164": "371636",
+    "notes": "Wealthy port city. Blue Flag beach. Cow Parade."
+  },
+  {
+    "id": "371642",
+    "code": "642",
+    "country": "LV",
+    "region": "Valmiera",
+    "city": "",
+    "e164": "371642",
+    "notes": "Gateway to Gauja National Park. Hanseatic city."
+  },
+  {
+    "id": "371646",
+    "code": "646",
+    "country": "LV",
+    "region": "Rēzekne",
+    "city": "",
+    "e164": "371646",
+    "notes": "'Heart of Latgale'. GORS concert hall."
+  },
+  {
+    "id": "3712",
+    "code": "2",
+    "country": "LV",
+    "region": "Mobile",
+    "city": "",
+    "e164": "3712",
+    "notes": "Mobile network services (LMT / Tele2 / Bite)"
+  }
+]

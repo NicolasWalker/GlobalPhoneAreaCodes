@@ -1,0 +1,110 @@
+[
+  {
+    "id": "3491",
+    "code": "91",
+    "country": "ES",
+    "region": "Madrid",
+    "city": "",
+    "e164": "3491",
+    "notes": "The capital. Museums (Prado), Retiro Park, and political center."
+  },
+  {
+    "id": "3493",
+    "code": "93",
+    "country": "ES",
+    "region": "Barcelona",
+    "city": "",
+    "e164": "3493",
+    "notes": "Catalan capital. Gaudi architecture, beach city lifestyle."
+  },
+  {
+    "id": "3495",
+    "code": "95",
+    "country": "ES",
+    "region": "Seville / Malaga / Granada",
+    "city": "",
+    "e164": "3495",
+    "notes": "Flamenco heartland. Alhambra, Costa del Sol."
+  },
+  {
+    "id": "3496",
+    "code": "96",
+    "country": "ES",
+    "region": "Valencia",
+    "city": "",
+    "e164": "3496",
+    "notes": "Paella birthplace. City of Arts and Sciences."
+  },
+  {
+    "id": "3494",
+    "code": "94",
+    "country": "ES",
+    "region": "Bilbao / San Sebastian",
+    "city": "",
+    "e164": "3494",
+    "notes": "Culinary capital (pintxos). Guggenheim Museum."
+  },
+  {
+    "id": "34981",
+    "code": "981",
+    "country": "ES",
+    "region": "A Coruña / Santiago de Compostela",
+    "city": "",
+    "e164": "34981",
+    "notes": "End of the Camino de Santiago pilgrimage route."
+  },
+  {
+    "id": "34922",
+    "code": "922",
+    "country": "ES",
+    "region": "Santa Cruz de Tenerife",
+    "city": "",
+    "e164": "34922",
+    "notes": "Volcanic landscapes (Teide). Winter sun destination."
+  },
+  {
+    "id": "34928",
+    "code": "928",
+    "country": "ES",
+    "region": "Las Palmas",
+    "city": "",
+    "e164": "34928",
+    "notes": "Gran Canaria resorts and dunes."
+  },
+  {
+    "id": "34971",
+    "code": "971",
+    "country": "ES",
+    "region": "Palma de Mallorca / Ibiza",
+    "city": "",
+    "e164": "34971",
+    "notes": "Summer party capital and Mediterranean sailing."
+  },
+  {
+    "id": "34876",
+    "code": "876",
+    "country": "ES",
+    "region": "Zaragoza",
+    "city": "",
+    "e164": "34876",
+    "notes": "Ebro River city. Pillar Basilica."
+  },
+  {
+    "id": "346",
+    "code": "6",
+    "country": "ES",
+    "region": "Mobile",
+    "city": "",
+    "e164": "346",
+    "notes": "Mobile services (600-699)"
+  },
+  {
+    "id": "347",
+    "code": "7",
+    "country": "ES",
+    "region": "Mobile",
+    "city": "",
+    "e164": "347",
+    "notes": "Mobile services (700-799)"
+  }
+]
